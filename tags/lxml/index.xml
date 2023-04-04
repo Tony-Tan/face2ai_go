@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Lxml on 谭升的博客</title>
+    <link>https://go.face2ai.com/tags/lxml/</link>
+    <description>Recent content in Lxml on 谭升的博客</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Tue, 06 Mar 2018 12:30:41 +0000</lastBuildDate><atom:link href="https://go.face2ai.com/tags/lxml/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>【爬虫】3.3 数据抓取</title>
+      <link>https://go.face2ai.com/%E7%BC%96%E7%A8%8B/crawler/crawler-3-3-%E6%95%B0%E6%8D%AE%E6%8A%93%E5%8F%96.zh/</link>
+      <pubDate>Tue, 06 Mar 2018 12:30:41 +0000</pubDate>
+      
+      <guid>https://go.face2ai.com/%E7%BC%96%E7%A8%8B/crawler/crawler-3-3-%E6%95%B0%E6%8D%AE%E6%8A%93%E5%8F%96.zh/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; 介绍三种网页抓取的方法
+&lt;strong&gt;Keywords:&lt;/strong&gt; 正则表达式,Beautiful Soup,Lxml&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

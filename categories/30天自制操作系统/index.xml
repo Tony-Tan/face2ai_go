@@ -1,0 +1,218 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>30天自制操作系统 on 谭升的博客</title>
+    <link>https://go.face2ai.com/categories/30%E5%A4%A9%E8%87%AA%E5%88%B6%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F/</link>
+    <description>Recent content in 30天自制操作系统 on 谭升的博客</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Fri, 13 Dec 2013 14:42:00 +0000</lastBuildDate><atom:link href="https://go.face2ai.com/categories/30%E5%A4%A9%E8%87%AA%E5%88%B6%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>30天自制操作系统</title>
+      <link>https://go.face2ai.com/%E7%BC%96%E7%A8%8B/30-days/30_days_system/</link>
+      <pubDate>Fri, 13 Dec 2013 14:42:00 +0000</pubDate>
+      
+      <guid>https://go.face2ai.com/%E7%BC%96%E7%A8%8B/30-days/30_days_system/</guid>
+      <description>30天自制操作系统1 Mac下工具的使用 现在来介绍官网上下的工具怎么用首先是官网地址，书上有个注释上有:hrb.osask.jp 翻译成中文大概是这个样子滴。
+上面有两个文件可以下载，一个是工具，一个是工具的源代码，很好的学习资料
+下面把工具复制出来
+看到很多可执行文件。。感觉好舒服。。
+然后把我们随便一个project复制到z_tools的同级目录下
+project的内容可以修改，因为批处理可以下岗了：
+然后可能是难度最大的部分出现了:修改makefile
+如果没用过makefile可以先找点资料看看。很简单的语法，很强大的功能： 修改完成后是：
+ TOOLPATH = ../z_tools/ INCPATH = ../z_tools/haribote/ ################################################### MAKE = make NASK = $(TOOLPATH)nask CC1 = $(TOOLPATH)gocc1 -I$(INCPATH) -Os -Wall -quiet GAS2NASK = $(TOOLPATH)gas2nask -a OBJ2BIM = $(TOOLPATH)obj2bim BIM2HRB = $(TOOLPATH)bim2hrb RULEFILE = $(TOOLPATH)haribote/haribote.rul EDIMG = $(TOOLPATH)edimg IMGTOL = $(TOOLPATH)imgtol.com COPY = cp DEL = rm ################################################### ## ÉfÉtÉHÉãÉgìÆçÏ default : $(MAKE) img ## ÉtÉ@ÉCÉãê∂ê¨ãKë• ipl10.bin : ipl10.nas Makefile $(NASK) ipl10.</description>
+    </item>
+    
+    <item>
+      <title>【30天自制操作系】 定时器</title>
+      <link>https://go.face2ai.com/%E7%BC%96%E7%A8%8B/30-days/30%E5%A4%A9%E8%87%AA%E5%88%B6%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0--%E7%AC%AC11%E5%A4%A9.zh/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://go.face2ai.com/%E7%BC%96%E7%A8%8B/30-days/30%E5%A4%A9%E8%87%AA%E5%88%B6%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0--%E7%AC%AC11%E5%A4%A9.zh/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; 《30天自制操作系统》闪烁和定时器
+&lt;strong&gt;Keywords:&lt;/strong&gt; 《30天自制操作系统》，Macbook，定时器&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>【30天自制操作系统】 FIFO</title>
+      <link>https://go.face2ai.com/%E7%BC%96%E7%A8%8B/30-days/30%E5%A4%A9%E8%87%AA%E5%88%B6%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0--%E7%AC%AC13%E5%A4%A9.zh/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://go.face2ai.com/%E7%BC%96%E7%A8%8B/30-days/30%E5%A4%A9%E8%87%AA%E5%88%B6%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0--%E7%AC%AC13%E5%A4%A9.zh/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; 《30天自制操作系统》FIFO
+&lt;strong&gt;Keywords:&lt;/strong&gt; 《30天自制操作系统》，Macbook，FIFO&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>【30天自制操作系统】 GDT和IDT</title>
+      <link>https://go.face2ai.com/%E7%BC%96%E7%A8%8B/30-days/30%E5%A4%A9%E8%87%AA%E5%88%B6%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0--%E7%AC%AC5%E5%A4%A9.zh/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://go.face2ai.com/%E7%BC%96%E7%A8%8B/30-days/30%E5%A4%A9%E8%87%AA%E5%88%B6%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0--%E7%AC%AC5%E5%A4%A9.zh/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; 《30天自制操作系统》GDT和IDT介绍
+&lt;strong&gt;Keywords:&lt;/strong&gt; 《30天自制操作系统》，Macbook，GDT，IDT&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>【30天自制操作系统】 IPL，BIOS</title>
+      <link>https://go.face2ai.com/%E7%BC%96%E7%A8%8B/30-days/30%E5%A4%A9%E8%87%AA%E5%88%B6%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0--%E7%AC%AC3%E5%A4%A9.zh/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://go.face2ai.com/%E7%BC%96%E7%A8%8B/30-days/30%E5%A4%A9%E8%87%AA%E5%88%B6%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0--%E7%AC%AC3%E5%A4%A9.zh/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;《30天自制操作系统》IPL机制，BIOS介绍
+&lt;strong&gt;Keywords:&lt;/strong&gt; IPL，BIOS&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>【30天自制操作系统】 Mac环境下的工具介绍</title>
+      <link>https://go.face2ai.com/%E7%BC%96%E7%A8%8B/30-days/30%E5%A4%A9%E8%87%AA%E5%88%B6%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0--%E7%95%AA%E5%A4%96%E7%AF%87%E4%B9%8Bmac%E7%8E%AF%E5%A2%83%E4%B8%8B%E7%9A%84%E5%B7%A5%E5%85%B7%E4%BB%8B%E7%BB%8D.zh/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://go.face2ai.com/%E7%BC%96%E7%A8%8B/30-days/30%E5%A4%A9%E8%87%AA%E5%88%B6%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0--%E7%95%AA%E5%A4%96%E7%AF%87%E4%B9%8Bmac%E7%8E%AF%E5%A2%83%E4%B8%8B%E7%9A%84%E5%B7%A5%E5%85%B7%E4%BB%8B%E7%BB%8D.zh/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Mac 下 《30天自制操作系统》环境工具介绍
+&lt;strong&gt;Keywords:&lt;/strong&gt; 《30天自制操作系统》，Macbook，环境，工具&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>【30天自制操作系统】 Mac环境搭建</title>
+      <link>https://go.face2ai.com/%E7%BC%96%E7%A8%8B/30-days/30%E5%A4%A9%E8%87%AA%E5%88%B6%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0--mac%E7%8E%AF%E5%A2%83%E6%90%AD%E5%BB%BA.zh/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://go.face2ai.com/%E7%BC%96%E7%A8%8B/30-days/30%E5%A4%A9%E8%87%AA%E5%88%B6%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0--mac%E7%8E%AF%E5%A2%83%E6%90%AD%E5%BB%BA.zh/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Mac 下 《30天自制操作系统》环境
+&lt;strong&gt;Keywords:&lt;/strong&gt; 《30天自制操作系统》，Macbook，环境&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>【30天自制操作系统】 一个半成品</title>
+      <link>https://go.face2ai.com/%E7%BC%96%E7%A8%8B/30-days/30%E5%A4%A9%E8%87%AA%E5%88%B6%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0--%E7%AC%AC%E5%A5%BD%E5%A4%9A%E5%A4%A9.zh/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://go.face2ai.com/%E7%BC%96%E7%A8%8B/30-days/30%E5%A4%A9%E8%87%AA%E5%88%B6%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0--%E7%AC%AC%E5%A5%BD%E5%A4%9A%E5%A4%A9.zh/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; 一个半成品
+&lt;strong&gt;Keywords:&lt;/strong&gt; 《30天自制操作系统》，Macbook，半成品&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>【30天自制操作系统】 中断</title>
+      <link>https://go.face2ai.com/%E7%BC%96%E7%A8%8B/30-days/30%E5%A4%A9%E8%87%AA%E5%88%B6%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0--%E7%AC%AC7%E5%A4%A9.zh/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://go.face2ai.com/%E7%BC%96%E7%A8%8B/30-days/30%E5%A4%A9%E8%87%AA%E5%88%B6%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0--%E7%AC%AC7%E5%A4%A9.zh/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; 《30天自制操作系统》中断处理程序
+&lt;strong&gt;Keywords:&lt;/strong&gt; 《30天自制操作系统》，Macbook，中断处理程序&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>【30天自制操作系统】 中断处理</title>
+      <link>https://go.face2ai.com/%E7%BC%96%E7%A8%8B/30-days/30%E5%A4%A9%E8%87%AA%E5%88%B6%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0--%E7%AC%AC6%E5%A4%A9.zh/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://go.face2ai.com/%E7%BC%96%E7%A8%8B/30-days/30%E5%A4%A9%E8%87%AA%E5%88%B6%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0--%E7%AC%AC6%E5%A4%A9.zh/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; 《30天自制操作系统》中断处理
+&lt;strong&gt;Keywords:&lt;/strong&gt; 《30天自制操作系统》，Macbook，中断&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>【30天自制操作系统】 保护模式</title>
+      <link>https://go.face2ai.com/%E7%BC%96%E7%A8%8B/30-days/30%E5%A4%A9%E8%87%AA%E5%88%B6%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0--%E7%AC%AC2%E5%A4%A9.zh/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://go.face2ai.com/%E7%BC%96%E7%A8%8B/30-days/30%E5%A4%A9%E8%87%AA%E5%88%B6%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0--%E7%AC%AC2%E5%A4%A9.zh/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; 软盘，启动，保护模式的初次使用
+&lt;strong&gt;Keywords:&lt;/strong&gt; 《30天自制操作系统》，Macbook，软盘，启动，保护模式&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>【30天自制操作系统】 内存管理</title>
+      <link>https://go.face2ai.com/%E7%BC%96%E7%A8%8B/30-days/30%E5%A4%A9%E8%87%AA%E5%88%B6%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0--%E7%AC%AC9%E5%A4%A9.zh/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://go.face2ai.com/%E7%BC%96%E7%A8%8B/30-days/30%E5%A4%A9%E8%87%AA%E5%88%B6%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0--%E7%AC%AC9%E5%A4%A9.zh/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; 30天自制操作系统》内存管理
+&lt;strong&gt;Keywords:&lt;/strong&gt; 《30天自制操作系统》，Macbook，内存管理&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>【30天自制操作系统】 内存管理和叠加处理</title>
+      <link>https://go.face2ai.com/%E7%BC%96%E7%A8%8B/30-days/30%E5%A4%A9%E8%87%AA%E5%88%B6%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0--%E7%AC%AC10%E5%A4%A9.zh/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://go.face2ai.com/%E7%BC%96%E7%A8%8B/30-days/30%E5%A4%A9%E8%87%AA%E5%88%B6%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0--%E7%AC%AC10%E5%A4%A9.zh/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; 《30天自制操作系统》内存管理和叠加处理
+&lt;strong&gt;Keywords:&lt;/strong&gt; 《30天自制操作系统》，Macbook，内存管理,叠加处理&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>【30天自制操作系统】 计时器</title>
+      <link>https://go.face2ai.com/%E7%BC%96%E7%A8%8B/30-days/30%E5%A4%A9%E8%87%AA%E5%88%B6%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0--%E7%AC%AC12%E5%A4%A9.zh/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://go.face2ai.com/%E7%BC%96%E7%A8%8B/30-days/30%E5%A4%A9%E8%87%AA%E5%88%B6%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0--%E7%AC%AC12%E5%A4%A9.zh/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; 《30天自制操作系统》计时器
+&lt;strong&gt;Keywords:&lt;/strong&gt; 《30天自制操作系统》，Macbook，计时器&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>【30天自制操作系统】 高分辨率</title>
+      <link>https://go.face2ai.com/%E7%BC%96%E7%A8%8B/30-days/30%E5%A4%A9%E8%87%AA%E5%88%B6%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0--%E7%AC%AC14%E5%A4%A9.zh/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://go.face2ai.com/%E7%BC%96%E7%A8%8B/30-days/30%E5%A4%A9%E8%87%AA%E5%88%B6%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0--%E7%AC%AC14%E5%A4%A9.zh/</guid>
+      <description>Abstract: 《30天自制操作系统》高分辨率 Keywords: 《30天自制操作系统》，Macbook，高分辨率
+高分辨率 高分辨率，这个是个必须要说的话题，因为好像没有啥电脑显示器用320*200的分辨率了，所以提高分辨率势在必行。。哈哈 一个重要的操作就是查询VBE 中断编号 0x10 参数ES：DI指向的地址将会被VBE的内容覆盖 参数AX存储一个返回值，如果是0x004f就是有VBE不是这个值，就意味着VBE不可用 画面模式信息：
+ WORD 【ES:DI + 0x00】 :模式属性 WORD 【ES:DI + 0x12】 :x分辨率 WORD 【ES:DI + 0x14】 :y分辨率 BYTE 【ES:DI + 0x19】 :颜色数。。。必须为8 BYTE 【ES:DI + 0x1b】 :颜色的指定方法。。。必须为4（4为调色板模式） DWORD 【ES:DI + 0x28】 :VRAM的地址 ``` 然后就是现实键盘输入，移动对话框，不在赘述 </description>
+    </item>
+    
+    <item>
+      <title>【30天自制操作系统】 鼠标</title>
+      <link>https://go.face2ai.com/%E7%BC%96%E7%A8%8B/30-days/30%E5%A4%A9%E8%87%AA%E5%88%B6%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0--%E7%AC%AC8%E5%A4%A9.zh/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://go.face2ai.com/%E7%BC%96%E7%A8%8B/30-days/30%E5%A4%A9%E8%87%AA%E5%88%B6%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0--%E7%AC%AC8%E5%A4%A9.zh/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; 《30天自制操作系统》鼠标显示
+&lt;strong&gt;Keywords:&lt;/strong&gt; 《30天自制操作系统》，Macbook，鼠标&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>【30天自制操作系统】Mac下工具的使用</title>
+      <link>https://go.face2ai.com/%E7%BC%96%E7%A8%8B/30-days/30%E5%A4%A9%E8%87%AA%E5%88%B6%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0--mac%E4%B8%8B%E5%B7%A5%E5%85%B7%E7%9A%84%E4%BD%BF%E7%94%A8.zh/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://go.face2ai.com/%E7%BC%96%E7%A8%8B/30-days/30%E5%A4%A9%E8%87%AA%E5%88%B6%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0--mac%E4%B8%8B%E5%B7%A5%E5%85%B7%E7%9A%84%E4%BD%BF%E7%94%A8.zh/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Mac 下 《30天自制操作系统》工具使用
+&lt;strong&gt;Keywords:&lt;/strong&gt; 《30天自制操作系统》，Macbook，环境，工具&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>【30天自制操作系统】多任务 I</title>
+      <link>https://go.face2ai.com/%E7%BC%96%E7%A8%8B/30-days/30%E5%A4%A9%E8%87%AA%E5%88%B6%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0--%E7%AC%AC15%E5%A4%A9.zh/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://go.face2ai.com/%E7%BC%96%E7%A8%8B/30-days/30%E5%A4%A9%E8%87%AA%E5%88%B6%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0--%E7%AC%AC15%E5%A4%A9.zh/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; 《30天自制操作系统》多任务
+&lt;strong&gt;Keywords:&lt;/strong&gt; 《30天自制操作系统》，Macbook，多任务&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>【30天自制操作系统】多任务 II</title>
+      <link>https://go.face2ai.com/%E7%BC%96%E7%A8%8B/30-days/30%E5%A4%A9%E8%87%AA%E5%88%B6%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0--%E7%AC%AC16%E5%A4%A9.zh/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://go.face2ai.com/%E7%BC%96%E7%A8%8B/30-days/30%E5%A4%A9%E8%87%AA%E5%88%B6%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0--%E7%AC%AC16%E5%A4%A9.zh/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; 《30天自制操作系统》多任务
+&lt;strong&gt;Keywords:&lt;/strong&gt; 《30天自制操作系统》，Macbook，环境&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>【30天自制操作系统】汇编与C语言</title>
+      <link>https://go.face2ai.com/%E7%BC%96%E7%A8%8B/30-days/30%E5%A4%A9%E8%87%AA%E5%88%B6%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0--%E7%AC%AC4%E5%A4%A9.zh/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://go.face2ai.com/%E7%BC%96%E7%A8%8B/30-days/30%E5%A4%A9%E8%87%AA%E5%88%B6%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0--%E7%AC%AC4%E5%A4%A9.zh/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; 汇编调用C语言
+&lt;strong&gt;Keywords:&lt;/strong&gt; 《30天自制操作系统》，Macbook，汇编调用C语言，C语言调用汇编&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

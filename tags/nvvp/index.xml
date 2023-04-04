@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>NVVP on 谭升的博客</title>
+    <link>https://go.face2ai.com/tags/nvvp/</link>
+    <description>Recent content in NVVP on 谭升的博客</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Sun, 10 Jun 2018 20:21:37 +0000</lastBuildDate><atom:link href="https://go.face2ai.com/tags/nvvp/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>【CUDA 基础】6.0 流和并发</title>
+      <link>https://go.face2ai.com/%E7%BC%96%E7%A8%8B/cuda/cuda-f-6-0-%E6%B5%81%E5%92%8C%E5%B9%B6%E5%8F%91.zh/</link>
+      <pubDate>Sun, 10 Jun 2018 20:21:37 +0000</pubDate>
+      
+      <guid>https://go.face2ai.com/%E7%BC%96%E7%A8%8B/cuda/cuda-f-6-0-%E6%B5%81%E5%92%8C%E5%B9%B6%E5%8F%91.zh/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; 本文是第六章的概述，本章也是Freshman的最后一个章节。
+&lt;strong&gt;Keywords:&lt;/strong&gt; 流，事件，网格级并行，同步机制，NVVP&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

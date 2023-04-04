@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Squashing function on 谭升的博客</title>
+    <link>https://go.face2ai.com/tags/squashing-function/</link>
+    <description>Recent content in Squashing function on 谭升的博客</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Wed, 13 Sep 2017 16:05:58 +0000</lastBuildDate><atom:link href="https://go.face2ai.com/tags/squashing-function/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>LeNet论文解读</title>
+      <link>https://go.face2ai.com/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0/deep-learning-lenet.zh/</link>
+      <pubDate>Wed, 13 Sep 2017 16:05:58 +0000</pubDate>
+      
+      <guid>https://go.face2ai.com/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0/deep-learning-lenet.zh/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; 学习LeNet的论文总结Stochastic Gradient 与 Batch Gradient 的比较 以及收敛速度
+&lt;strong&gt;Keywords:&lt;/strong&gt; Stochastic Gradient,Batch Gradient，Faster Convergence&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

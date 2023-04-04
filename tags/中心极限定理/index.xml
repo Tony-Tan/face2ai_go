@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>中心极限定理 on 谭升的博客</title>
+    <link>https://go.face2ai.com/tags/%E4%B8%AD%E5%BF%83%E6%9E%81%E9%99%90%E5%AE%9A%E7%90%86/</link>
+    <description>Recent content in 中心极限定理 on 谭升的博客</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Mon, 09 Apr 2018 15:25:31 +0000</lastBuildDate><atom:link href="https://go.face2ai.com/tags/%E4%B8%AD%E5%BF%83%E6%9E%81%E9%99%90%E5%AE%9A%E7%90%86/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>【概率论】6-4:分布连续性修正(The Correction for Continuity)</title>
+      <link>https://go.face2ai.com/math/math-probability-6-4-the-correction-for-continuity.zh/</link>
+      <pubDate>Mon, 09 Apr 2018 15:25:31 +0000</pubDate>
+      
+      <guid>https://go.face2ai.com/math/math-probability-6-4-the-correction-for-continuity.zh/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; 本文介绍如何使用中心极限定理，将某区间上离散的随机变量，用一段连续的正态分布来近似
+&lt;strong&gt;Keywords:&lt;/strong&gt; The Central Limit Theorem，Approximation&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>【概率论】6-3:中心极限定理(The Central Limit Theorem)</title>
+      <link>https://go.face2ai.com/math/math-probability-6-3-the-central-limit-theorem.zh/</link>
+      <pubDate>Mon, 09 Apr 2018 09:21:44 +0000</pubDate>
+      
+      <guid>https://go.face2ai.com/math/math-probability-6-3-the-central-limit-theorem.zh/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; 本文介绍中心极限定理
+&lt;strong&gt;Keywords:&lt;/strong&gt; The Central Limit Theorem，The Normal distribution，The Delta Method&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

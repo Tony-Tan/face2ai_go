@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>CIE XYZ on 谭升的博客</title>
+    <link>https://go.face2ai.com/tags/cie-xyz/</link>
+    <description>Recent content in CIE XYZ on 谭升的博客</description>
+    <generator>Hugo -- gohugo.io</generator><atom:link href="https://go.face2ai.com/tags/cie-xyz/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>【数字图像处理】8.0:彩色模型，CIE XYZ，CIE RGB</title>
+      <link>https://go.face2ai.com/%E7%BC%96%E7%A8%8B/dip/dip-8-0-%E5%BD%A9%E8%89%B2%E6%A8%A1%E5%9E%8B-ciexyz-ciergb.zh/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://go.face2ai.com/%E7%BC%96%E7%A8%8B/dip/dip-8-0-%E5%BD%A9%E8%89%B2%E6%A8%A1%E5%9E%8B-ciexyz-ciergb.zh/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; 数字图像处理：第60天
+&lt;strong&gt;Keywords:&lt;/strong&gt; CIE XYZ,CIE 1931&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>距生成函数 on 谭升的博客</title>
+    <link>https://go.face2ai.com/tags/%E8%B7%9D%E7%94%9F%E6%88%90%E5%87%BD%E6%95%B0/</link>
+    <description>Recent content in 距生成函数 on 谭升的博客</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Sun, 25 Mar 2018 10:58:47 +0000</lastBuildDate><atom:link href="https://go.face2ai.com/tags/%E8%B7%9D%E7%94%9F%E6%88%90%E5%87%BD%E6%95%B0/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>【概率论】4-4:距(Moments)</title>
+      <link>https://go.face2ai.com/math/math-probability-4-4-moments.zh/</link>
+      <pubDate>Sun, 25 Mar 2018 10:58:47 +0000</pubDate>
+      
+      <guid>https://go.face2ai.com/math/math-probability-4-4-moments.zh/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; 本文介绍另一个基于期望的随机变量分布的数字特征——“矩” （不知道咋翻译的，英文moment表示时刻,瞬间等意思）
+&lt;strong&gt;Keywords:&lt;/strong&gt; Moments，Moments Generating Function&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

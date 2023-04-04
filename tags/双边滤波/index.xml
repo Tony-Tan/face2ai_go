@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>双边滤波 on 谭升的博客</title>
+    <link>https://go.face2ai.com/tags/%E5%8F%8C%E8%BE%B9%E6%BB%A4%E6%B3%A2/</link>
+    <description>Recent content in 双边滤波 on 谭升的博客</description>
+    <generator>Hugo -- gohugo.io</generator><atom:link href="https://go.face2ai.com/tags/%E5%8F%8C%E8%BE%B9%E6%BB%A4%E6%B3%A2/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>【数字图像处理】10.2:彩色图像-图像增强 图像平滑</title>
+      <link>https://go.face2ai.com/%E7%BC%96%E7%A8%8B/dip/dip-10-2-%E5%BD%A9%E8%89%B2%E5%9B%BE%E5%83%8F-%E5%9B%BE%E5%83%8F%E5%A2%9E%E5%BC%BA-%E5%9B%BE%E5%83%8F%E5%B9%B3%E6%BB%91.zh/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://go.face2ai.com/%E7%BC%96%E7%A8%8B/dip/dip-10-2-%E5%BD%A9%E8%89%B2%E5%9B%BE%E5%83%8F-%E5%9B%BE%E5%83%8F%E5%A2%9E%E5%BC%BA-%E5%9B%BE%E5%83%8F%E5%B9%B3%E6%BB%91.zh/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; 数字图像处理：第71天
+&lt;strong&gt;Keywords:&lt;/strong&gt; 高斯滤波,均值滤波,双边滤波,中值滤波&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>【数字图像处理】5.3:灰度图像-图像增强 双边滤波 Bilateral Filtering</title>
+      <link>https://go.face2ai.com/%E7%BC%96%E7%A8%8B/dip/dip-5-3-%E7%81%B0%E5%BA%A6%E5%9B%BE%E5%83%8F-%E5%9B%BE%E5%83%8F%E5%A2%9E%E5%BC%BA-%E5%8F%8C%E8%BE%B9%E6%BB%A4%E6%B3%A2bilateralfiltering.zh/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://go.face2ai.com/%E7%BC%96%E7%A8%8B/dip/dip-5-3-%E7%81%B0%E5%BA%A6%E5%9B%BE%E5%83%8F-%E5%9B%BE%E5%83%8F%E5%A2%9E%E5%BC%BA-%E5%8F%8C%E8%BE%B9%E6%BB%A4%E6%B3%A2bilateralfiltering.zh/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; 数字图像处理：第29天
+&lt;strong&gt;Keywords:&lt;/strong&gt; 双边滤波&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

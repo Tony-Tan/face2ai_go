@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>CUDA共享内存配置 on 谭升的博客</title>
+    <link>https://go.face2ai.com/tags/cuda%E5%85%B1%E4%BA%AB%E5%86%85%E5%AD%98%E9%85%8D%E7%BD%AE/</link>
+    <description>Recent content in CUDA共享内存配置 on 谭升的博客</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Fri, 01 Jun 2018 17:46:23 +0000</lastBuildDate><atom:link href="https://go.face2ai.com/tags/cuda%E5%85%B1%E4%BA%AB%E5%86%85%E5%AD%98%E9%85%8D%E7%BD%AE/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>【CUDA 基础】5.1 CUDA共享内存概述</title>
+      <link>https://go.face2ai.com/%E7%BC%96%E7%A8%8B/cuda/cuda-f-5-1-cuda%E5%85%B1%E4%BA%AB%E5%86%85%E5%AD%98%E6%A6%82%E8%BF%B0.zh/</link>
+      <pubDate>Fri, 01 Jun 2018 17:46:23 +0000</pubDate>
+      
+      <guid>https://go.face2ai.com/%E7%BC%96%E7%A8%8B/cuda/cuda-f-5-1-cuda%E5%85%B1%E4%BA%AB%E5%86%85%E5%AD%98%E6%A6%82%E8%BF%B0.zh/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; 本文为CUDA内存的概述，介绍共享内存的模型，分配，访问，配置，同步等内容
+&lt;strong&gt;Keywords:&lt;/strong&gt; 模型，分配，访问，配置，同步&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

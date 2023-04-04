@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>斯特林公式 on 谭升的博客</title>
+    <link>https://go.face2ai.com/tags/%E6%96%AF%E7%89%B9%E6%9E%97%E5%85%AC%E5%BC%8F/</link>
+    <description>Recent content in 斯特林公式 on 谭升的博客</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Tue, 08 May 2018 17:04:12 +0000</lastBuildDate><atom:link href="https://go.face2ai.com/tags/%E6%96%AF%E7%89%B9%E6%9E%97%E5%85%AC%E5%BC%8F/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>【数理统计学简史】2.3 狄莫弗初步结果的改进，与斯特林的联系</title>
+      <link>https://go.face2ai.com/math/math-statistics-2-3-communication-with-stirling.zh/</link>
+      <pubDate>Tue, 08 May 2018 17:04:12 +0000</pubDate>
+      
+      <guid>https://go.face2ai.com/math/math-statistics-2-3-communication-with-stirling.zh/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; 本文介绍狄莫弗与斯特林之间的联系，以及结果进一步的优化
+&lt;strong&gt;Keywords:&lt;/strong&gt; 二项分布，斯特林公式&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>【数理统计学简史】2.2 狄莫弗的初步结果</title>
+      <link>https://go.face2ai.com/math/math-statistics-2-2-de-moivre-naive-result.zh/</link>
+      <pubDate>Thu, 03 May 2018 17:14:58 +0000</pubDate>
+      
+      <guid>https://go.face2ai.com/math/math-statistics-2-2-de-moivre-naive-result.zh/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; 本文介绍狄莫弗上一篇之后得出的关于二项分布的近似计算
+&lt;strong&gt;Keywords:&lt;/strong&gt; 二项分布，斯特林公式&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>【概率论】1-2:计数方法(Counting Methods)</title>
+      <link>https://go.face2ai.com/math/math-probability-1-2-counting-methods.zh/</link>
+      <pubDate>Thu, 25 Jan 2018 10:35:46 +0000</pubDate>
+      
+      <guid>https://go.face2ai.com/math/math-probability-1-2-counting-methods.zh/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; 本文主要介绍有限样本空间下的古典概率问题，以及其中包含的计数方法，排列的基本思想
+&lt;strong&gt;Keywords:&lt;/strong&gt; Counting Methods，Combinatorial Methods，Multiplication，Permutations，Stirling&amp;rsquo;s Formula&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

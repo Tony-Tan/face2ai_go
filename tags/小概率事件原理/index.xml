@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>小概率事件原理 on 谭升的博客</title>
+    <link>https://go.face2ai.com/tags/%E5%B0%8F%E6%A6%82%E7%8E%87%E4%BA%8B%E4%BB%B6%E5%8E%9F%E7%90%86/</link>
+    <description>Recent content in 小概率事件原理 on 谭升的博客</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Sat, 28 Apr 2018 13:36:06 +0000</lastBuildDate><atom:link href="https://go.face2ai.com/tags/%E5%B0%8F%E6%A6%82%E7%8E%87%E4%BA%8B%E4%BB%B6%E5%8E%9F%E7%90%86/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>【数理统计学简史】1.6 关于概率的几点看法</title>
+      <link>https://go.face2ai.com/math/math-statistics-1-6-some-idea-of-probability.zh/</link>
+      <pubDate>Sat, 28 Apr 2018 13:36:06 +0000</pubDate>
+      
+      <guid>https://go.face2ai.com/math/math-statistics-1-6-some-idea-of-probability.zh/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; 本文介绍一些关于概率的几点看法，主要来自伯努利的推测术。
+&lt;strong&gt;Keywords:&lt;/strong&gt; 主观概率，客观概率，《推测术》，先验，后验，因果律，道德确定性，小概率事件原理，贝叶斯&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

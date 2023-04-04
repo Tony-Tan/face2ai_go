@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>对称矩阵 on 谭升的博客</title>
+    <link>https://go.face2ai.com/tags/%E5%AF%B9%E7%A7%B0%E7%9F%A9%E9%98%B5/</link>
+    <description>Recent content in 对称矩阵 on 谭升的博客</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Fri, 24 Nov 2017 11:24:21 +0000</lastBuildDate><atom:link href="https://go.face2ai.com/tags/%E5%AF%B9%E7%A7%B0%E7%9F%A9%E9%98%B5/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>【线性代数】6-5:正定矩阵(Positive Definite Matrices)</title>
+      <link>https://go.face2ai.com/math/math-linear-algebra-chapter-6-5.zh/</link>
+      <pubDate>Fri, 24 Nov 2017 11:24:21 +0000</pubDate>
+      
+      <guid>https://go.face2ai.com/math/math-linear-algebra-chapter-6-5.zh/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; 关于正定矩阵的相关知识总结，正定矩阵在数学中的一个应用
+&lt;strong&gt;Keywords:&lt;/strong&gt; Positive Definite Matrices,Symmetric Matrices,Eigenvalues,Eigenvectors&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>【线性代数】6-4:对称矩阵(Symmetric Matrices)</title>
+      <link>https://go.face2ai.com/math/math-linear-algebra-chapter-6-4.zh/</link>
+      <pubDate>Wed, 22 Nov 2017 15:18:03 +0000</pubDate>
+      
+      <guid>https://go.face2ai.com/math/math-linear-algebra-chapter-6-4.zh/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; 本篇继续线性代数的高潮部分，对称矩阵，以及对称矩阵的一些性质
+&lt;strong&gt;Keywords:&lt;/strong&gt; Eigenvalues，Eigenvectors，Symmetric Matrices，Projection Matrices，Spectral Theorem，Principal Axis Theorem&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

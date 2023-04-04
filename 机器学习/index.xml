@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>机器学习s on 谭升的博客</title>
+    <link>https://go.face2ai.com/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/</link>
+    <description>Recent content in 机器学习s on 谭升的博客</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Tue, 17 Jul 2018 22:27:10 +0000</lastBuildDate><atom:link href="https://go.face2ai.com/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>【PRML】Introduction 介绍</title>
+      <link>https://go.face2ai.com/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/machinelearning-prml-1-introduction.zh/</link>
+      <pubDate>Tue, 17 Jul 2018 22:27:10 +0000</pubDate>
+      
+      <guid>https://go.face2ai.com/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/machinelearning-prml-1-introduction.zh/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; In this section, we introduct what is Machine Learning, pattern recognition, and some relative concepts.
+&lt;strong&gt;Keywords:&lt;/strong&gt; &amp;ldquo;Pattern Recognition and Machine Learning&amp;rdquo;, Introduction, Machine Learning&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>【斯坦福大学】人工智能课程安排</title>
+      <link>https://go.face2ai.com/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/machinelearning-stanford-artificial-intelligence-track.zh/</link>
+      <pubDate>Fri, 25 May 2018 13:17:17 +0000</pubDate>
+      
+      <guid>https://go.face2ai.com/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/machinelearning-stanford-artificial-intelligence-track.zh/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; 本文翻译自Stanford大学AI专业的课程选取表，为广大AI自学者提供自学建议
+&lt;strong&gt;Keywords:&lt;/strong&gt; Stanford Artificial Intelligence Track，人工智能课程，自学机器学习，自学人工智能，机器学习数学课程&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>训练数据选择血泪史</title>
+      <link>https://go.face2ai.com/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/machinelearning-%E8%AE%AD%E7%BB%83%E6%95%B0%E6%8D%AE%E9%80%89%E6%8B%A9%E8%A1%80%E6%B3%AA%E5%8F%B2.zh/</link>
+      <pubDate>Thu, 07 Sep 2017 09:56:12 +0000</pubDate>
+      
+      <guid>https://go.face2ai.com/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/machinelearning-%E8%AE%AD%E7%BB%83%E6%95%B0%E6%8D%AE%E9%80%89%E6%8B%A9%E8%A1%80%E6%B3%AA%E5%8F%B2.zh/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; 机器学习数据预处理的小总结
+&lt;strong&gt;Keywords:&lt;/strong&gt; 数据，预处理&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>人脸检测分析之 Haar-like，Adaboost，级联(Cascade)</title>
+      <link>https://go.face2ai.com/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/machinelearning-haar-like-adaboost-cascade.zh/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://go.face2ai.com/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/machinelearning-haar-like-adaboost-cascade.zh/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; 人脸检测基本算法学习（迁移自CSDN）
+&lt;strong&gt;Keywords:&lt;/strong&gt; Adaboost，Haar-like，人脸检测，机器学习&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

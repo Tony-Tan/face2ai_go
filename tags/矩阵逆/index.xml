@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>矩阵逆 on 谭升的博客</title>
+    <link>https://go.face2ai.com/tags/%E7%9F%A9%E9%98%B5%E9%80%86/</link>
+    <description>Recent content in 矩阵逆 on 谭升的博客</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Mon, 11 Sep 2017 20:00:16 +0000</lastBuildDate><atom:link href="https://go.face2ai.com/tags/%E7%9F%A9%E9%98%B5%E9%80%86/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>【线性代数】2-5:矩阵的逆(Inverse)</title>
+      <link>https://go.face2ai.com/math/math-linear-algebra-chapter-2-5.zh/</link>
+      <pubDate>Mon, 11 Sep 2017 20:00:16 +0000</pubDate>
+      
+      <guid>https://go.face2ai.com/math/math-linear-algebra-chapter-2-5.zh/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; 矩阵的“逆”，以及相关计算
+&lt;strong&gt;Keywords:&lt;/strong&gt; Inverse，Singular，Gauss-Jordan&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

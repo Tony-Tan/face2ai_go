@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>二进制 on 谭升的博客</title>
+    <link>https://go.face2ai.com/tags/%E4%BA%8C%E8%BF%9B%E5%88%B6/</link>
+    <description>Recent content in 二进制 on 谭升的博客</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Thu, 31 May 2018 06:12:14 +0000</lastBuildDate><atom:link href="https://go.face2ai.com/tags/%E4%BA%8C%E8%BF%9B%E5%88%B6/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>【数值分析】0.2 二进制数字</title>
+      <link>https://go.face2ai.com/math/math-numerical-analysis-0-2-binary.zh/</link>
+      <pubDate>Thu, 31 May 2018 06:12:14 +0000</pubDate>
+      
+      <guid>https://go.face2ai.com/math/math-numerical-analysis-0-2-binary.zh/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; 本文介绍二进制数字的相关知识
+&lt;strong&gt;Keywords:&lt;/strong&gt; 数制，二进制，十进制&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

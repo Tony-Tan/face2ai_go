@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Split on 谭升的博客</title>
+    <link>https://go.face2ai.com/tags/split/</link>
+    <description>Recent content in Split on 谭升的博客</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Tue, 17 Oct 2017 09:28:42 +0000</lastBuildDate><atom:link href="https://go.face2ai.com/tags/split/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>【线性代数】4-1:四个正交子空间(Orthogonality of the Four Subspace)</title>
+      <link>https://go.face2ai.com/math/math-linear-algebra-chapter-4-1.zh/</link>
+      <pubDate>Tue, 17 Oct 2017 09:28:42 +0000</pubDate>
+      
+      <guid>https://go.face2ai.com/math/math-linear-algebra-chapter-4-1.zh/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; 本篇介绍正交性，向量正交，矩阵正交，子空间正交
+&lt;strong&gt;Keywords:&lt;/strong&gt; Orthogonality,Four Subspace,Orthogonal Complements,Fundamental Theorem of Linear Algebra ,Combining Bases from Subspaces,Split&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

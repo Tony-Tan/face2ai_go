@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>预测 on 谭升的博客</title>
+    <link>https://go.face2ai.com/tags/%E9%A2%84%E6%B5%8B/</link>
+    <description>Recent content in 预测 on 谭升的博客</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Tue, 27 Mar 2018 10:53:24 +0000</lastBuildDate><atom:link href="https://go.face2ai.com/tags/%E9%A2%84%E6%B5%8B/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>【概率论】4-7:条件期望(Conditional Expectation)</title>
+      <link>https://go.face2ai.com/math/math-probability-4-7-conditional-expectation.zh/</link>
+      <pubDate>Tue, 27 Mar 2018 10:53:24 +0000</pubDate>
+      
+      <guid>https://go.face2ai.com/math/math-probability-4-7-conditional-expectation.zh/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; 本文介绍期望的条件版本，也就是条件期望
+&lt;strong&gt;Keywords:&lt;/strong&gt; Expectation，Prediction，Law of Total Probability&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

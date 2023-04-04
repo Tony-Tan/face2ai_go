@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>nvprof on 谭升的博客</title>
+    <link>https://go.face2ai.com/tags/nvprof/</link>
+    <description>Recent content in nvprof on 谭升的博客</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Sun, 15 Apr 2018 21:17:52 +0000</lastBuildDate><atom:link href="https://go.face2ai.com/tags/nvprof/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>【CUDA 基础】3.3 并行性表现</title>
+      <link>https://go.face2ai.com/%E7%BC%96%E7%A8%8B/cuda/cuda-f-3-3-%E5%B9%B6%E8%A1%8C%E6%80%A7%E8%A1%A8%E7%8E%B0.zh/</link>
+      <pubDate>Sun, 15 Apr 2018 21:17:52 +0000</pubDate>
+      
+      <guid>https://go.face2ai.com/%E7%BC%96%E7%A8%8B/cuda/cuda-f-3-3-%E5%B9%B6%E8%A1%8C%E6%80%A7%E8%A1%A8%E7%8E%B0.zh/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; 本文主要通过nvprof工具来分析核函数的执行效率（资源利用率）
+&lt;strong&gt;Keywords:&lt;/strong&gt; nvprof&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>【CUDA 基础】2.2 给核函数计时</title>
+      <link>https://go.face2ai.com/%E7%BC%96%E7%A8%8B/cuda/cuda-f-2-2-%E6%A0%B8%E5%87%BD%E6%95%B0%E8%AE%A1%E6%97%B6.zh/</link>
+      <pubDate>Thu, 08 Mar 2018 21:08:00 +0000</pubDate>
+      
+      <guid>https://go.face2ai.com/%E7%BC%96%E7%A8%8B/cuda/cuda-f-2-2-%E6%A0%B8%E5%87%BD%E6%95%B0%E8%AE%A1%E6%97%B6.zh/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; 本文介绍CUDA核函数计时方法
+&lt;strong&gt;Keywords:&lt;/strong&gt; gettimeofday,nvprof&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

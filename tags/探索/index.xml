@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>探索 on 谭升的博客</title>
+    <link>https://go.face2ai.com/tags/%E6%8E%A2%E7%B4%A2/</link>
+    <description>Recent content in 探索 on 谭升的博客</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Wed, 10 Oct 2018 22:03:20 +0000</lastBuildDate><atom:link href="https://go.face2ai.com/tags/%E6%8E%A2%E7%B4%A2/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>【强化学习】2.2 行为评价方法(Action-value Methods)</title>
+      <link>https://go.face2ai.com/%E5%BC%BA%E5%8C%96%E5%AD%A6%E4%B9%A0/rl-rsab-2-2-action-value-methods.zh/</link>
+      <pubDate>Wed, 10 Oct 2018 22:03:20 +0000</pubDate>
+      
+      <guid>https://go.face2ai.com/%E5%BC%BA%E5%8C%96%E5%AD%A6%E4%B9%A0/rl-rsab-2-2-action-value-methods.zh/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; 本文介绍第一种强化学习方法——行为评价方法(Action-value Methods)，非常简单但是可以通过这个简单的算法来感受下强化学习的难点和问题解决的思路
+&lt;strong&gt;Keywords:&lt;/strong&gt; 强化学习, k臂赌博机, 多臂赌博机, 利用, 探索, 行为评价方法，样本均值方法, $\varepsilon$-greedy方法&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>【强化学习】2.1 k臂赌博机(k-armed bandits)问题</title>
+      <link>https://go.face2ai.com/%E5%BC%BA%E5%8C%96%E5%AD%A6%E4%B9%A0/rl-rsab-2-1-a-k-armed-bandit-problem.zh/</link>
+      <pubDate>Mon, 08 Oct 2018 22:40:24 +0000</pubDate>
+      
+      <guid>https://go.face2ai.com/%E5%BC%BA%E5%8C%96%E5%AD%A6%E4%B9%A0/rl-rsab-2-1-a-k-armed-bandit-problem.zh/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; 在强化学习中，平衡Exploitation和Exploration将会是一个从始至终的问题，我们本章用简单的k臂赌博机问题来从具体的每一步来分析和研究这个问题，本节先介绍下问题的描述和大概的解决思路，为本章后面的问题解决做好铺垫
+&lt;strong&gt;Keywords:&lt;/strong&gt; 强化学习，k臂赌博机，多臂赌博机，利用，探索，Exploitation，Exploration&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

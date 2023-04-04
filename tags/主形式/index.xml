@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>主形式 on 谭升的博客</title>
+    <link>https://go.face2ai.com/tags/%E4%B8%BB%E5%BD%A2%E5%BC%8F/</link>
+    <description>Recent content in 主形式 on 谭升的博客</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Fri, 03 Nov 2017 09:50:36 +0000</lastBuildDate><atom:link href="https://go.face2ai.com/tags/%E4%B8%BB%E5%BD%A2%E5%BC%8F/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>【线性代数】5-2:置换和余因子(Permutations and Cofactors)</title>
+      <link>https://go.face2ai.com/math/math-linear-algebra-chapter-5-2.zh/</link>
+      <pubDate>Fri, 03 Nov 2017 09:50:36 +0000</pubDate>
+      
+      <guid>https://go.face2ai.com/math/math-linear-algebra-chapter-5-2.zh/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; 行列式的几种求法，以及相关的衍生问题
+&lt;strong&gt;Keywords:&lt;/strong&gt; Determinants，&amp;lsquo;Pivot Formula&amp;rsquo;，&amp;lsquo;Big Formula&amp;rsquo;，&amp;lsquo;Cofactors Formula&amp;rsquo;，Cofactors，Permutations&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

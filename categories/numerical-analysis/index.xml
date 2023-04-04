@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Numerical Analysis on 谭升的博客</title>
+    <link>https://go.face2ai.com/categories/numerical-analysis/</link>
+    <description>Recent content in Numerical Analysis on 谭升的博客</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Wed, 13 Jun 2018 19:16:27 +0000</lastBuildDate><atom:link href="https://go.face2ai.com/categories/numerical-analysis/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>【数值分析】0.4 有效数字缺失</title>
+      <link>https://go.face2ai.com/math/math-numerical-analysis-0-4-significant-digit.zh/</link>
+      <pubDate>Wed, 13 Jun 2018 19:16:27 +0000</pubDate>
+      
+      <guid>https://go.face2ai.com/math/math-numerical-analysis-0-4-significant-digit.zh/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; 本文介绍计算机在计算中有可能引发的有效数字缺失
+&lt;strong&gt;Keywords:&lt;/strong&gt; 有效数字缺失&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>【数值分析】0.3 实数的浮点表示</title>
+      <link>https://go.face2ai.com/math/math-numerical-analysis-0-3-float.zh/</link>
+      <pubDate>Thu, 07 Jun 2018 06:19:13 +0000</pubDate>
+      
+      <guid>https://go.face2ai.com/math/math-numerical-analysis-0-3-float.zh/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; 本文介绍实数在计算机内的浮点数表示方法
+&lt;strong&gt;Keywords:&lt;/strong&gt; 浮点表示，IEEE754&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>【数值分析】0.2 二进制数字</title>
+      <link>https://go.face2ai.com/math/math-numerical-analysis-0-2-binary.zh/</link>
+      <pubDate>Thu, 31 May 2018 06:12:14 +0000</pubDate>
+      
+      <guid>https://go.face2ai.com/math/math-numerical-analysis-0-2-binary.zh/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; 本文介绍二进制数字的相关知识
+&lt;strong&gt;Keywords:&lt;/strong&gt; 数制，二进制，十进制&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>【数值分析】0.1 多项式求值</title>
+      <link>https://go.face2ai.com/math/math-numerical-analysis-0-1-polynomial-evaluation.zh/</link>
+      <pubDate>Wed, 30 May 2018 06:56:04 +0000</pubDate>
+      
+      <guid>https://go.face2ai.com/math/math-numerical-analysis-0-1-polynomial-evaluation.zh/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; 本文介绍多项式求值的相关内容。
+&lt;strong&gt;Keywords:&lt;/strong&gt; 多项式求值，霍纳方法&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>【数值分析】数值分析介绍(Big Picture)</title>
+      <link>https://go.face2ai.com/math/math-numerical-analysis-0-0-introduction.zh/</link>
+      <pubDate>Wed, 30 May 2018 06:10:16 +0000</pubDate>
+      
+      <guid>https://go.face2ai.com/math/math-numerical-analysis-0-0-introduction.zh/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; 数值分析课程介绍
+&lt;strong&gt;Keywords:&lt;/strong&gt; 数值分析&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

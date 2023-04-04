@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>广度优先 on 谭升的博客</title>
+    <link>https://go.face2ai.com/tags/%E5%B9%BF%E5%BA%A6%E4%BC%98%E5%85%88/</link>
+    <description>Recent content in 广度优先 on 谭升的博客</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Wed, 20 Jun 2018 20:10:09 +0000</lastBuildDate><atom:link href="https://go.face2ai.com/tags/%E5%B9%BF%E5%BA%A6%E4%BC%98%E5%85%88/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>【CUDA 基础】6.3 重叠内核执行和数据传输</title>
+      <link>https://go.face2ai.com/%E7%BC%96%E7%A8%8B/cuda/cuda-f-6-3-%E9%87%8D%E5%8F%A0%E5%86%85%E6%A0%B8%E6%89%A7%E8%A1%8C%E5%92%8C%E6%95%B0%E6%8D%AE%E4%BC%A0%E8%BE%93.zh/</link>
+      <pubDate>Wed, 20 Jun 2018 20:10:09 +0000</pubDate>
+      
+      <guid>https://go.face2ai.com/%E7%BC%96%E7%A8%8B/cuda/cuda-f-6-3-%E9%87%8D%E5%8F%A0%E5%86%85%E6%A0%B8%E6%89%A7%E8%A1%8C%E5%92%8C%E6%95%B0%E6%8D%AE%E4%BC%A0%E8%BE%93.zh/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; 本文介绍如何利用流的重叠来隐藏主机到设备的数据传输延迟
+&lt;strong&gt;Keywords:&lt;/strong&gt; 深度优先，广度优先&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>【CUDA 基础】6.2 并发内核执行</title>
+      <link>https://go.face2ai.com/%E7%BC%96%E7%A8%8B/cuda/cuda-f-6-2-%E5%B9%B6%E5%8F%91%E5%86%85%E6%A0%B8%E6%89%A7%E8%A1%8C.zh/</link>
+      <pubDate>Mon, 18 Jun 2018 22:04:08 +0000</pubDate>
+      
+      <guid>https://go.face2ai.com/%E7%BC%96%E7%A8%8B/cuda/cuda-f-6-2-%E5%B9%B6%E5%8F%91%E5%86%85%E6%A0%B8%E6%89%A7%E8%A1%8C.zh/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; 本文介绍内核的并发执行，以及相关的知识
+&lt;strong&gt;Keywords:&lt;/strong&gt; 流，事件，深度优先，广度优先，硬件工作队列，默认流阻塞行为&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

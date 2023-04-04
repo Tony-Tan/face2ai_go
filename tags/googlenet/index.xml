@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>GoogleNet on 谭升的博客</title>
+    <link>https://go.face2ai.com/tags/googlenet/</link>
+    <description>Recent content in GoogleNet on 谭升的博客</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Fri, 13 Oct 2017 09:17:36 +0000</lastBuildDate><atom:link href="https://go.face2ai.com/tags/googlenet/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>FaceNet论文阅读</title>
+      <link>https://go.face2ai.com/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0/deep-learning-facenet%E8%AE%BA%E6%96%87%E9%98%85%E8%AF%BB.zh/</link>
+      <pubDate>Fri, 13 Oct 2017 09:17:36 +0000</pubDate>
+      
+      <guid>https://go.face2ai.com/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0/deep-learning-facenet%E8%AE%BA%E6%96%87%E9%98%85%E8%AF%BB.zh/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; In this paper we present a system, called FaceNet, that directly learns a mapping from face images to a compact Euclidean space where distances directly correspond to a measure of face similarity&lt;/p&gt;
+&lt;p&gt;提出一个系统，此系统能将人脸图片直接映射到欧几里得空间的一个向量，这些向量之间的距离能直接度量人脸之间的相似度&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Keywords:&lt;/strong&gt; 人脸识别,FaceNet,GoogleNet&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

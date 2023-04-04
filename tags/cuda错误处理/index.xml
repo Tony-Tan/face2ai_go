@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>CUDA错误处理 on 谭升的博客</title>
+    <link>https://go.face2ai.com/tags/cuda%E9%94%99%E8%AF%AF%E5%A4%84%E7%90%86/</link>
+    <description>Recent content in CUDA错误处理 on 谭升的博客</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Fri, 16 Feb 2018 22:31:44 +0000</lastBuildDate><atom:link href="https://go.face2ai.com/tags/cuda%E9%94%99%E8%AF%AF%E5%A4%84%E7%90%86/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>【CUDA 基础】2.1 CUDA编程模型概述（二）</title>
+      <link>https://go.face2ai.com/%E7%BC%96%E7%A8%8B/cuda/cuda-f-2-1-cuda%E7%BC%96%E7%A8%8B%E6%A8%A1%E5%9E%8B%E6%A6%82%E8%BF%B02.zh/</link>
+      <pubDate>Fri, 16 Feb 2018 22:31:44 +0000</pubDate>
+      
+      <guid>https://go.face2ai.com/%E7%BC%96%E7%A8%8B/cuda/cuda-f-2-1-cuda%E7%BC%96%E7%A8%8B%E6%A8%A1%E5%9E%8B%E6%A6%82%E8%BF%B02.zh/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; 本文继续上文介绍CUDA编程模型关于核函数以及错误处理部分
+&lt;strong&gt;Keywords:&lt;/strong&gt; CUDA核函数，CUDA错误处理&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

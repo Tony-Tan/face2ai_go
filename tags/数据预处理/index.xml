@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>数据预处理 on 谭升的博客</title>
+    <link>https://go.face2ai.com/tags/%E6%95%B0%E6%8D%AE%E9%A2%84%E5%A4%84%E7%90%86/</link>
+    <description>Recent content in 数据预处理 on 谭升的博客</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Thu, 07 Sep 2017 10:06:13 +0000</lastBuildDate><atom:link href="https://go.face2ai.com/tags/%E6%95%B0%E6%8D%AE%E9%A2%84%E5%A4%84%E7%90%86/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>CNN训练数据讨论</title>
+      <link>https://go.face2ai.com/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0/deep-learning-cnn%E8%AE%AD%E7%BB%83%E6%95%B0%E6%8D%AE%E8%AE%A8%E8%AE%BA.zh/</link>
+      <pubDate>Thu, 07 Sep 2017 10:06:13 +0000</pubDate>
+      
+      <guid>https://go.face2ai.com/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0/deep-learning-cnn%E8%AE%AD%E7%BB%83%E6%95%B0%E6%8D%AE%E8%AE%A8%E8%AE%BA.zh/</guid>
+      <description>Abstract: 不同的输入对CNN的影响 Keywords: CNN，输入数据
+CNN训练数据讨论 问题回顾 对于神经网络，同一样本不同的表现形式，不同的Normalization的方式，作为输入会带来不同的结果。
+具体数据 分析 所谓同一样本的不同形式，比如彩色图片的不同色彩空间描述，RGB，YUV(YCbCr)，LIS等色彩空间有着不同的表现方式，其本质（数学模式）虽然不同，但视觉效果都表征同一样本，或者将样本变形成灰度图像，样本类别没有发生变化，只是描述发生了转换，更深层的说法就是变量的域发生了改变。 以上描述了同一样本不同域的变化，相反，在同一域下，数值的scale也会引起训练结果的变化，原因笔者目前还不清楚，期待研究明白后能给出通俗，简单的解释。
+实验1 文章对行人进行性别分类，网络结构采用最古老的LeNet作为模板，对训练样本进行不同的处理产生了不同的结果，比较如下：
+色彩空间变换，RGB，GRAY，YCbCr YCbCr转换公式： Normalization方式：
+实验结果： 总结 不同变量域最后的结果差别较大 不同的Normalization的结果也不相同，Normalization的结果优于不normalization的结果。 另外，Normalization也会影响收敛速度
+  Ng, Choon-Boon, Yong-Haur Tay, and Bok-Min Goi. &amp;ldquo;Comparing image representations for training a convolutional neural network to classify gender.&amp;rdquo; In 2013 1st International Conference on Artificial Intelligence, Modelling and Simulation, pp. 29-33. IEEE, 2013.&amp;#160;&amp;#x21a9;&amp;#xfe0e;
+   </description>
+    </item>
+    
+    <item>
+      <title>训练数据选择血泪史</title>
+      <link>https://go.face2ai.com/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/machinelearning-%E8%AE%AD%E7%BB%83%E6%95%B0%E6%8D%AE%E9%80%89%E6%8B%A9%E8%A1%80%E6%B3%AA%E5%8F%B2.zh/</link>
+      <pubDate>Thu, 07 Sep 2017 09:56:12 +0000</pubDate>
+      
+      <guid>https://go.face2ai.com/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/machinelearning-%E8%AE%AD%E7%BB%83%E6%95%B0%E6%8D%AE%E9%80%89%E6%8B%A9%E8%A1%80%E6%B3%AA%E5%8F%B2.zh/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; 机器学习数据预处理的小总结
+&lt;strong&gt;Keywords:&lt;/strong&gt; 数据，预处理&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>gettimeofday on 谭升的博客</title>
+    <link>https://go.face2ai.com/tags/gettimeofday/</link>
+    <description>Recent content in gettimeofday on 谭升的博客</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Thu, 08 Mar 2018 21:08:00 +0000</lastBuildDate><atom:link href="https://go.face2ai.com/tags/gettimeofday/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>【CUDA 基础】2.2 给核函数计时</title>
+      <link>https://go.face2ai.com/%E7%BC%96%E7%A8%8B/cuda/cuda-f-2-2-%E6%A0%B8%E5%87%BD%E6%95%B0%E8%AE%A1%E6%97%B6.zh/</link>
+      <pubDate>Thu, 08 Mar 2018 21:08:00 +0000</pubDate>
+      
+      <guid>https://go.face2ai.com/%E7%BC%96%E7%A8%8B/cuda/cuda-f-2-2-%E6%A0%B8%E5%87%BD%E6%95%B0%E8%AE%A1%E6%97%B6.zh/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; 本文介绍CUDA核函数计时方法
+&lt;strong&gt;Keywords:&lt;/strong&gt; gettimeofday,nvprof&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

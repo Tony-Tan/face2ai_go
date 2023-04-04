@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>贝叶斯理论 on 谭升的博客</title>
+    <link>https://go.face2ai.com/tags/%E8%B4%9D%E5%8F%B6%E6%96%AF%E7%90%86%E8%AE%BA/</link>
+    <description>Recent content in 贝叶斯理论 on 谭升的博客</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Thu, 15 Mar 2018 09:20:38 +0000</lastBuildDate><atom:link href="https://go.face2ai.com/tags/%E8%B4%9D%E5%8F%B6%E6%96%AF%E7%90%86%E8%AE%BA/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>【概率论】3-7:多变量分布(Multivariate Distributions Part II）</title>
+      <link>https://go.face2ai.com/math/math-probability-3-7-multivariate-distributions-p2.zh/</link>
+      <pubDate>Thu, 15 Mar 2018 09:20:38 +0000</pubDate>
+      
+      <guid>https://go.face2ai.com/math/math-probability-3-7-multivariate-distributions-p2.zh/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; 本文继续上文的内容，讲解多变量分布的条件分布，全概率公式和贝叶斯公式。提出直方图的概念。
+&lt;strong&gt;Keywords:&lt;/strong&gt; Conditional Distributions，Law of Total Probability，Bayes&amp;rsquo; Theorem，Histograms&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>【概率论】3-6:条件分布(Conditional Distributions Part II）</title>
+      <link>https://go.face2ai.com/math/math-probability-3-6-conditional-distributions-p2.zh/</link>
+      <pubDate>Mon, 12 Mar 2018 09:06:00 +0000</pubDate>
+      
+      <guid>https://go.face2ai.com/math/math-probability-3-6-conditional-distributions-p2.zh/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; 本文介绍联合分布的构建，也就是条件分布部分的扩展和应用
+&lt;strong&gt;Keywords:&lt;/strong&gt; 乘法法则，贝叶斯定理，随机变量的全概率公式&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

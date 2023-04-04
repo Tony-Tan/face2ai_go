@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Beta分布 on 谭升的博客</title>
+    <link>https://go.face2ai.com/tags/beta%E5%88%86%E5%B8%83/</link>
+    <description>Recent content in Beta分布 on 谭升的博客</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Mon, 02 Apr 2018 15:14:12 +0000</lastBuildDate><atom:link href="https://go.face2ai.com/tags/beta%E5%88%86%E5%B8%83/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>【概率论】5-8:Beta分布(The Beta Distributions)</title>
+      <link>https://go.face2ai.com/math/math-probability-5-8-the-beta-distribution.zh/</link>
+      <pubDate>Mon, 02 Apr 2018 15:14:12 +0000</pubDate>
+      
+      <guid>https://go.face2ai.com/math/math-probability-5-8-the-beta-distribution.zh/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; 本文介绍Beta分布的相关知识内容 &lt;strong&gt;Keywords:&lt;/strong&gt; The Beta Distribution&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

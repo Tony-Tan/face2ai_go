@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>tag on 谭升的博客</title>
+    <link>https://go.face2ai.com/tags/tag/</link>
+    <description>Recent content in tag on 谭升的博客</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Mon, 13 Nov 2017 15:57:45 +0000</lastBuildDate><atom:link href="https://go.face2ai.com/tags/tag/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>【概率论】 概率论总览</title>
+      <link>https://go.face2ai.com/math/math-probability-big-picture.zh/</link>
+      <pubDate>Mon, 13 Nov 2017 15:57:45 +0000</pubDate>
+      
+      <guid>https://go.face2ai.com/math/math-probability-big-picture.zh/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; 关于概率论的整体框架
+&lt;strong&gt;Keywords:&lt;/strong&gt; 概率论&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

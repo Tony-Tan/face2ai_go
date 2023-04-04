@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>JPEG on 谭升的博客</title>
+    <link>https://go.face2ai.com/tags/jpeg/</link>
+    <description>Recent content in JPEG on 谭升的博客</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Thu, 30 Nov 2017 09:02:19 +0000</lastBuildDate><atom:link href="https://go.face2ai.com/tags/jpeg/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>【线性代数】6-7:SVD分解(Singular Value Decomposition-SVD)</title>
+      <link>https://go.face2ai.com/math/math-linear-algebra-chapter-6-7.zh/</link>
+      <pubDate>Thu, 30 Nov 2017 09:02:19 +0000</pubDate>
+      
+      <guid>https://go.face2ai.com/math/math-linear-algebra-chapter-6-7.zh/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; 本文介绍SVD，奇异值分解，应该可以算是本章最后的高潮部分了，也是在机器学习中我们最常用的一种变换，我们经常需要求矩阵的特征值特征向量，比如联合贝叶斯，PCA等常规操作，本文还有两个线性代数的应用，在图像压缩上，以及互联网搜索上。 &lt;strong&gt;Keywords:&lt;/strong&gt; Singular Value Decomposition,JPEG2000,Eigenvalues,Eigenvectors&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>CUDA内存管理 on 谭升的博客</title>
+    <link>https://go.face2ai.com/tags/cuda%E5%86%85%E5%AD%98%E7%AE%A1%E7%90%86/</link>
+    <description>Recent content in CUDA内存管理 on 谭升的博客</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Tue, 01 May 2018 21:39:47 +0000</lastBuildDate><atom:link href="https://go.face2ai.com/tags/cuda%E5%86%85%E5%AD%98%E7%AE%A1%E7%90%86/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>【CUDA 基础】4.2 内存管理</title>
+      <link>https://go.face2ai.com/%E7%BC%96%E7%A8%8B/cuda/cuda-f-4-2-%E5%86%85%E5%AD%98%E7%AE%A1%E7%90%86.zh/</link>
+      <pubDate>Tue, 01 May 2018 21:39:47 +0000</pubDate>
+      
+      <guid>https://go.face2ai.com/%E7%BC%96%E7%A8%8B/cuda/cuda-f-4-2-%E5%86%85%E5%AD%98%E7%AE%A1%E7%90%86.zh/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; 本文主要介绍CUDA内存管理，以及CUDA内存模型下的各种内存的特点。
+&lt;strong&gt;Keywords:&lt;/strong&gt; CUDA内存管理，CUDA内存分配和释放，CUDA内存传输，固定内存，零拷贝内存，统一虚拟寻址，统一内存寻址&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>【CUDA 基础】4.0 全局内存</title>
+      <link>https://go.face2ai.com/%E7%BC%96%E7%A8%8B/cuda/cuda-f-4-0-%E5%85%A8%E5%B1%80%E5%86%85%E5%AD%98.zh/</link>
+      <pubDate>Sat, 28 Apr 2018 09:43:50 +0000</pubDate>
+      
+      <guid>https://go.face2ai.com/%E7%BC%96%E7%A8%8B/cuda/cuda-f-4-0-%E5%85%A8%E5%B1%80%E5%86%85%E5%AD%98.zh/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; 本文为学习CUDA编程的第四章的概要，主要介绍第四章研究的对象
+&lt;strong&gt;Keywords:&lt;/strong&gt; 全局内存，CUDA内存模型，CUDA内存管理，全局内存编程，全局内存访问模式，全局内存数据布局，统一内存编程，提高内存吞吐量。&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

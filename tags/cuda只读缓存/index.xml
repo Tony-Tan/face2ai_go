@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>CUDA只读缓存 on 谭升的博客</title>
+    <link>https://go.face2ai.com/tags/cuda%E5%8F%AA%E8%AF%BB%E7%BC%93%E5%AD%98/</link>
+    <description>Recent content in CUDA只读缓存 on 谭升的博客</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Wed, 06 Jun 2018 06:20:07 +0000</lastBuildDate><atom:link href="https://go.face2ai.com/tags/cuda%E5%8F%AA%E8%AF%BB%E7%BC%93%E5%AD%98/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>【CUDA 基础】5.5 常量内存</title>
+      <link>https://go.face2ai.com/%E7%BC%96%E7%A8%8B/cuda/cuda-f-5-5-%E5%B8%B8%E9%87%8F%E5%86%85%E5%AD%98.zh/</link>
+      <pubDate>Wed, 06 Jun 2018 06:20:07 +0000</pubDate>
+      
+      <guid>https://go.face2ai.com/%E7%BC%96%E7%A8%8B/cuda/cuda-f-5-5-%E5%B8%B8%E9%87%8F%E5%86%85%E5%AD%98.zh/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; 本文介绍另外两种内存——常量内存，只读缓存
+&lt;strong&gt;Keywords:&lt;/strong&gt; CUDA常量内存，CUDA只读缓存&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

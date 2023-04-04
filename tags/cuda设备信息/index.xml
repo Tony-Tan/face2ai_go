@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>CUDA设备信息 on 谭升的博客</title>
+    <link>https://go.face2ai.com/tags/cuda%E8%AE%BE%E5%A4%87%E4%BF%A1%E6%81%AF/</link>
+    <description>Recent content in CUDA设备信息 on 谭升的博客</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Sat, 10 Mar 2018 23:16:11 +0000</lastBuildDate><atom:link href="https://go.face2ai.com/tags/cuda%E8%AE%BE%E5%A4%87%E4%BF%A1%E6%81%AF/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>【CUDA 基础】2.4 GPU设备信息</title>
+      <link>https://go.face2ai.com/%E7%BC%96%E7%A8%8B/cuda/cuda-f-2-4-%E8%AE%BE%E5%A4%87%E4%BF%A1%E6%81%AF.zh/</link>
+      <pubDate>Sat, 10 Mar 2018 23:16:11 +0000</pubDate>
+      
+      <guid>https://go.face2ai.com/%E7%BC%96%E7%A8%8B/cuda/cuda-f-2-4-%E8%AE%BE%E5%A4%87%E4%BF%A1%E6%81%AF.zh/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; 本文只介绍一个功能，如何获取设备（一个或多个）信息
+&lt;strong&gt;Keywords:&lt;/strong&gt; CUDA Device Information&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>峰顶平均 on 谭升的博客</title>
+    <link>https://go.face2ai.com/tags/%E5%B3%B0%E9%A1%B6%E5%B9%B3%E5%9D%87/</link>
+    <description>Recent content in 峰顶平均 on 谭升的博客</description>
+    <generator>Hugo -- gohugo.io</generator><atom:link href="https://go.face2ai.com/tags/%E5%B3%B0%E9%A1%B6%E5%B9%B3%E5%9D%87/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>【数字图像处理】7.4:灰度图像-图像分割 阈值处理之谷底阈值、峰顶平均</title>
+      <link>https://go.face2ai.com/%E7%BC%96%E7%A8%8B/dip/dip-7-4-%E7%81%B0%E5%BA%A6%E5%9B%BE%E5%83%8F-%E5%9B%BE%E5%83%8F%E5%88%86%E5%89%B2-%E9%98%88%E5%80%BC%E5%A4%84%E7%90%86%E4%B9%8B%E8%B0%B7%E5%BA%95%E9%98%88%E5%80%BC-%E5%B3%B0%E9%A1%B6%E5%B9%B3%E5%9D%87.zh/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://go.face2ai.com/%E7%BC%96%E7%A8%8B/dip/dip-7-4-%E7%81%B0%E5%BA%A6%E5%9B%BE%E5%83%8F-%E5%9B%BE%E5%83%8F%E5%88%86%E5%89%B2-%E9%98%88%E5%80%BC%E5%A4%84%E7%90%86%E4%B9%8B%E8%B0%B7%E5%BA%95%E9%98%88%E5%80%BC-%E5%B3%B0%E9%A1%B6%E5%B9%B3%E5%9D%87.zh/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; 数字图像处理：第53天
+&lt;strong&gt;Keywords:&lt;/strong&gt; 谷底阈值,峰顶平均&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

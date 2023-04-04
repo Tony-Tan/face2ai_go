@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>优化方法 on 谭升的博客</title>
+    <link>https://go.face2ai.com/tags/%E4%BC%98%E5%8C%96%E6%96%B9%E6%B3%95/</link>
+    <description>Recent content in 优化方法 on 谭升的博客</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Wed, 26 Sep 2018 08:50:41 +0000</lastBuildDate><atom:link href="https://go.face2ai.com/tags/%E4%BC%98%E5%8C%96%E6%96%B9%E6%B3%95/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>【强化学习】 1.4.1 强化学习与优化方法</title>
+      <link>https://go.face2ai.com/%E5%BC%BA%E5%8C%96%E5%AD%A6%E4%B9%A0/rl-rsab-1-4-1-connection-to-optimization-method.zh/</link>
+      <pubDate>Wed, 26 Sep 2018 08:50:41 +0000</pubDate>
+      
+      <guid>https://go.face2ai.com/%E5%BC%BA%E5%8C%96%E5%AD%A6%E4%B9%A0/rl-rsab-1-4-1-connection-to-optimization-method.zh/</guid>
+      <description>&lt;p&gt;**Abstract:**本文介绍强化学习和优化方法之间的关系，他们之间一些共同误区以及强化学习的工程性质
+**Keywords:**强化学习，优化方法，强化学习工程化&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

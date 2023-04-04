@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>连续分布 on 谭升的博客</title>
+    <link>https://go.face2ai.com/tags/%E8%BF%9E%E7%BB%AD%E5%88%86%E5%B8%83/</link>
+    <description>Recent content in 连续分布 on 谭升的博客</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Mon, 05 Feb 2018 09:23:02 +0000</lastBuildDate><atom:link href="https://go.face2ai.com/tags/%E8%BF%9E%E7%BB%AD%E5%88%86%E5%B8%83/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>【概率论】3-2:连续分布(Continuous Distributions)</title>
+      <link>https://go.face2ai.com/math/math-probability-3-2-continuous-distribution.zh/</link>
+      <pubDate>Mon, 05 Feb 2018 09:23:02 +0000</pubDate>
+      
+      <guid>https://go.face2ai.com/math/math-probability-3-2-continuous-distribution.zh/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; 本文继续上文的离散随机变量的观点，将部分试验模型转换到连续随机变量的观点上。
+&lt;strong&gt;Keywords:&lt;/strong&gt; Continuous Random Variable，Continuous Distributions，Probability Desity Function，Uniform Distributions on Intervals&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

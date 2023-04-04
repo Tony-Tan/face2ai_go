@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>多个事件独立 on 谭升的博客</title>
+    <link>https://go.face2ai.com/tags/%E5%A4%9A%E4%B8%AA%E4%BA%8B%E4%BB%B6%E7%8B%AC%E7%AB%8B/</link>
+    <description>Recent content in 多个事件独立 on 谭升的博客</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Thu, 01 Feb 2018 09:33:49 +0000</lastBuildDate><atom:link href="https://go.face2ai.com/tags/%E5%A4%9A%E4%B8%AA%E4%BA%8B%E4%BB%B6%E7%8B%AC%E7%AB%8B/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>【概率论】2-2:独立事件(Independent Events)</title>
+      <link>https://go.face2ai.com/math/math-probability-2-2-independent-events.zh/</link>
+      <pubDate>Thu, 01 Feb 2018 09:33:49 +0000</pubDate>
+      
+      <guid>https://go.face2ai.com/math/math-probability-2-2-independent-events.zh/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; 本文介绍事件的独立，以及派生出来的多事件独立，以及条件独立
+&lt;strong&gt;Keywords:&lt;/strong&gt; Independent Events，Independent of Several Events，Coditionally Independent Events&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

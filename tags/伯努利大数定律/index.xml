@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>伯努利大数定律 on 谭升的博客</title>
+    <link>https://go.face2ai.com/tags/%E4%BC%AF%E5%8A%AA%E5%88%A9%E5%A4%A7%E6%95%B0%E5%AE%9A%E5%BE%8B/</link>
+    <description>Recent content in 伯努利大数定律 on 谭升的博客</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Mon, 30 Apr 2018 17:16:04 +0000</lastBuildDate><atom:link href="https://go.face2ai.com/tags/%E4%BC%AF%E5%8A%AA%E5%88%A9%E5%A4%A7%E6%95%B0%E5%AE%9A%E5%BE%8B/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>【数理统计学简史】1.7 伯努利大数定律</title>
+      <link>https://go.face2ai.com/math/math-statistics-1-7-bernouli-law-of-large-numbers.zh/</link>
+      <pubDate>Mon, 30 Apr 2018 17:16:04 +0000</pubDate>
+      
+      <guid>https://go.face2ai.com/math/math-statistics-1-7-bernouli-law-of-large-numbers.zh/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; 本文介绍《推测术》中最精华的第四部分，提出历史性结论——伯努利大数定律
+&lt;strong&gt;Keywords:&lt;/strong&gt; 大数定律，伯努利大数定律，《推测术》，强大数律，弱大数律，切比雪夫不等式&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>矩阵转置 on 谭升的博客</title>
+    <link>https://go.face2ai.com/tags/%E7%9F%A9%E9%98%B5%E8%BD%AC%E7%BD%AE/</link>
+    <description>Recent content in 矩阵转置 on 谭升的博客</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Sun, 13 May 2018 12:08:02 +0000</lastBuildDate><atom:link href="https://go.face2ai.com/tags/%E7%9F%A9%E9%98%B5%E8%BD%AC%E7%BD%AE/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>【CUDA 基础】4.4 核函数可达到的带宽</title>
+      <link>https://go.face2ai.com/%E7%BC%96%E7%A8%8B/cuda/cuda-f-4-4-%E6%A0%B8%E5%87%BD%E6%95%B0%E5%8F%AF%E8%BE%BE%E5%88%B0%E7%9A%84%E5%B8%A6%E5%AE%BD.zh/</link>
+      <pubDate>Sun, 13 May 2018 12:08:02 +0000</pubDate>
+      
+      <guid>https://go.face2ai.com/%E7%BC%96%E7%A8%8B/cuda/cuda-f-4-4-%E6%A0%B8%E5%87%BD%E6%95%B0%E5%8F%AF%E8%BE%BE%E5%88%B0%E7%9A%84%E5%B8%A6%E5%AE%BD.zh/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; 本文通过矩阵转置这一个例子，调整，优化核函数，使其达到最优的内存带宽
+&lt;strong&gt;Keywords:&lt;/strong&gt; 带宽，吞吐量，矩阵转置&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

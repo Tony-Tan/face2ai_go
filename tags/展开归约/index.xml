@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>展开归约 on 谭升的博客</title>
+    <link>https://go.face2ai.com/tags/%E5%B1%95%E5%BC%80%E5%BD%92%E7%BA%A6/</link>
+    <description>Recent content in 展开归约 on 谭升的博客</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Thu, 19 Apr 2018 21:02:08 +0000</lastBuildDate><atom:link href="https://go.face2ai.com/tags/%E5%B1%95%E5%BC%80%E5%BD%92%E7%BA%A6/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>【CUDA 基础】3.5 展开循环</title>
+      <link>https://go.face2ai.com/%E7%BC%96%E7%A8%8B/cuda/cuda-f-3-5-%E5%B1%95%E5%BC%80%E5%BE%AA%E7%8E%AF.zh/</link>
+      <pubDate>Thu, 19 Apr 2018 21:02:08 +0000</pubDate>
+      
+      <guid>https://go.face2ai.com/%E7%BC%96%E7%A8%8B/cuda/cuda-f-3-5-%E5%B1%95%E5%BC%80%E5%BE%AA%E7%8E%AF.zh/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; 本文介绍循环展开技术，在归约的基础上继续加速。
+&lt;strong&gt;Keywords:&lt;/strong&gt; 展开归约，归约，模板函数&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

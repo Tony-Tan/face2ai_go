@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>变差 on 谭升的博客</title>
+    <link>https://go.face2ai.com/tags/%E5%8F%98%E5%B7%AE/</link>
+    <description>Recent content in 变差 on 谭升的博客</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Mon, 25 Sep 2017 15:20:46 +0000</lastBuildDate><atom:link href="https://go.face2ai.com/tags/%E5%8F%98%E5%B7%AE/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>【线性代数】3-5:独立性，基和维度(Independence,Basis and Dimension)</title>
+      <link>https://go.face2ai.com/math/math-linear-algebra-chapter-3-5.zh/</link>
+      <pubDate>Mon, 25 Sep 2017 15:20:46 +0000</pubDate>
+      
+      <guid>https://go.face2ai.com/math/math-linear-algebra-chapter-3-5.zh/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; 本文是本章最重要的知识点，也是整个线性代数中非常核心的内容，包括independence ，basis和dimension等多个概念
+&lt;strong&gt;Keywords:&lt;/strong&gt; Independence，Basis，Dimension，Span&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

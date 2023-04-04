@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>边界提取 on 谭升的博客</title>
+    <link>https://go.face2ai.com/tags/%E8%BE%B9%E7%95%8C%E6%8F%90%E5%8F%96/</link>
+    <description>Recent content in 边界提取 on 谭升的博客</description>
+    <generator>Hugo -- gohugo.io</generator><atom:link href="https://go.face2ai.com/tags/%E8%BE%B9%E7%95%8C%E6%8F%90%E5%8F%96/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>【数字图像处理】3.4:二值图像-形态学处理4 其他操作</title>
+      <link>https://go.face2ai.com/%E7%BC%96%E7%A8%8B/dip/dip-3-4-%E4%BA%8C%E5%80%BC%E5%9B%BE%E5%83%8F-%E5%BD%A2%E6%80%81%E5%AD%A6%E5%A4%84%E7%90%864-%E5%85%B6%E4%BB%96.zh/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://go.face2ai.com/%E7%BC%96%E7%A8%8B/dip/dip-3-4-%E4%BA%8C%E5%80%BC%E5%9B%BE%E5%83%8F-%E5%BD%A2%E6%80%81%E5%AD%A6%E5%A4%84%E7%90%864-%E5%85%B6%E4%BB%96.zh/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; 数字图像处理：第12天
+&lt;strong&gt;Keywords:&lt;/strong&gt; 二值图像，形态学，击中，边界提取，孔洞填充，连通分量提取，凸壳，细化，骨架，形态学重建&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,349 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Freshman on 谭升的博客</title>
+    <link>https://go.face2ai.com/categories/freshman/</link>
+    <description>Recent content in Freshman on 谭升的博客</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Wed, 20 Jun 2018 21:56:18 +0000</lastBuildDate><atom:link href="https://go.face2ai.com/categories/freshman/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>【CUDA 基础】6.5 流回调</title>
+      <link>https://go.face2ai.com/%E7%BC%96%E7%A8%8B/cuda/cuda-f-6-5-%E6%B5%81%E5%9B%9E%E8%B0%83.zh/</link>
+      <pubDate>Wed, 20 Jun 2018 21:56:18 +0000</pubDate>
+      
+      <guid>https://go.face2ai.com/%E7%BC%96%E7%A8%8B/cuda/cuda-f-6-5-%E6%B5%81%E5%9B%9E%E8%B0%83.zh/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; 本文介绍流回调
+&lt;strong&gt;Keywords:&lt;/strong&gt; 流回调&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>【CUDA 基础】6.4 重叠GPU和CPU的执行</title>
+      <link>https://go.face2ai.com/%E7%BC%96%E7%A8%8B/cuda/cuda-f-6-4-%E9%87%8D%E5%8F%A0gpu%E5%92%8Ccpu%E7%9A%84%E6%89%A7%E8%A1%8C.zh/</link>
+      <pubDate>Wed, 20 Jun 2018 21:56:05 +0000</pubDate>
+      
+      <guid>https://go.face2ai.com/%E7%BC%96%E7%A8%8B/cuda/cuda-f-6-4-%E9%87%8D%E5%8F%A0gpu%E5%92%8Ccpu%E7%9A%84%E6%89%A7%E8%A1%8C.zh/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; 本文介绍如何进行GPU和CPU的重叠执行
+&lt;strong&gt;Keywords:&lt;/strong&gt; 重叠GPU和CPU的执行&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>【CUDA 基础】6.3 重叠内核执行和数据传输</title>
+      <link>https://go.face2ai.com/%E7%BC%96%E7%A8%8B/cuda/cuda-f-6-3-%E9%87%8D%E5%8F%A0%E5%86%85%E6%A0%B8%E6%89%A7%E8%A1%8C%E5%92%8C%E6%95%B0%E6%8D%AE%E4%BC%A0%E8%BE%93.zh/</link>
+      <pubDate>Wed, 20 Jun 2018 20:10:09 +0000</pubDate>
+      
+      <guid>https://go.face2ai.com/%E7%BC%96%E7%A8%8B/cuda/cuda-f-6-3-%E9%87%8D%E5%8F%A0%E5%86%85%E6%A0%B8%E6%89%A7%E8%A1%8C%E5%92%8C%E6%95%B0%E6%8D%AE%E4%BC%A0%E8%BE%93.zh/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; 本文介绍如何利用流的重叠来隐藏主机到设备的数据传输延迟
+&lt;strong&gt;Keywords:&lt;/strong&gt; 深度优先，广度优先&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>【CUDA 基础】6.2 并发内核执行</title>
+      <link>https://go.face2ai.com/%E7%BC%96%E7%A8%8B/cuda/cuda-f-6-2-%E5%B9%B6%E5%8F%91%E5%86%85%E6%A0%B8%E6%89%A7%E8%A1%8C.zh/</link>
+      <pubDate>Mon, 18 Jun 2018 22:04:08 +0000</pubDate>
+      
+      <guid>https://go.face2ai.com/%E7%BC%96%E7%A8%8B/cuda/cuda-f-6-2-%E5%B9%B6%E5%8F%91%E5%86%85%E6%A0%B8%E6%89%A7%E8%A1%8C.zh/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; 本文介绍内核的并发执行，以及相关的知识
+&lt;strong&gt;Keywords:&lt;/strong&gt; 流，事件，深度优先，广度优先，硬件工作队列，默认流阻塞行为&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>【CUDA 基础】6.1 流和事件概述</title>
+      <link>https://go.face2ai.com/%E7%BC%96%E7%A8%8B/cuda/cuda-f-6-1-%E6%B5%81%E5%92%8C%E4%BA%8B%E4%BB%B6%E6%A6%82%E8%BF%B0.zh/</link>
+      <pubDate>Sun, 10 Jun 2018 21:45:15 +0000</pubDate>
+      
+      <guid>https://go.face2ai.com/%E7%BC%96%E7%A8%8B/cuda/cuda-f-6-1-%E6%B5%81%E5%92%8C%E4%BA%8B%E4%BB%B6%E6%A6%82%E8%BF%B0.zh/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; 本文介绍CUDA中流和事件的理论描述。
+&lt;strong&gt;Keywords:&lt;/strong&gt; 流，事件&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>【CUDA 基础】6.0 流和并发</title>
+      <link>https://go.face2ai.com/%E7%BC%96%E7%A8%8B/cuda/cuda-f-6-0-%E6%B5%81%E5%92%8C%E5%B9%B6%E5%8F%91.zh/</link>
+      <pubDate>Sun, 10 Jun 2018 20:21:37 +0000</pubDate>
+      
+      <guid>https://go.face2ai.com/%E7%BC%96%E7%A8%8B/cuda/cuda-f-6-0-%E6%B5%81%E5%92%8C%E5%B9%B6%E5%8F%91.zh/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; 本文是第六章的概述，本章也是Freshman的最后一个章节。
+&lt;strong&gt;Keywords:&lt;/strong&gt; 流，事件，网格级并行，同步机制，NVVP&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>【CUDA 基础】5.6 线程束洗牌指令</title>
+      <link>https://go.face2ai.com/%E7%BC%96%E7%A8%8B/cuda/cuda-f-5-6-%E7%BA%BF%E7%A8%8B%E6%9D%9F%E6%B4%97%E7%89%8C%E6%8C%87%E4%BB%A4.zh/</link>
+      <pubDate>Wed, 06 Jun 2018 19:53:12 +0000</pubDate>
+      
+      <guid>https://go.face2ai.com/%E7%BC%96%E7%A8%8B/cuda/cuda-f-5-6-%E7%BA%BF%E7%A8%8B%E6%9D%9F%E6%B4%97%E7%89%8C%E6%8C%87%E4%BB%A4.zh/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; 本文介绍线程束洗牌指令的用法
+&lt;strong&gt;Keywords:&lt;/strong&gt; 线程束洗牌指令&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>【CUDA 基础】5.5 常量内存</title>
+      <link>https://go.face2ai.com/%E7%BC%96%E7%A8%8B/cuda/cuda-f-5-5-%E5%B8%B8%E9%87%8F%E5%86%85%E5%AD%98.zh/</link>
+      <pubDate>Wed, 06 Jun 2018 06:20:07 +0000</pubDate>
+      
+      <guid>https://go.face2ai.com/%E7%BC%96%E7%A8%8B/cuda/cuda-f-5-5-%E5%B8%B8%E9%87%8F%E5%86%85%E5%AD%98.zh/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; 本文介绍另外两种内存——常量内存，只读缓存
+&lt;strong&gt;Keywords:&lt;/strong&gt; CUDA常量内存，CUDA只读缓存&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>【CUDA 基础】5.4 合并的全局内存访问</title>
+      <link>https://go.face2ai.com/%E7%BC%96%E7%A8%8B/cuda/cuda-f-5-4-%E5%90%88%E5%B9%B6%E7%9A%84%E5%85%A8%E5%B1%80%E5%86%85%E5%AD%98%E8%AE%BF%E9%97%AE.zh/</link>
+      <pubDate>Mon, 04 Jun 2018 21:34:22 +0000</pubDate>
+      
+      <guid>https://go.face2ai.com/%E7%BC%96%E7%A8%8B/cuda/cuda-f-5-4-%E5%90%88%E5%B9%B6%E7%9A%84%E5%85%A8%E5%B1%80%E5%86%85%E5%AD%98%E8%AE%BF%E9%97%AE.zh/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; 本文介绍使用共享内存进行矩阵转置以减少内存的交叉访问
+&lt;strong&gt;Keywords:&lt;/strong&gt; 合并，转置&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>【CUDA 基础】5.3 减少全局内存访问</title>
+      <link>https://go.face2ai.com/%E7%BC%96%E7%A8%8B/cuda/cuda-f-5-3-%E5%87%8F%E5%B0%91%E5%85%A8%E5%B1%80%E5%86%85%E5%AD%98%E8%AE%BF%E9%97%AE.zh/</link>
+      <pubDate>Mon, 04 Jun 2018 19:47:29 +0000</pubDate>
+      
+      <guid>https://go.face2ai.com/%E7%BC%96%E7%A8%8B/cuda/cuda-f-5-3-%E5%87%8F%E5%B0%91%E5%85%A8%E5%B1%80%E5%86%85%E5%AD%98%E8%AE%BF%E9%97%AE.zh/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; 本文介绍使用共享内存进行归约，并比较全局内存归约与共享内存归约之间的性能差距
+&lt;strong&gt;Keywords:&lt;/strong&gt; 共享内存，归约&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>【CUDA 基础】5.2 共享内存的数据布局</title>
+      <link>https://go.face2ai.com/%E7%BC%96%E7%A8%8B/cuda/cuda-f-5-2-%E5%85%B1%E4%BA%AB%E5%86%85%E5%AD%98%E7%9A%84%E6%95%B0%E6%8D%AE%E5%B8%83%E5%B1%80.zh/</link>
+      <pubDate>Sat, 02 Jun 2018 21:01:03 +0000</pubDate>
+      
+      <guid>https://go.face2ai.com/%E7%BC%96%E7%A8%8B/cuda/cuda-f-5-2-%E5%85%B1%E4%BA%AB%E5%86%85%E5%AD%98%E7%9A%84%E6%95%B0%E6%8D%AE%E5%B8%83%E5%B1%80.zh/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; 本文主要研究几个关于共享内存的例子，以此来了解共享内存的性质，为我们的核函数加速
+&lt;strong&gt;Keywords:&lt;/strong&gt; 行主序，列主序，填充与无填充，从线程索引体映射数据元素&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>【CUDA 基础】5.1 CUDA共享内存概述</title>
+      <link>https://go.face2ai.com/%E7%BC%96%E7%A8%8B/cuda/cuda-f-5-1-cuda%E5%85%B1%E4%BA%AB%E5%86%85%E5%AD%98%E6%A6%82%E8%BF%B0.zh/</link>
+      <pubDate>Fri, 01 Jun 2018 17:46:23 +0000</pubDate>
+      
+      <guid>https://go.face2ai.com/%E7%BC%96%E7%A8%8B/cuda/cuda-f-5-1-cuda%E5%85%B1%E4%BA%AB%E5%86%85%E5%AD%98%E6%A6%82%E8%BF%B0.zh/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; 本文为CUDA内存的概述，介绍共享内存的模型，分配，访问，配置，同步等内容
+&lt;strong&gt;Keywords:&lt;/strong&gt; 模型，分配，访问，配置，同步&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>【CUDA 基础】5.0 共享内存和常量内存</title>
+      <link>https://go.face2ai.com/%E7%BC%96%E7%A8%8B/cuda/cuda-f-5-0-%E5%85%B1%E4%BA%AB%E5%86%85%E5%AD%98%E5%92%8C%E5%B8%B8%E9%87%8F%E5%86%85%E5%AD%98.zh/</link>
+      <pubDate>Fri, 01 Jun 2018 16:46:49 +0000</pubDate>
+      
+      <guid>https://go.face2ai.com/%E7%BC%96%E7%A8%8B/cuda/cuda-f-5-0-%E5%85%B1%E4%BA%AB%E5%86%85%E5%AD%98%E5%92%8C%E5%B8%B8%E9%87%8F%E5%86%85%E5%AD%98.zh/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; 本文是第五章关于CUDA共享内存和常量内存的概述
+&lt;strong&gt;Keywords:&lt;/strong&gt; 共享内存，常量内存&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>【CUDA 基础】4.5 使用统一内存的向量加法</title>
+      <link>https://go.face2ai.com/%E7%BC%96%E7%A8%8B/cuda/cuda-f-4-5-%E4%BD%BF%E7%94%A8%E7%BB%9F%E4%B8%80%E5%86%85%E5%AD%98%E7%9A%84%E5%90%91%E9%87%8F%E5%8A%A0%E6%B3%95.zh/</link>
+      <pubDate>Mon, 14 May 2018 17:24:55 +0000</pubDate>
+      
+      <guid>https://go.face2ai.com/%E7%BC%96%E7%A8%8B/cuda/cuda-f-4-5-%E4%BD%BF%E7%94%A8%E7%BB%9F%E4%B8%80%E5%86%85%E5%AD%98%E7%9A%84%E5%90%91%E9%87%8F%E5%8A%A0%E6%B3%95.zh/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; 使用统一内存的CUDA程序——向量加法
+&lt;strong&gt;Keywords:&lt;/strong&gt; 统一内存，Uniform Memory&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>【CUDA 基础】4.4 核函数可达到的带宽</title>
+      <link>https://go.face2ai.com/%E7%BC%96%E7%A8%8B/cuda/cuda-f-4-4-%E6%A0%B8%E5%87%BD%E6%95%B0%E5%8F%AF%E8%BE%BE%E5%88%B0%E7%9A%84%E5%B8%A6%E5%AE%BD.zh/</link>
+      <pubDate>Sun, 13 May 2018 12:08:02 +0000</pubDate>
+      
+      <guid>https://go.face2ai.com/%E7%BC%96%E7%A8%8B/cuda/cuda-f-4-4-%E6%A0%B8%E5%87%BD%E6%95%B0%E5%8F%AF%E8%BE%BE%E5%88%B0%E7%9A%84%E5%B8%A6%E5%AE%BD.zh/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; 本文通过矩阵转置这一个例子，调整，优化核函数，使其达到最优的内存带宽
+&lt;strong&gt;Keywords:&lt;/strong&gt; 带宽，吞吐量，矩阵转置&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>【CUDA 基础】4.3 内存访问模式</title>
+      <link>https://go.face2ai.com/%E7%BC%96%E7%A8%8B/cuda/cuda-f-4-3-%E5%86%85%E5%AD%98%E8%AE%BF%E9%97%AE%E6%A8%A1%E5%BC%8F.zh/</link>
+      <pubDate>Thu, 03 May 2018 22:08:07 +0000</pubDate>
+      
+      <guid>https://go.face2ai.com/%E7%BC%96%E7%A8%8B/cuda/cuda-f-4-3-%E5%86%85%E5%AD%98%E8%AE%BF%E9%97%AE%E6%A8%A1%E5%BC%8F.zh/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; 本文介绍内存的访问过程，也就是从应用发起请求到硬件实现的完整操作过程，这里是优化内存瓶颈的关键之处，也是CUDA程序优化的基础。
+&lt;strong&gt;Keywords:&lt;/strong&gt; 内存访问模式，对齐，合并，缓存，结构体数组，数组结构体&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>【CUDA 基础】4.2 内存管理</title>
+      <link>https://go.face2ai.com/%E7%BC%96%E7%A8%8B/cuda/cuda-f-4-2-%E5%86%85%E5%AD%98%E7%AE%A1%E7%90%86.zh/</link>
+      <pubDate>Tue, 01 May 2018 21:39:47 +0000</pubDate>
+      
+      <guid>https://go.face2ai.com/%E7%BC%96%E7%A8%8B/cuda/cuda-f-4-2-%E5%86%85%E5%AD%98%E7%AE%A1%E7%90%86.zh/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; 本文主要介绍CUDA内存管理，以及CUDA内存模型下的各种内存的特点。
+&lt;strong&gt;Keywords:&lt;/strong&gt; CUDA内存管理，CUDA内存分配和释放，CUDA内存传输，固定内存，零拷贝内存，统一虚拟寻址，统一内存寻址&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>【CUDA 基础】4.1 内存模型概述</title>
+      <link>https://go.face2ai.com/%E7%BC%96%E7%A8%8B/cuda/cuda-f-4-1-%E5%86%85%E5%AD%98%E6%A8%A1%E5%9E%8B%E6%A6%82%E8%BF%B0.zh/</link>
+      <pubDate>Sat, 28 Apr 2018 22:28:08 +0000</pubDate>
+      
+      <guid>https://go.face2ai.com/%E7%BC%96%E7%A8%8B/cuda/cuda-f-4-1-%E5%86%85%E5%AD%98%E6%A8%A1%E5%9E%8B%E6%A6%82%E8%BF%B0.zh/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; 本文介绍CUDA编程的内存模型个概述，主要讲解CUDA包含的几种内存，以及各种内存的主要特点和用途，这篇作为内存部分地图一样，指导我们后面的写作和学习。
+&lt;strong&gt;Keywords:&lt;/strong&gt; CUDA内存模型，CUDA内存层次结构，寄存器，共享内存，本地内存，常量内存，纹理内存，全局内存&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>【CUDA 基础】4.0 全局内存</title>
+      <link>https://go.face2ai.com/%E7%BC%96%E7%A8%8B/cuda/cuda-f-4-0-%E5%85%A8%E5%B1%80%E5%86%85%E5%AD%98.zh/</link>
+      <pubDate>Sat, 28 Apr 2018 09:43:50 +0000</pubDate>
+      
+      <guid>https://go.face2ai.com/%E7%BC%96%E7%A8%8B/cuda/cuda-f-4-0-%E5%85%A8%E5%B1%80%E5%86%85%E5%AD%98.zh/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; 本文为学习CUDA编程的第四章的概要，主要介绍第四章研究的对象
+&lt;strong&gt;Keywords:&lt;/strong&gt; 全局内存，CUDA内存模型，CUDA内存管理，全局内存编程，全局内存访问模式，全局内存数据布局，统一内存编程，提高内存吞吐量。&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>【CUDA 基础】3.6 动态并行</title>
+      <link>https://go.face2ai.com/%E7%BC%96%E7%A8%8B/cuda/cuda-f-3-6-%E5%8A%A8%E6%80%81%E5%B9%B6%E8%A1%8C.zh/</link>
+      <pubDate>Tue, 24 Apr 2018 20:57:48 +0000</pubDate>
+      
+      <guid>https://go.face2ai.com/%E7%BC%96%E7%A8%8B/cuda/cuda-f-3-6-%E5%8A%A8%E6%80%81%E5%B9%B6%E8%A1%8C.zh/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; 本文介绍CUDA动态并行——在设备上运行时的网格启动新的子网格
+&lt;strong&gt;Keywords:&lt;/strong&gt; 动态并行，嵌套执行&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>【CUDA 基础】3.5 展开循环</title>
+      <link>https://go.face2ai.com/%E7%BC%96%E7%A8%8B/cuda/cuda-f-3-5-%E5%B1%95%E5%BC%80%E5%BE%AA%E7%8E%AF.zh/</link>
+      <pubDate>Thu, 19 Apr 2018 21:02:08 +0000</pubDate>
+      
+      <guid>https://go.face2ai.com/%E7%BC%96%E7%A8%8B/cuda/cuda-f-3-5-%E5%B1%95%E5%BC%80%E5%BE%AA%E7%8E%AF.zh/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; 本文介绍循环展开技术，在归约的基础上继续加速。
+&lt;strong&gt;Keywords:&lt;/strong&gt; 展开归约，归约，模板函数&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>【CUDA 基础】3.4 避免分支分化</title>
+      <link>https://go.face2ai.com/%E7%BC%96%E7%A8%8B/cuda/cuda-f-3-4-%E9%81%BF%E5%85%8D%E5%88%86%E6%94%AF%E5%88%86%E5%8C%96.zh/</link>
+      <pubDate>Tue, 17 Apr 2018 23:32:55 +0000</pubDate>
+      
+      <guid>https://go.face2ai.com/%E7%BC%96%E7%A8%8B/cuda/cuda-f-3-4-%E9%81%BF%E5%85%8D%E5%88%86%E6%94%AF%E5%88%86%E5%8C%96.zh/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; 介绍规约问题中的分支分化问题
+&lt;strong&gt;Keywords:&lt;/strong&gt; 规约问题，分支分化 &lt;font color=&#34;ff0000&#34;&gt;此篇有些结果和参考书中结果相反，需要更深入的技术才能解决&lt;/font&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>【CUDA 基础】3.3 并行性表现</title>
+      <link>https://go.face2ai.com/%E7%BC%96%E7%A8%8B/cuda/cuda-f-3-3-%E5%B9%B6%E8%A1%8C%E6%80%A7%E8%A1%A8%E7%8E%B0.zh/</link>
+      <pubDate>Sun, 15 Apr 2018 21:17:52 +0000</pubDate>
+      
+      <guid>https://go.face2ai.com/%E7%BC%96%E7%A8%8B/cuda/cuda-f-3-3-%E5%B9%B6%E8%A1%8C%E6%80%A7%E8%A1%A8%E7%8E%B0.zh/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; 本文主要通过nvprof工具来分析核函数的执行效率（资源利用率）
+&lt;strong&gt;Keywords:&lt;/strong&gt; nvprof&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>【CUDA 基础】3.2 理解线程束执行的本质(Part II)</title>
+      <link>https://go.face2ai.com/%E7%BC%96%E7%A8%8B/cuda/cuda-f-3-2-%E7%90%86%E8%A7%A3%E7%BA%BF%E7%A8%8B%E6%9D%9F%E6%89%A7%E8%A1%8C%E7%9A%84%E6%9C%AC%E8%B4%A8-p2.zh/</link>
+      <pubDate>Thu, 15 Mar 2018 20:08:09 +0000</pubDate>
+      
+      <guid>https://go.face2ai.com/%E7%BC%96%E7%A8%8B/cuda/cuda-f-3-2-%E7%90%86%E8%A7%A3%E7%BA%BF%E7%A8%8B%E6%9D%9F%E6%89%A7%E8%A1%8C%E7%9A%84%E6%9C%AC%E8%B4%A8-p2.zh/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; 本文介绍CUDA线程束执行的本质的后半部分，包括资源，延迟，同步，扩展性等严重影响性能的线，吞吐量，带宽，占用率，CUDA同步&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>【CUDA 基础】3.2 理解线程束执行的本质(Part I)</title>
+      <link>https://go.face2ai.com/%E7%BC%96%E7%A8%8B/cuda/cuda-f-3-2-%E7%90%86%E8%A7%A3%E7%BA%BF%E7%A8%8B%E6%9D%9F%E6%89%A7%E8%A1%8C%E7%9A%84%E6%9C%AC%E8%B4%A8-p1.zh/</link>
+      <pubDate>Wed, 14 Mar 2018 21:31:16 +0000</pubDate>
+      
+      <guid>https://go.face2ai.com/%E7%BC%96%E7%A8%8B/cuda/cuda-f-3-2-%E7%90%86%E8%A7%A3%E7%BA%BF%E7%A8%8B%E6%9D%9F%E6%89%A7%E8%A1%8C%E7%9A%84%E6%9C%AC%E8%B4%A8-p1.zh/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; 本文介绍CUDA执行模型最核心的部分，线程束的执行实质第一部分
+&lt;strong&gt;Keywords:&lt;/strong&gt; CUDA分支，线程束分化&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>【CUDA 基础】3.1 CUDA执行模型概述</title>
+      <link>https://go.face2ai.com/%E7%BC%96%E7%A8%8B/cuda/cuda-f-3-1-cuda%E6%89%A7%E8%A1%8C%E6%A8%A1%E5%9E%8B%E6%A6%82%E8%BF%B0.zh/</link>
+      <pubDate>Mon, 12 Mar 2018 23:20:41 +0000</pubDate>
+      
+      <guid>https://go.face2ai.com/%E7%BC%96%E7%A8%8B/cuda/cuda-f-3-1-cuda%E6%89%A7%E8%A1%8C%E6%A8%A1%E5%9E%8B%E6%A6%82%E8%BF%B0.zh/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; 本文介绍CUDA执行模型，只比硬件高一层的抽象
+&lt;strong&gt;Keywords:&lt;/strong&gt; CUDA SM，SIMT，SIMD，Fermi，Kepler&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>【CUDA 基础】2.4 GPU设备信息</title>
+      <link>https://go.face2ai.com/%E7%BC%96%E7%A8%8B/cuda/cuda-f-2-4-%E8%AE%BE%E5%A4%87%E4%BF%A1%E6%81%AF.zh/</link>
+      <pubDate>Sat, 10 Mar 2018 23:16:11 +0000</pubDate>
+      
+      <guid>https://go.face2ai.com/%E7%BC%96%E7%A8%8B/cuda/cuda-f-2-4-%E8%AE%BE%E5%A4%87%E4%BF%A1%E6%81%AF.zh/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; 本文只介绍一个功能，如何获取设备（一个或多个）信息
+&lt;strong&gt;Keywords:&lt;/strong&gt; CUDA Device Information&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>【CUDA 基础】2.3 组织并行线程</title>
+      <link>https://go.face2ai.com/%E7%BC%96%E7%A8%8B/cuda/cuda-f-2-3-%E7%BB%84%E7%BB%87%E5%B9%B6%E8%A1%8C%E7%BA%BF%E7%A8%8B.zh/</link>
+      <pubDate>Fri, 09 Mar 2018 21:00:38 +0000</pubDate>
+      
+      <guid>https://go.face2ai.com/%E7%BC%96%E7%A8%8B/cuda/cuda-f-2-3-%E7%BB%84%E7%BB%87%E5%B9%B6%E8%A1%8C%E7%BA%BF%E7%A8%8B.zh/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; 本文介绍CUDA模型中的线程组织模式
+&lt;strong&gt;Keywords:&lt;/strong&gt; Thread,Block,Grid&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>【CUDA 基础】2.2 给核函数计时</title>
+      <link>https://go.face2ai.com/%E7%BC%96%E7%A8%8B/cuda/cuda-f-2-2-%E6%A0%B8%E5%87%BD%E6%95%B0%E8%AE%A1%E6%97%B6.zh/</link>
+      <pubDate>Thu, 08 Mar 2018 21:08:00 +0000</pubDate>
+      
+      <guid>https://go.face2ai.com/%E7%BC%96%E7%A8%8B/cuda/cuda-f-2-2-%E6%A0%B8%E5%87%BD%E6%95%B0%E8%AE%A1%E6%97%B6.zh/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; 本文介绍CUDA核函数计时方法
+&lt;strong&gt;Keywords:&lt;/strong&gt; gettimeofday,nvprof&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>【CUDA 基础】2.1 CUDA编程模型概述（二）</title>
+      <link>https://go.face2ai.com/%E7%BC%96%E7%A8%8B/cuda/cuda-f-2-1-cuda%E7%BC%96%E7%A8%8B%E6%A8%A1%E5%9E%8B%E6%A6%82%E8%BF%B02.zh/</link>
+      <pubDate>Fri, 16 Feb 2018 22:31:44 +0000</pubDate>
+      
+      <guid>https://go.face2ai.com/%E7%BC%96%E7%A8%8B/cuda/cuda-f-2-1-cuda%E7%BC%96%E7%A8%8B%E6%A8%A1%E5%9E%8B%E6%A6%82%E8%BF%B02.zh/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; 本文继续上文介绍CUDA编程模型关于核函数以及错误处理部分
+&lt;strong&gt;Keywords:&lt;/strong&gt; CUDA核函数，CUDA错误处理&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>【CUDA 基础】2.0 CUDA编程模型概述（一）</title>
+      <link>https://go.face2ai.com/%E7%BC%96%E7%A8%8B/cuda/cuda-f-2-0-cuda%E7%BC%96%E7%A8%8B%E6%A8%A1%E5%9E%8B%E6%A6%82%E8%BF%B01.zh/</link>
+      <pubDate>Thu, 15 Feb 2018 17:25:38 +0000</pubDate>
+      
+      <guid>https://go.face2ai.com/%E7%BC%96%E7%A8%8B/cuda/cuda-f-2-0-cuda%E7%BC%96%E7%A8%8B%E6%A8%A1%E5%9E%8B%E6%A6%82%E8%BF%B01.zh/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; 本文介绍CUDA编程模型的简要结构，包括写一个简单的可执行的CUDA程序，一个正确的CUDA核函数，以及相应的调整设置内存，线程来正确的运行程序。
+&lt;strong&gt;Keywords:&lt;/strong&gt; CUDA编程模型，CUDA编程结构，内存管理，线程管理，CUDA核函数，CUDA错误处理&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>【CUDA 基础】1.1 异构计算与CUDA</title>
+      <link>https://go.face2ai.com/%E7%BC%96%E7%A8%8B/cuda/cuda-f-1-1-%E5%BC%82%E6%9E%84%E8%AE%A1%E7%AE%97-cuda.zh/</link>
+      <pubDate>Thu, 15 Feb 2018 09:48:57 +0000</pubDate>
+      
+      <guid>https://go.face2ai.com/%E7%BC%96%E7%A8%8B/cuda/cuda-f-1-1-%E5%BC%82%E6%9E%84%E8%AE%A1%E7%AE%97-cuda.zh/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; 介绍异构计算和CUDA概述，完成GPU输出Hello world！
+&lt;strong&gt;Keywords:&lt;/strong&gt; 异构计算，CUDA&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>【CUDA 基础】1.0 并行计算与计算机架构</title>
+      <link>https://go.face2ai.com/%E7%BC%96%E7%A8%8B/cuda/cuda-f-1-0-%E5%B9%B6%E8%A1%8C%E8%AE%A1%E7%AE%97%E4%B8%8E%E8%AE%A1%E7%AE%97%E6%9C%BA%E6%9E%B6%E6%9E%84.zh/</link>
+      <pubDate>Wed, 14 Feb 2018 21:43:33 +0000</pubDate>
+      
+      <guid>https://go.face2ai.com/%E7%BC%96%E7%A8%8B/cuda/cuda-f-1-0-%E5%B9%B6%E8%A1%8C%E8%AE%A1%E7%AE%97%E4%B8%8E%E8%AE%A1%E7%AE%97%E6%9C%BA%E6%9E%B6%E6%9E%84.zh/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; 本文从总体上给出了CUDA编程的Big picture，后续所有的文章都在本文的基础上详细展开。
+&lt;strong&gt;Keywords:&lt;/strong&gt; 并行计算，串行编程，并行编程，计算机架构，并行性，异构架构，CUDA&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>【CUDA 基础】0.0 腾讯云CUDA环境搭建</title>
+      <link>https://go.face2ai.com/%E7%BC%96%E7%A8%8B/cuda/cuda-f-0-0-tencent-gpu-cloud.zh/</link>
+      <pubDate>Tue, 13 Feb 2018 22:04:54 +0000</pubDate>
+      
+      <guid>https://go.face2ai.com/%E7%BC%96%E7%A8%8B/cuda/cuda-f-0-0-tencent-gpu-cloud.zh/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; 本文主要为不支持CUDA的电脑用户提供一个可供选择的CUDA学习环境
+&lt;strong&gt;Keywords:&lt;/strong&gt; 腾讯云,CUDA,GPU云&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

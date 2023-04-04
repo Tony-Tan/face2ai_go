@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>泊松过程 on 谭升的博客</title>
+    <link>https://go.face2ai.com/tags/%E6%B3%8A%E6%9D%BE%E8%BF%87%E7%A8%8B/</link>
+    <description>Recent content in 泊松过程 on 谭升的博客</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Wed, 28 Mar 2018 15:40:55 +0000</lastBuildDate><atom:link href="https://go.face2ai.com/tags/%E6%B3%8A%E6%9D%BE%E8%BF%87%E7%A8%8B/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>【概率论】5-4:泊松分布(The Poisson Distribution)</title>
+      <link>https://go.face2ai.com/math/math-probability-5-4-the-poisson-distribution.zh/</link>
+      <pubDate>Wed, 28 Mar 2018 15:40:55 +0000</pubDate>
+      
+      <guid>https://go.face2ai.com/math/math-probability-5-4-the-poisson-distribution.zh/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; 本文介绍Poisson分布相关知识
+&lt;strong&gt;Keywords:&lt;/strong&gt; Poisson Distribution&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

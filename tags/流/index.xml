@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>流 on 谭升的博客</title>
+    <link>https://go.face2ai.com/tags/%E6%B5%81/</link>
+    <description>Recent content in 流 on 谭升的博客</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Mon, 18 Jun 2018 22:04:08 +0000</lastBuildDate><atom:link href="https://go.face2ai.com/tags/%E6%B5%81/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>【CUDA 基础】6.2 并发内核执行</title>
+      <link>https://go.face2ai.com/%E7%BC%96%E7%A8%8B/cuda/cuda-f-6-2-%E5%B9%B6%E5%8F%91%E5%86%85%E6%A0%B8%E6%89%A7%E8%A1%8C.zh/</link>
+      <pubDate>Mon, 18 Jun 2018 22:04:08 +0000</pubDate>
+      
+      <guid>https://go.face2ai.com/%E7%BC%96%E7%A8%8B/cuda/cuda-f-6-2-%E5%B9%B6%E5%8F%91%E5%86%85%E6%A0%B8%E6%89%A7%E8%A1%8C.zh/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; 本文介绍内核的并发执行，以及相关的知识
+&lt;strong&gt;Keywords:&lt;/strong&gt; 流，事件，深度优先，广度优先，硬件工作队列，默认流阻塞行为&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>【CUDA 基础】6.1 流和事件概述</title>
+      <link>https://go.face2ai.com/%E7%BC%96%E7%A8%8B/cuda/cuda-f-6-1-%E6%B5%81%E5%92%8C%E4%BA%8B%E4%BB%B6%E6%A6%82%E8%BF%B0.zh/</link>
+      <pubDate>Sun, 10 Jun 2018 21:45:15 +0000</pubDate>
+      
+      <guid>https://go.face2ai.com/%E7%BC%96%E7%A8%8B/cuda/cuda-f-6-1-%E6%B5%81%E5%92%8C%E4%BA%8B%E4%BB%B6%E6%A6%82%E8%BF%B0.zh/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; 本文介绍CUDA中流和事件的理论描述。
+&lt;strong&gt;Keywords:&lt;/strong&gt; 流，事件&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>【CUDA 基础】6.0 流和并发</title>
+      <link>https://go.face2ai.com/%E7%BC%96%E7%A8%8B/cuda/cuda-f-6-0-%E6%B5%81%E5%92%8C%E5%B9%B6%E5%8F%91.zh/</link>
+      <pubDate>Sun, 10 Jun 2018 20:21:37 +0000</pubDate>
+      
+      <guid>https://go.face2ai.com/%E7%BC%96%E7%A8%8B/cuda/cuda-f-6-0-%E6%B5%81%E5%92%8C%E5%B9%B6%E5%8F%91.zh/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; 本文是第六章的概述，本章也是Freshman的最后一个章节。
+&lt;strong&gt;Keywords:&lt;/strong&gt; 流，事件，网格级并行，同步机制，NVVP&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>CUDA 环境搭建 on 谭升的博客</title>
+    <link>https://go.face2ai.com/tags/cuda-%E7%8E%AF%E5%A2%83%E6%90%AD%E5%BB%BA/</link>
+    <description>Recent content in CUDA 环境搭建 on 谭升的博客</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Tue, 13 Feb 2018 22:04:54 +0000</lastBuildDate><atom:link href="https://go.face2ai.com/tags/cuda-%E7%8E%AF%E5%A2%83%E6%90%AD%E5%BB%BA/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>【CUDA 基础】0.0 腾讯云CUDA环境搭建</title>
+      <link>https://go.face2ai.com/%E7%BC%96%E7%A8%8B/cuda/cuda-f-0-0-tencent-gpu-cloud.zh/</link>
+      <pubDate>Tue, 13 Feb 2018 22:04:54 +0000</pubDate>
+      
+      <guid>https://go.face2ai.com/%E7%BC%96%E7%A8%8B/cuda/cuda-f-0-0-tencent-gpu-cloud.zh/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; 本文主要为不支持CUDA的电脑用户提供一个可供选择的CUDA学习环境
+&lt;strong&gt;Keywords:&lt;/strong&gt; 腾讯云,CUDA,GPU云&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

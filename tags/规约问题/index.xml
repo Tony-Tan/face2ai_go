@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>规约问题 on 谭升的博客</title>
+    <link>https://go.face2ai.com/tags/%E8%A7%84%E7%BA%A6%E9%97%AE%E9%A2%98/</link>
+    <description>Recent content in 规约问题 on 谭升的博客</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Tue, 17 Apr 2018 23:32:55 +0000</lastBuildDate><atom:link href="https://go.face2ai.com/tags/%E8%A7%84%E7%BA%A6%E9%97%AE%E9%A2%98/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>【CUDA 基础】3.4 避免分支分化</title>
+      <link>https://go.face2ai.com/%E7%BC%96%E7%A8%8B/cuda/cuda-f-3-4-%E9%81%BF%E5%85%8D%E5%88%86%E6%94%AF%E5%88%86%E5%8C%96.zh/</link>
+      <pubDate>Tue, 17 Apr 2018 23:32:55 +0000</pubDate>
+      
+      <guid>https://go.face2ai.com/%E7%BC%96%E7%A8%8B/cuda/cuda-f-3-4-%E9%81%BF%E5%85%8D%E5%88%86%E6%94%AF%E5%88%86%E5%8C%96.zh/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; 介绍规约问题中的分支分化问题
+&lt;strong&gt;Keywords:&lt;/strong&gt; 规约问题，分支分化 &lt;font color=&#34;ff0000&#34;&gt;此篇有些结果和参考书中结果相反，需要更深入的技术才能解决&lt;/font&gt;&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

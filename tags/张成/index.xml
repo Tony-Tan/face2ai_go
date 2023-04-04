@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>张成 on 谭升的博客</title>
+    <link>https://go.face2ai.com/tags/%E5%BC%A0%E6%88%90/</link>
+    <description>Recent content in 张成 on 谭升的博客</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Mon, 25 Sep 2017 15:20:46 +0000</lastBuildDate><atom:link href="https://go.face2ai.com/tags/%E5%BC%A0%E6%88%90/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>【线性代数】3-5:独立性，基和维度(Independence,Basis and Dimension)</title>
+      <link>https://go.face2ai.com/math/math-linear-algebra-chapter-3-5.zh/</link>
+      <pubDate>Mon, 25 Sep 2017 15:20:46 +0000</pubDate>
+      
+      <guid>https://go.face2ai.com/math/math-linear-algebra-chapter-3-5.zh/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; 本文是本章最重要的知识点，也是整个线性代数中非常核心的内容，包括independence ，basis和dimension等多个概念
+&lt;strong&gt;Keywords:&lt;/strong&gt; Independence，Basis，Dimension，Span&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>【线性代数】3-1:向量空间(Space of Vectors)</title>
+      <link>https://go.face2ai.com/math/math-linear-algebra-chapter-3-1.zh/</link>
+      <pubDate>Tue, 19 Sep 2017 17:40:30 +0000</pubDate>
+      
+      <guid>https://go.face2ai.com/math/math-linear-algebra-chapter-3-1.zh/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; 本章介绍线性代数的核心内容，关于Vectors Space和subspace的一些观点，本文作为第一篇，主要说明基础知识
+&lt;strong&gt;Keywords:&lt;/strong&gt; 向量空间，子空间，列空间，张成&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

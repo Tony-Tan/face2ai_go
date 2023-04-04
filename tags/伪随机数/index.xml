@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>伪随机数 on 谭升的博客</title>
+    <link>https://go.face2ai.com/tags/%E4%BC%AA%E9%9A%8F%E6%9C%BA%E6%95%B0/</link>
+    <description>Recent content in 伪随机数 on 谭升的博客</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Fri, 16 Mar 2018 09:49:24 +0000</lastBuildDate><atom:link href="https://go.face2ai.com/tags/%E4%BC%AA%E9%9A%8F%E6%9C%BA%E6%95%B0/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>【概率论】3-8:随机变量函数(Functions of a Random Variable)</title>
+      <link>https://go.face2ai.com/math/math-probability-3-8-fuctions-of-a-random-variable.zh/</link>
+      <pubDate>Fri, 16 Mar 2018 09:49:24 +0000</pubDate>
+      
+      <guid>https://go.face2ai.com/math/math-probability-3-8-fuctions-of-a-random-variable.zh/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; 本文介绍通过函数这个工具，来研究随机变量
+&lt;strong&gt;Keywords:&lt;/strong&gt; The Probability Integral Transformation，Simulation，Pseudo-Random Numbers，General Function&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

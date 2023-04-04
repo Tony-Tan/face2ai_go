@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>并行计算 on 谭升的博客</title>
+    <link>https://go.face2ai.com/tags/%E5%B9%B6%E8%A1%8C%E8%AE%A1%E7%AE%97/</link>
+    <description>Recent content in 并行计算 on 谭升的博客</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Wed, 14 Feb 2018 21:43:33 +0000</lastBuildDate><atom:link href="https://go.face2ai.com/tags/%E5%B9%B6%E8%A1%8C%E8%AE%A1%E7%AE%97/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>【CUDA 基础】1.0 并行计算与计算机架构</title>
+      <link>https://go.face2ai.com/%E7%BC%96%E7%A8%8B/cuda/cuda-f-1-0-%E5%B9%B6%E8%A1%8C%E8%AE%A1%E7%AE%97%E4%B8%8E%E8%AE%A1%E7%AE%97%E6%9C%BA%E6%9E%B6%E6%9E%84.zh/</link>
+      <pubDate>Wed, 14 Feb 2018 21:43:33 +0000</pubDate>
+      
+      <guid>https://go.face2ai.com/%E7%BC%96%E7%A8%8B/cuda/cuda-f-1-0-%E5%B9%B6%E8%A1%8C%E8%AE%A1%E7%AE%97%E4%B8%8E%E8%AE%A1%E7%AE%97%E6%9C%BA%E6%9E%B6%E6%9E%84.zh/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; 本文从总体上给出了CUDA编程的Big picture，后续所有的文章都在本文的基础上详细展开。
+&lt;strong&gt;Keywords:&lt;/strong&gt; 并行计算，串行编程，并行编程，计算机架构，并行性，异构架构，CUDA&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

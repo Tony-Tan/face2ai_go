@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Crawler on 谭升的博客</title>
+    <link>https://go.face2ai.com/categories/crawler/</link>
+    <description>Recent content in Crawler on 谭升的博客</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Tue, 06 Mar 2018 12:30:41 +0000</lastBuildDate><atom:link href="https://go.face2ai.com/categories/crawler/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>【爬虫】3.3 数据抓取</title>
+      <link>https://go.face2ai.com/%E7%BC%96%E7%A8%8B/crawler/crawler-3-3-%E6%95%B0%E6%8D%AE%E6%8A%93%E5%8F%96.zh/</link>
+      <pubDate>Tue, 06 Mar 2018 12:30:41 +0000</pubDate>
+      
+      <guid>https://go.face2ai.com/%E7%BC%96%E7%A8%8B/crawler/crawler-3-3-%E6%95%B0%E6%8D%AE%E6%8A%93%E5%8F%96.zh/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; 介绍三种网页抓取的方法
+&lt;strong&gt;Keywords:&lt;/strong&gt; 正则表达式,Beautiful Soup,Lxml&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>【爬虫】3.2 HTTP协议(二)</title>
+      <link>https://go.face2ai.com/%E7%BC%96%E7%A8%8B/crawler/crawler-3-2-http%E5%8D%8F%E8%AE%AE-2.zh/</link>
+      <pubDate>Mon, 05 Mar 2018 20:56:25 +0000</pubDate>
+      
+      <guid>https://go.face2ai.com/%E7%BC%96%E7%A8%8B/crawler/crawler-3-2-http%E5%8D%8F%E8%AE%AE-2.zh/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; 本文介绍HTTP基础知识的入门讲解，没有深入，主要是为了让我们知道爬虫请求服务器响应的大致过程
+&lt;strong&gt;Keywords:&lt;/strong&gt; http,uri/url&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>【爬虫】3.1 HTTP协议(一)</title>
+      <link>https://go.face2ai.com/%E7%BC%96%E7%A8%8B/crawler/crawler-3-1-http%E5%8D%8F%E8%AE%AE-1.zh/</link>
+      <pubDate>Sun, 04 Mar 2018 18:31:50 +0000</pubDate>
+      
+      <guid>https://go.face2ai.com/%E7%BC%96%E7%A8%8B/crawler/crawler-3-1-http%E5%8D%8F%E8%AE%AE-1.zh/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; 本文介绍HTTP基础知识的入门讲解，没有深入，主要是为了让我们知道爬虫请求服务器响应的大致过程
+&lt;strong&gt;Keywords:&lt;/strong&gt; http,web,tcp/ip,uri/url&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>【爬虫】3.0 三只虫</title>
+      <link>https://go.face2ai.com/%E7%BC%96%E7%A8%8B/crawler/crawler-3-0-%E7%AC%AC%E4%B8%80%E4%B8%AA%E7%88%AC%E8%99%AB.zh/</link>
+      <pubDate>Sat, 03 Mar 2018 17:08:37 +0000</pubDate>
+      
+      <guid>https://go.face2ai.com/%E7%BC%96%E7%A8%8B/crawler/crawler-3-0-%E7%AC%AC%E4%B8%80%E4%B8%AA%E7%88%AC%E8%99%AB.zh/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; 本文介绍第一个naive爬虫，同时也给出三种不同方式的
+&lt;strong&gt;Keywords:&lt;/strong&gt; 网站地图爬虫，ID遍历爬虫，链接爬虫&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>【爬虫】2.0 分析目标网站</title>
+      <link>https://go.face2ai.com/%E7%BC%96%E7%A8%8B/crawler/crawler-2-0-%E5%88%86%E6%9E%90%E7%A1%AE%E5%AE%9A%E7%9B%AE%E6%A0%87.zh/</link>
+      <pubDate>Fri, 02 Mar 2018 20:48:20 +0000</pubDate>
+      
+      <guid>https://go.face2ai.com/%E7%BC%96%E7%A8%8B/crawler/crawler-2-0-%E5%88%86%E6%9E%90%E7%A1%AE%E5%AE%9A%E7%9B%AE%E6%A0%87.zh/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; 分析网站，进行数据收集
+&lt;strong&gt;Keywords:&lt;/strong&gt; builtwith，网站规模&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>【爬虫】1.0 介绍</title>
+      <link>https://go.face2ai.com/%E7%BC%96%E7%A8%8B/crawler/crawler-1-0-introduction.zh/</link>
+      <pubDate>Thu, 01 Mar 2018 22:30:19 +0000</pubDate>
+      
+      <guid>https://go.face2ai.com/%E7%BC%96%E7%A8%8B/crawler/crawler-1-0-introduction.zh/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; 关于python网络爬虫的入门
+&lt;strong&gt;Keywords:&lt;/strong&gt; 爬虫，python&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

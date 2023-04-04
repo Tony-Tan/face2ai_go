@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>链接爬虫 on 谭升的博客</title>
+    <link>https://go.face2ai.com/tags/%E9%93%BE%E6%8E%A5%E7%88%AC%E8%99%AB/</link>
+    <description>Recent content in 链接爬虫 on 谭升的博客</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Sat, 03 Mar 2018 17:08:37 +0000</lastBuildDate><atom:link href="https://go.face2ai.com/tags/%E9%93%BE%E6%8E%A5%E7%88%AC%E8%99%AB/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>【爬虫】3.0 三只虫</title>
+      <link>https://go.face2ai.com/%E7%BC%96%E7%A8%8B/crawler/crawler-3-0-%E7%AC%AC%E4%B8%80%E4%B8%AA%E7%88%AC%E8%99%AB.zh/</link>
+      <pubDate>Sat, 03 Mar 2018 17:08:37 +0000</pubDate>
+      
+      <guid>https://go.face2ai.com/%E7%BC%96%E7%A8%8B/crawler/crawler-3-0-%E7%AC%AC%E4%B8%80%E4%B8%AA%E7%88%AC%E8%99%AB.zh/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; 本文介绍第一个naive爬虫，同时也给出三种不同方式的
+&lt;strong&gt;Keywords:&lt;/strong&gt; 网站地图爬虫，ID遍历爬虫，链接爬虫&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>奇异 on 谭升的博客</title>
+    <link>https://go.face2ai.com/tags/%E5%A5%87%E5%BC%82/</link>
+    <description>Recent content in 奇异 on 谭升的博客</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Tue, 14 Nov 2017 18:13:04 +0000</lastBuildDate><atom:link href="https://go.face2ai.com/tags/%E5%A5%87%E5%BC%82/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>【线性代数】6-1:特征值介绍(Introduction to Eigenvalues)</title>
+      <link>https://go.face2ai.com/math/math-linear-algebra-chapter-6-1.zh/</link>
+      <pubDate>Tue, 14 Nov 2017 18:13:04 +0000</pubDate>
+      
+      <guid>https://go.face2ai.com/math/math-linear-algebra-chapter-6-1.zh/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; 线性代数重点，关于矩阵特征值特征向量的相关知识第一篇文章，简单介绍特征值
+&lt;strong&gt;Keywords:&lt;/strong&gt; Eigenvalues，Eigenvectors，Sigular，Markov matrix，Trace，Imaginary Eigenvalues&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

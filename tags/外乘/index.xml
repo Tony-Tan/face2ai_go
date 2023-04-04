@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>外乘 on 谭升的博客</title>
+    <link>https://go.face2ai.com/tags/%E5%A4%96%E4%B9%98/</link>
+    <description>Recent content in 外乘 on 谭升的博客</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Tue, 05 Sep 2017 17:15:19 +0000</lastBuildDate><atom:link href="https://go.face2ai.com/tags/%E5%A4%96%E4%B9%98/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>【线性代数】2-4:矩阵操作(Matrix Operations)</title>
+      <link>https://go.face2ai.com/math/math-linear-algebra-chapter-2-4.zh/</link>
+      <pubDate>Tue, 05 Sep 2017 17:15:19 +0000</pubDate>
+      
+      <guid>https://go.face2ai.com/math/math-linear-algebra-chapter-2-4.zh/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; 矩阵基本计算，包括加减乘法，主要是乘法的几种不同的理解&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Keywords:&lt;/strong&gt; Addition，Subtraction，Multiplication，Inner Product，Outer Product&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

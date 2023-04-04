@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>CUDA on 谭升的博客</title>
+    <link>https://go.face2ai.com/tags/cuda/</link>
+    <description>Recent content in CUDA on 谭升的博客</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Thu, 15 Feb 2018 09:48:57 +0000</lastBuildDate><atom:link href="https://go.face2ai.com/tags/cuda/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>【CUDA 基础】1.1 异构计算与CUDA</title>
+      <link>https://go.face2ai.com/%E7%BC%96%E7%A8%8B/cuda/cuda-f-1-1-%E5%BC%82%E6%9E%84%E8%AE%A1%E7%AE%97-cuda.zh/</link>
+      <pubDate>Thu, 15 Feb 2018 09:48:57 +0000</pubDate>
+      
+      <guid>https://go.face2ai.com/%E7%BC%96%E7%A8%8B/cuda/cuda-f-1-1-%E5%BC%82%E6%9E%84%E8%AE%A1%E7%AE%97-cuda.zh/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; 介绍异构计算和CUDA概述，完成GPU输出Hello world！
+&lt;strong&gt;Keywords:&lt;/strong&gt; 异构计算，CUDA&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

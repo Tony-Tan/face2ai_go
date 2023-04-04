@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>均值 on 谭升的博客</title>
+    <link>https://go.face2ai.com/tags/%E5%9D%87%E5%80%BC/</link>
+    <description>Recent content in 均值 on 谭升的博客</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Sun, 25 Mar 2018 21:01:04 +0000</lastBuildDate><atom:link href="https://go.face2ai.com/tags/%E5%9D%87%E5%80%BC/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>【概率论】4-5:均值和中值(The Mean and the Median)</title>
+      <link>https://go.face2ai.com/math/math-probability-4-5-the-mean-and-the-median.zh/</link>
+      <pubDate>Sun, 25 Mar 2018 21:01:04 +0000</pubDate>
+      
+      <guid>https://go.face2ai.com/math/math-probability-4-5-the-mean-and-the-median.zh/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; 本文介绍均值和中值的对比，以及最小平方误差，最小绝对误差
+&lt;strong&gt;Keywords:&lt;/strong&gt; Mean，Median，Mean Squared Error，Mean Absolute Error&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

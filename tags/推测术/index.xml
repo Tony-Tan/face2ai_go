@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>《推测术》 on 谭升的博客</title>
+    <link>https://go.face2ai.com/tags/%E6%8E%A8%E6%B5%8B%E6%9C%AF/</link>
+    <description>Recent content in 《推测术》 on 谭升的博客</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Mon, 30 Apr 2018 17:16:04 +0000</lastBuildDate><atom:link href="https://go.face2ai.com/tags/%E6%8E%A8%E6%B5%8B%E6%9C%AF/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>【数理统计学简史】1.7 伯努利大数定律</title>
+      <link>https://go.face2ai.com/math/math-statistics-1-7-bernouli-law-of-large-numbers.zh/</link>
+      <pubDate>Mon, 30 Apr 2018 17:16:04 +0000</pubDate>
+      
+      <guid>https://go.face2ai.com/math/math-statistics-1-7-bernouli-law-of-large-numbers.zh/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; 本文介绍《推测术》中最精华的第四部分，提出历史性结论——伯努利大数定律
+&lt;strong&gt;Keywords:&lt;/strong&gt; 大数定律，伯努利大数定律，《推测术》，强大数律，弱大数律，切比雪夫不等式&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>【数理统计学简史】1.6 关于概率的几点看法</title>
+      <link>https://go.face2ai.com/math/math-statistics-1-6-some-idea-of-probability.zh/</link>
+      <pubDate>Sat, 28 Apr 2018 13:36:06 +0000</pubDate>
+      
+      <guid>https://go.face2ai.com/math/math-statistics-1-6-some-idea-of-probability.zh/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; 本文介绍一些关于概率的几点看法，主要来自伯努利的推测术。
+&lt;strong&gt;Keywords:&lt;/strong&gt; 主观概率，客观概率，《推测术》，先验，后验，因果律，道德确定性，小概率事件原理，贝叶斯&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>【数理统计学简史】1.5 《推测术》前三部分内容提要</title>
+      <link>https://go.face2ai.com/math/math-statistics-1-5-ars-conjectandi-first-3-sections.zh/</link>
+      <pubDate>Thu, 26 Apr 2018 16:45:32 +0000</pubDate>
+      
+      <guid>https://go.face2ai.com/math/math-statistics-1-5-ars-conjectandi-first-3-sections.zh/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; 本文介绍《推测术》前三部分，主要是古典概率的系统化和深化
+&lt;strong&gt;Keywords:&lt;/strong&gt; 推测术，猜度术，排列，古典概率，全概率公式&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>【数理统计学简史】1.0 早期概率论——从萌芽到《推测术》</title>
+      <link>https://go.face2ai.com/math/math-statistics-1-0-early-probability-theory.zh/</link>
+      <pubDate>Sat, 21 Apr 2018 20:16:41 +0000</pubDate>
+      
+      <guid>https://go.face2ai.com/math/math-statistics-1-0-early-probability-theory.zh/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; 作为第一章的开篇文章，本文从数理统计学的由来开始，大致的说了一下整体的数理统计学的发展，后面逐一展开，进行介绍。
+&lt;strong&gt;Keywords:&lt;/strong&gt; 《推测术》，早期概率论，赌博&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

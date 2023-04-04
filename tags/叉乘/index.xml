@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>叉乘 on 谭升的博客</title>
+    <link>https://go.face2ai.com/tags/%E5%8F%89%E4%B9%98/</link>
+    <description>Recent content in 叉乘 on 谭升的博客</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Sun, 05 Nov 2017 10:09:53 +0000</lastBuildDate><atom:link href="https://go.face2ai.com/tags/%E5%8F%89%E4%B9%98/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>【线性代数】5-3:克莱姆法则，逆和体积(Cramer&#39;s Rule,Inverses,and Volumes)</title>
+      <link>https://go.face2ai.com/math/math-linear-algebra-chapter-5-3.zh/</link>
+      <pubDate>Sun, 05 Nov 2017 10:09:53 +0000</pubDate>
+      
+      <guid>https://go.face2ai.com/math/math-linear-algebra-chapter-5-3.zh/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; 本文主要介绍行列式的应用，包括求逆，求面积，求体积，以及叉乘的一些性质
+&lt;strong&gt;Keywords:&lt;/strong&gt; Inverses，Cramer&amp;rsquo;s Rule，Volumes，Determinant，Cross Product&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

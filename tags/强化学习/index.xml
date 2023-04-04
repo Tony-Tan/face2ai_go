@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>强化学习 on 谭升的博客</title>
+    <link>https://go.face2ai.com/tags/%E5%BC%BA%E5%8C%96%E5%AD%A6%E4%B9%A0/</link>
+    <description>Recent content in 强化学习 on 谭升的博客</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Wed, 10 Oct 2018 22:03:20 +0000</lastBuildDate><atom:link href="https://go.face2ai.com/tags/%E5%BC%BA%E5%8C%96%E5%AD%A6%E4%B9%A0/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>【强化学习】2.2 行为评价方法(Action-value Methods)</title>
+      <link>https://go.face2ai.com/%E5%BC%BA%E5%8C%96%E5%AD%A6%E4%B9%A0/rl-rsab-2-2-action-value-methods.zh/</link>
+      <pubDate>Wed, 10 Oct 2018 22:03:20 +0000</pubDate>
+      
+      <guid>https://go.face2ai.com/%E5%BC%BA%E5%8C%96%E5%AD%A6%E4%B9%A0/rl-rsab-2-2-action-value-methods.zh/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; 本文介绍第一种强化学习方法——行为评价方法(Action-value Methods)，非常简单但是可以通过这个简单的算法来感受下强化学习的难点和问题解决的思路
+&lt;strong&gt;Keywords:&lt;/strong&gt; 强化学习, k臂赌博机, 多臂赌博机, 利用, 探索, 行为评价方法，样本均值方法, $\varepsilon$-greedy方法&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>【强化学习】2.1 k臂赌博机(k-armed bandits)问题</title>
+      <link>https://go.face2ai.com/%E5%BC%BA%E5%8C%96%E5%AD%A6%E4%B9%A0/rl-rsab-2-1-a-k-armed-bandit-problem.zh/</link>
+      <pubDate>Mon, 08 Oct 2018 22:40:24 +0000</pubDate>
+      
+      <guid>https://go.face2ai.com/%E5%BC%BA%E5%8C%96%E5%AD%A6%E4%B9%A0/rl-rsab-2-1-a-k-armed-bandit-problem.zh/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; 在强化学习中，平衡Exploitation和Exploration将会是一个从始至终的问题，我们本章用简单的k臂赌博机问题来从具体的每一步来分析和研究这个问题，本节先介绍下问题的描述和大概的解决思路，为本章后面的问题解决做好铺垫
+&lt;strong&gt;Keywords:&lt;/strong&gt; 强化学习，k臂赌博机，多臂赌博机，利用，探索，Exploitation，Exploration&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>【强化学习】2.0 多臂赌博机</title>
+      <link>https://go.face2ai.com/%E5%BC%BA%E5%8C%96%E5%AD%A6%E4%B9%A0/rl-rsab-2-0-multi-armed-bandits.zh/</link>
+      <pubDate>Sun, 07 Oct 2018 17:03:13 +0000</pubDate>
+      
+      <guid>https://go.face2ai.com/%E5%BC%BA%E5%8C%96%E5%AD%A6%E4%B9%A0/rl-rsab-2-0-multi-armed-bandits.zh/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; 本文是第二章“多臂赌博机”的绪论，介绍本章主要内容
+&lt;strong&gt;Keywords:&lt;/strong&gt; 强化学习，多臂赌博机&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>【强化学习】1.6 本章总结、强化学习历史简述</title>
+      <link>https://go.face2ai.com/%E5%BC%BA%E5%8C%96%E5%AD%A6%E4%B9%A0/rl-rsab-1-6-summary-history.zh/</link>
+      <pubDate>Tue, 02 Oct 2018 16:56:30 +0000</pubDate>
+      
+      <guid>https://go.face2ai.com/%E5%BC%BA%E5%8C%96%E5%AD%A6%E4%B9%A0/rl-rsab-1-6-summary-history.zh/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; 强化学习第一章小结
+&lt;strong&gt;Keywords:&lt;/strong&gt; 强化学习历史，强化学习总结&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>【强化学习】 1.5 强化学习的一个扩展举例</title>
+      <link>https://go.face2ai.com/%E5%BC%BA%E5%8C%96%E5%AD%A6%E4%B9%A0/rl-rsab-1-5-an-extended-example.zh/</link>
+      <pubDate>Fri, 28 Sep 2018 08:42:24 +0000</pubDate>
+      
+      <guid>https://go.face2ai.com/%E5%BC%BA%E5%8C%96%E5%AD%A6%E4%B9%A0/rl-rsab-1-5-an-extended-example.zh/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; 本文介绍强化学习的一个具体例子，Tic-Tac-Toe，作为一种下棋类游戏，Tic-Tac-Toe规则简单，而且问题规模小，容易进行深入分析，了解强化学习在具体例子中的执行过程，进而了解强化学习的性质和特点。
+&lt;strong&gt;Keywords:&lt;/strong&gt; 强化学习，强化学习举例，Tic-Tac-Toe&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>【强化学习】 1.4.1 强化学习与优化方法</title>
+      <link>https://go.face2ai.com/%E5%BC%BA%E5%8C%96%E5%AD%A6%E4%B9%A0/rl-rsab-1-4-1-connection-to-optimization-method.zh/</link>
+      <pubDate>Wed, 26 Sep 2018 08:50:41 +0000</pubDate>
+      
+      <guid>https://go.face2ai.com/%E5%BC%BA%E5%8C%96%E5%AD%A6%E4%B9%A0/rl-rsab-1-4-1-connection-to-optimization-method.zh/</guid>
+      <description>&lt;p&gt;**Abstract:**本文介绍强化学习和优化方法之间的关系，他们之间一些共同误区以及强化学习的工程性质
+**Keywords:**强化学习，优化方法，强化学习工程化&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>【强化学习】 1.4.0 “进化方法”和 “决策梯度方法”  概论</title>
+      <link>https://go.face2ai.com/%E5%BC%BA%E5%8C%96%E5%AD%A6%E4%B9%A0/rl-rsab-1-4-0-limitations-and-scope.zh/</link>
+      <pubDate>Thu, 20 Sep 2018 12:59:01 +0000</pubDate>
+      
+      <guid>https://go.face2ai.com/%E5%BC%BA%E5%8C%96%E5%AD%A6%E4%B9%A0/rl-rsab-1-4-0-limitations-and-scope.zh/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;  本文介绍强化学习中的一些局限（limitation）和机遇（scope），介绍进化方法和决策梯度方法的区别和优劣
+&lt;strong&gt;Keywords:&lt;/strong&gt; Evolutionary Method，进化方法，Policy Gradient Methods，决策梯度方法&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>【强化学习】1.3 强化学习的基础元素</title>
+      <link>https://go.face2ai.com/%E5%BC%BA%E5%8C%96%E5%AD%A6%E4%B9%A0/rl-rsab-1-3-elements-of-rl.zh/</link>
+      <pubDate>Wed, 12 Sep 2018 21:51:01 +0000</pubDate>
+      
+      <guid>https://go.face2ai.com/%E5%BC%BA%E5%8C%96%E5%AD%A6%E4%B9%A0/rl-rsab-1-3-elements-of-rl.zh/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; 本文介绍除了agent和environment以外的，对于强化学习最重要的最基础的四个元素。
+&lt;strong&gt;Keywords:&lt;/strong&gt; Policy，策略，Reward Signal，奖励，Value Function，评价函数，Model of Environment，环境模型&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>【强化学习】1-2 强化学习举例</title>
+      <link>https://go.face2ai.com/%E5%BC%BA%E5%8C%96%E5%AD%A6%E4%B9%A0/rl-rsab-1-2-examples.zh/</link>
+      <pubDate>Thu, 30 Aug 2018 23:27:59 +0000</pubDate>
+      
+      <guid>https://go.face2ai.com/%E5%BC%BA%E5%8C%96%E5%AD%A6%E4%B9%A0/rl-rsab-1-2-examples.zh/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; 本文介绍几个对应于强化学习的生活中的例子，来具体化前面提到的名词和几个重要理论在自然界中的表现。
+&lt;strong&gt;Keywords:&lt;/strong&gt; 强化学习，强化学习举例，Agent，Environment，环境，Reaction，反应&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>【强化学习】1-1-4 强化学习和人工智能</title>
+      <link>https://go.face2ai.com/%E5%BC%BA%E5%8C%96%E5%AD%A6%E4%B9%A0/rl-rsab-1-1-4-reinforcement-learning.zh/</link>
+      <pubDate>Wed, 29 Aug 2018 23:54:34 +0000</pubDate>
+      
+      <guid>https://go.face2ai.com/%E5%BC%BA%E5%8C%96%E5%AD%A6%E4%B9%A0/rl-rsab-1-1-4-reinforcement-learning.zh/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; 本文主要介绍强化学习现阶段的情况，以及未来的去向的一种预测。
+&lt;strong&gt;Keywords:&lt;/strong&gt; modern Reinforcement Learning，现代强化学习，Psychology，心理学，Neuroscience，神经系统科学，mathematics，数学&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>【强化学习】1-1-3 强化学习基本框架</title>
+      <link>https://go.face2ai.com/%E5%BC%BA%E5%8C%96%E5%AD%A6%E4%B9%A0/rl-rsab-1-1-3-reinforcement-learning.zh/</link>
+      <pubDate>Wed, 29 Aug 2018 23:18:29 +0000</pubDate>
+      
+      <guid>https://go.face2ai.com/%E5%BC%BA%E5%8C%96%E5%AD%A6%E4%B9%A0/rl-rsab-1-1-3-reinforcement-learning.zh/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; 本文简要介绍强化学习的框架，以及框架中几个概念的基本关系
+&lt;strong&gt;Keywords:&lt;/strong&gt; agent，real-time，organism，robot，framwork&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>【强化学习】1-1-2 “探索”(Exploration)还是“ 利用”(Exploitation)都要“面向目标”(Goal-Direct)</title>
+      <link>https://go.face2ai.com/%E5%BC%BA%E5%8C%96%E5%AD%A6%E4%B9%A0/rl-rsab-1-1-2-reinforcement-learning.zh/</link>
+      <pubDate>Mon, 27 Aug 2018 22:55:15 +0000</pubDate>
+      
+      <guid>https://go.face2ai.com/%E5%BC%BA%E5%8C%96%E5%AD%A6%E4%B9%A0/rl-rsab-1-1-2-reinforcement-learning.zh/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; 本文介绍强化学习中最重要的一个挑战—— “探索”(Exploration)还是“ 利用”(Exploitation)
+&lt;strong&gt;Keywords:&lt;/strong&gt; Trade-Off，Exploration，Exploitation，Goal-Direct，平衡，探索，利用，目标导向&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>【强化学习】1.1.1 强化学习、监督学习和非监督学习</title>
+      <link>https://go.face2ai.com/%E5%BC%BA%E5%8C%96%E5%AD%A6%E4%B9%A0/rl-rsab-1-1-1-reinforcement-learning.zh/</link>
+      <pubDate>Sun, 26 Aug 2018 22:34:32 +0000</pubDate>
+      
+      <guid>https://go.face2ai.com/%E5%BC%BA%E5%8C%96%E5%AD%A6%E4%B9%A0/rl-rsab-1-1-1-reinforcement-learning.zh/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; 本文主要介绍强化学习，监督学习，非监督学习之间的不同。
+&lt;strong&gt;Keywords:&lt;/strong&gt; Supervised Learning，Unsupervised Learning，Reinforcement Learning&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>【强化学习】1.1.0 强化学习介绍</title>
+      <link>https://go.face2ai.com/%E5%BC%BA%E5%8C%96%E5%AD%A6%E4%B9%A0/rl-rsab-1-1-0-reinforcement-learning.zh/</link>
+      <pubDate>Sat, 25 Aug 2018 22:41:02 +0000</pubDate>
+      
+      <guid>https://go.face2ai.com/%E5%BC%BA%E5%8C%96%E5%AD%A6%E4%B9%A0/rl-rsab-1-1-0-reinforcement-learning.zh/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; 本文介绍Reinforcement Learning的具体特点和与其他机器学习算法不同之处，本文是一个骨架性的文章，所有专有名词都保持英文原始单词，具体内容会在后续中给出详细解答。
+&lt;strong&gt;Keywords:&lt;/strong&gt; Reinforcement Learning，Situation，Action，Enviroment，Closed-loop，Optimal Control，Markov Decision Processes，MDPs&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>【强化学习】1.0 强化学习介绍</title>
+      <link>https://go.face2ai.com/%E5%BC%BA%E5%8C%96%E5%AD%A6%E4%B9%A0/rl-rsab-1-0-introduction.zh/</link>
+      <pubDate>Wed, 22 Aug 2018 23:35:56 +0000</pubDate>
+      
+      <guid>https://go.face2ai.com/%E5%BC%BA%E5%8C%96%E5%AD%A6%E4%B9%A0/rl-rsab-1-0-introduction.zh/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; 本文是 《Reinforcement Learning: An Introduction》 的第一篇，介绍本书以及本系列的主要写作内容
+&lt;strong&gt;Keywords:&lt;/strong&gt; 学习的本质，诱发与结果(cause and effect)，计算近似，直接建模，强化学习&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

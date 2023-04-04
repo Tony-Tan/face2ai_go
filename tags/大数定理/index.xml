@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>大数定理 on 谭升的博客</title>
+    <link>https://go.face2ai.com/tags/%E5%A4%A7%E6%95%B0%E5%AE%9A%E7%90%86/</link>
+    <description>Recent content in 大数定理 on 谭升的博客</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Sat, 07 Apr 2018 21:07:42 +0000</lastBuildDate><atom:link href="https://go.face2ai.com/tags/%E5%A4%A7%E6%95%B0%E5%AE%9A%E7%90%86/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>【概率论】6-2:大数定理(The Law of Large Numbers)</title>
+      <link>https://go.face2ai.com/math/math-probability-6-2-the-law-of-large-numbers.zh/</link>
+      <pubDate>Sat, 07 Apr 2018 21:07:42 +0000</pubDate>
+      
+      <guid>https://go.face2ai.com/math/math-probability-6-2-the-law-of-large-numbers.zh/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; 本文介绍马尔科夫不等式，切比雪夫不等式，样本均值，和大数定理的知识内容
+&lt;strong&gt;Keywords:&lt;/strong&gt; Markov Inequality，Chebyshev Inequality，Sample Mean，The Law of Large Numbers&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

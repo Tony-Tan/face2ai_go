@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>负二项分布 on 谭升的博客</title>
+    <link>https://go.face2ai.com/tags/%E8%B4%9F%E4%BA%8C%E9%A1%B9%E5%88%86%E5%B8%83/</link>
+    <description>Recent content in 负二项分布 on 谭升的博客</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Thu, 29 Mar 2018 08:57:12 +0000</lastBuildDate><atom:link href="https://go.face2ai.com/tags/%E8%B4%9F%E4%BA%8C%E9%A1%B9%E5%88%86%E5%B8%83/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>【概率论】5-5:负二项分布(The Negative Binomial Distribution)</title>
+      <link>https://go.face2ai.com/math/math-probability-5-5-the-negative-binomial-distribution.zh/</link>
+      <pubDate>Thu, 29 Mar 2018 08:57:12 +0000</pubDate>
+      
+      <guid>https://go.face2ai.com/math/math-probability-5-5-the-negative-binomial-distribution.zh/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; 本文介绍负二项分布，几何分布的基础知识
+&lt;strong&gt;Keywords:&lt;/strong&gt; The Negative Binomial Distribution，The Geometric Distribution&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

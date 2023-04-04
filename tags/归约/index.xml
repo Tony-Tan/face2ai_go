@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>归约 on 谭升的博客</title>
+    <link>https://go.face2ai.com/tags/%E5%BD%92%E7%BA%A6/</link>
+    <description>Recent content in 归约 on 谭升的博客</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Mon, 04 Jun 2018 19:47:29 +0000</lastBuildDate><atom:link href="https://go.face2ai.com/tags/%E5%BD%92%E7%BA%A6/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>【CUDA 基础】5.3 减少全局内存访问</title>
+      <link>https://go.face2ai.com/%E7%BC%96%E7%A8%8B/cuda/cuda-f-5-3-%E5%87%8F%E5%B0%91%E5%85%A8%E5%B1%80%E5%86%85%E5%AD%98%E8%AE%BF%E9%97%AE.zh/</link>
+      <pubDate>Mon, 04 Jun 2018 19:47:29 +0000</pubDate>
+      
+      <guid>https://go.face2ai.com/%E7%BC%96%E7%A8%8B/cuda/cuda-f-5-3-%E5%87%8F%E5%B0%91%E5%85%A8%E5%B1%80%E5%86%85%E5%AD%98%E8%AE%BF%E9%97%AE.zh/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; 本文介绍使用共享内存进行归约，并比较全局内存归约与共享内存归约之间的性能差距
+&lt;strong&gt;Keywords:&lt;/strong&gt; 共享内存，归约&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>【CUDA 基础】3.5 展开循环</title>
+      <link>https://go.face2ai.com/%E7%BC%96%E7%A8%8B/cuda/cuda-f-3-5-%E5%B1%95%E5%BC%80%E5%BE%AA%E7%8E%AF.zh/</link>
+      <pubDate>Thu, 19 Apr 2018 21:02:08 +0000</pubDate>
+      
+      <guid>https://go.face2ai.com/%E7%BC%96%E7%A8%8B/cuda/cuda-f-3-5-%E5%B1%95%E5%BC%80%E5%BE%AA%E7%8E%AF.zh/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; 本文介绍循环展开技术，在归约的基础上继续加速。
+&lt;strong&gt;Keywords:&lt;/strong&gt; 展开归约，归约，模板函数&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

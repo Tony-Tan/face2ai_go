@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>边缘密度函数 on 谭升的博客</title>
+    <link>https://go.face2ai.com/tags/%E8%BE%B9%E7%BC%98%E5%AF%86%E5%BA%A6%E5%87%BD%E6%95%B0/</link>
+    <description>Recent content in 边缘密度函数 on 谭升的博客</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Fri, 09 Feb 2018 11:33:45 +0000</lastBuildDate><atom:link href="https://go.face2ai.com/tags/%E8%BE%B9%E7%BC%98%E5%AF%86%E5%BA%A6%E5%87%BD%E6%95%B0/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>【概率论】3-5:边缘分布(Marginal Distribution)</title>
+      <link>https://go.face2ai.com/math/math-probability-3-5-marginal-distributions.zh/</link>
+      <pubDate>Fri, 09 Feb 2018 11:33:45 +0000</pubDate>
+      
+      <guid>https://go.face2ai.com/math/math-probability-3-5-marginal-distributions.zh/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; 本文承接上文，对于二维联合分布，如何求出二维变量中一个变量的一个分布，也就是标题所说的边缘分布；以及对独立随机变量的讨论。
+&lt;strong&gt;Keywords:&lt;/strong&gt; Marginal p.f.,Marginal p.d.f.,Independent&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

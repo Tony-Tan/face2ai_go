@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>分布 on 谭升的博客</title>
+    <link>https://go.face2ai.com/tags/%E5%88%86%E5%B8%83/</link>
+    <description>Recent content in 分布 on 谭升的博客</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Tue, 27 Mar 2018 20:35:20 +0000</lastBuildDate><atom:link href="https://go.face2ai.com/tags/%E5%88%86%E5%B8%83/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>【概率论】5-1:各分布介绍(Special Distribution Introduction)</title>
+      <link>https://go.face2ai.com/math/math-probability-5-1-special-distributions.zh/</link>
+      <pubDate>Tue, 27 Mar 2018 20:35:20 +0000</pubDate>
+      
+      <guid>https://go.face2ai.com/math/math-probability-5-1-special-distributions.zh/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; 本文介绍本章关于分布的内容提要
+&lt;strong&gt;Keywords:&lt;/strong&gt; Distribution&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

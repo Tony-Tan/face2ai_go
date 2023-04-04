@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>线性组合 on 谭升的博客</title>
+    <link>https://go.face2ai.com/tags/%E7%BA%BF%E6%80%A7%E7%BB%84%E5%90%88/</link>
+    <description>Recent content in 线性组合 on 谭升的博客</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Mon, 04 Dec 2017 09:04:18 +0000</lastBuildDate><atom:link href="https://go.face2ai.com/tags/%E7%BA%BF%E6%80%A7%E7%BB%84%E5%90%88/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>【线性代数】7-1:线性变换思想(The Idea of a Linear Transformation)</title>
+      <link>https://go.face2ai.com/math/math-linear-algebra-chapter-7-1.zh/</link>
+      <pubDate>Mon, 04 Dec 2017 09:04:18 +0000</pubDate>
+      
+      <guid>https://go.face2ai.com/math/math-linear-algebra-chapter-7-1.zh/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; 本篇介绍线性代数的另一个角度，就是线性变换思想
+&lt;strong&gt;Keywords:&lt;/strong&gt; Linear Transformation，Linear Combination，Kernel，Range&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>【线性代数】1-1:线性组合(Linear Combinations)</title>
+      <link>https://go.face2ai.com/math/math-linear-algebra-chapter-1-1.zh/</link>
+      <pubDate>Mon, 28 Aug 2017 10:44:28 +0000</pubDate>
+      
+      <guid>https://go.face2ai.com/math/math-linear-algebra-chapter-1-1.zh/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; 线性组合详细说明
+&lt;strong&gt;Keywords:&lt;/strong&gt; Linear Combinations&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

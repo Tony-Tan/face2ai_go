@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>消元矩阵 on 谭升的博客</title>
+    <link>https://go.face2ai.com/tags/%E6%B6%88%E5%85%83%E7%9F%A9%E9%98%B5/</link>
+    <description>Recent content in 消元矩阵 on 谭升的博客</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Thu, 31 Aug 2017 17:55:10 +0000</lastBuildDate><atom:link href="https://go.face2ai.com/tags/%E6%B6%88%E5%85%83%E7%9F%A9%E9%98%B5/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>【线性代数】2-3:消元与矩阵的关系(Elimination and Matrix)</title>
+      <link>https://go.face2ai.com/math/math-linear-algebra-chapter-2-3.zh/</link>
+      <pubDate>Thu, 31 Aug 2017 17:55:10 +0000</pubDate>
+      
+      <guid>https://go.face2ai.com/math/math-linear-algebra-chapter-2-3.zh/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; 用大学的方法消元，也就是整个消元过程矩阵化，引出矩阵乘法
+&lt;strong&gt;Keywords:&lt;/strong&gt; Elimination Matrix，Matrix Multiplication，Augmented Matrix&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

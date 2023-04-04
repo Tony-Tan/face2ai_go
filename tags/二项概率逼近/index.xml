@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>二项概率逼近 on 谭升的博客</title>
+    <link>https://go.face2ai.com/tags/%E4%BA%8C%E9%A1%B9%E6%A6%82%E7%8E%87%E9%80%BC%E8%BF%91/</link>
+    <description>Recent content in 二项概率逼近 on 谭升的博客</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Tue, 01 May 2018 18:38:53 +0000</lastBuildDate><atom:link href="https://go.face2ai.com/tags/%E4%BA%8C%E9%A1%B9%E6%A6%82%E7%8E%87%E9%80%BC%E8%BF%91/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>【数理统计学简史】2.0 狄莫弗的二项概率逼近</title>
+      <link>https://go.face2ai.com/math/math-statistics-2-0-de-moivre-binomial-distribution.zh/</link>
+      <pubDate>Tue, 01 May 2018 18:38:53 +0000</pubDate>
+      
+      <guid>https://go.face2ai.com/math/math-statistics-2-0-de-moivre-binomial-distribution.zh/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; 本文作为第二章的开篇，主要介绍狄莫弗在二项概率逼近方面的研究，顺便解决了前面一篇我们说的伯努利大数定律中 $N$ 的确定方式。
+&lt;strong&gt;Keywords:&lt;/strong&gt; 狄莫弗，二项概率逼近&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

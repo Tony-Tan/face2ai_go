@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>特征值 on 谭升的博客</title>
+    <link>https://go.face2ai.com/tags/%E7%89%B9%E5%BE%81%E5%80%BC/</link>
+    <description>Recent content in 特征值 on 谭升的博客</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Thu, 30 Nov 2017 09:02:19 +0000</lastBuildDate><atom:link href="https://go.face2ai.com/tags/%E7%89%B9%E5%BE%81%E5%80%BC/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>【线性代数】6-7:SVD分解(Singular Value Decomposition-SVD)</title>
+      <link>https://go.face2ai.com/math/math-linear-algebra-chapter-6-7.zh/</link>
+      <pubDate>Thu, 30 Nov 2017 09:02:19 +0000</pubDate>
+      
+      <guid>https://go.face2ai.com/math/math-linear-algebra-chapter-6-7.zh/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; 本文介绍SVD，奇异值分解，应该可以算是本章最后的高潮部分了，也是在机器学习中我们最常用的一种变换，我们经常需要求矩阵的特征值特征向量，比如联合贝叶斯，PCA等常规操作，本文还有两个线性代数的应用，在图像压缩上，以及互联网搜索上。 &lt;strong&gt;Keywords:&lt;/strong&gt; Singular Value Decomposition,JPEG2000,Eigenvalues,Eigenvectors&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>【线性代数】6-6:相似矩阵(Similar Matrices)</title>
+      <link>https://go.face2ai.com/math/math-linear-algebra-chapter-6-6.zh/</link>
+      <pubDate>Wed, 29 Nov 2017 09:08:12 +0000</pubDate>
+      
+      <guid>https://go.face2ai.com/math/math-linear-algebra-chapter-6-6.zh/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; 本文主要介绍根据矩阵对角化以及特征值引出的相似矩阵的性质和特点
+&lt;strong&gt;Keywords:&lt;/strong&gt; Similar Matrices,Jordan Form,Eigenvalues,Eigenvectors&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>【线性代数】6-5:正定矩阵(Positive Definite Matrices)</title>
+      <link>https://go.face2ai.com/math/math-linear-algebra-chapter-6-5.zh/</link>
+      <pubDate>Fri, 24 Nov 2017 11:24:21 +0000</pubDate>
+      
+      <guid>https://go.face2ai.com/math/math-linear-algebra-chapter-6-5.zh/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; 关于正定矩阵的相关知识总结，正定矩阵在数学中的一个应用
+&lt;strong&gt;Keywords:&lt;/strong&gt; Positive Definite Matrices,Symmetric Matrices,Eigenvalues,Eigenvectors&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>【线性代数】6-4:对称矩阵(Symmetric Matrices)</title>
+      <link>https://go.face2ai.com/math/math-linear-algebra-chapter-6-4.zh/</link>
+      <pubDate>Wed, 22 Nov 2017 15:18:03 +0000</pubDate>
+      
+      <guid>https://go.face2ai.com/math/math-linear-algebra-chapter-6-4.zh/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; 本篇继续线性代数的高潮部分，对称矩阵，以及对称矩阵的一些性质
+&lt;strong&gt;Keywords:&lt;/strong&gt; Eigenvalues，Eigenvectors，Symmetric Matrices，Projection Matrices，Spectral Theorem，Principal Axis Theorem&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>【线性代数】6-3:微分方程的应用(Applications to Differential Equations)</title>
+      <link>https://go.face2ai.com/math/math-linear-algebra-chapter-6-3.zh/</link>
+      <pubDate>Wed, 22 Nov 2017 15:09:04 +0000</pubDate>
+      
+      <guid>https://go.face2ai.com/math/math-linear-algebra-chapter-6-3.zh/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; 本文主要介绍线性代数在微分方程中的应用
+&lt;strong&gt;Keywords:&lt;/strong&gt; Eigenvalues,Eigenvectors,Differential Equations&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>【线性代数】6-2:对角化(Diagonalizing a Matrix)</title>
+      <link>https://go.face2ai.com/math/math-linear-algebra-chapter-6-2.zh/</link>
+      <pubDate>Tue, 21 Nov 2017 11:48:42 +0000</pubDate>
+      
+      <guid>https://go.face2ai.com/math/math-linear-algebra-chapter-6-2.zh/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; 矩阵对角化，以及对角化过程中引入的知识，以及对角化的应用
+&lt;strong&gt;Keywords:&lt;/strong&gt; Eigenvalues,Eigenvectors,Diagonalizing,Fibonacci Numbers, $A^k$ ,Nondiagonalizable Matrix&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>【线性代数】6-1:特征值介绍(Introduction to Eigenvalues)</title>
+      <link>https://go.face2ai.com/math/math-linear-algebra-chapter-6-1.zh/</link>
+      <pubDate>Tue, 14 Nov 2017 18:13:04 +0000</pubDate>
+      
+      <guid>https://go.face2ai.com/math/math-linear-algebra-chapter-6-1.zh/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; 线性代数重点，关于矩阵特征值特征向量的相关知识第一篇文章，简单介绍特征值
+&lt;strong&gt;Keywords:&lt;/strong&gt; Eigenvalues，Eigenvectors，Sigular，Markov matrix，Trace，Imaginary Eigenvalues&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>条件概率 on 谭升的博客</title>
+    <link>https://go.face2ai.com/tags/%E6%9D%A1%E4%BB%B6%E6%A6%82%E7%8E%87/</link>
+    <description>Recent content in 条件概率 on 谭升的博客</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Wed, 31 Jan 2018 10:34:36 +0000</lastBuildDate><atom:link href="https://go.face2ai.com/tags/%E6%9D%A1%E4%BB%B6%E6%A6%82%E7%8E%87/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>【概率论】2-1:条件概率(Conditional Probability)</title>
+      <link>https://go.face2ai.com/math/math-probability-2-1-conditional-probability.zh/</link>
+      <pubDate>Wed, 31 Jan 2018 10:34:36 +0000</pubDate>
+      
+      <guid>https://go.face2ai.com/math/math-probability-2-1-conditional-probability.zh/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; 本文介绍条件概率的定义及相关知识，提出全概率公式
+&lt;strong&gt;Keywords:&lt;/strong&gt; Conditional Probability，Multiplication Rule，Partitions
+，Law of total Probability&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

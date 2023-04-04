@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://go.face2ai.com/sitemap.xml

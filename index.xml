@@ -1,0 +1,2730 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>谭升的博客</title>
+    <link>https://go.face2ai.com/</link>
+    <description>Recent content on 谭升的博客</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Sat, 24 Nov 2018 11:26:33 +0000</lastBuildDate><atom:link href="https://go.face2ai.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>一封来自读者的信</title>
+      <link>https://go.face2ai.com/%E5%85%B6%E4%BB%96/other-a-mail.zh/</link>
+      <pubDate>Sat, 24 Nov 2018 11:26:33 +0000</pubDate>
+      
+      <guid>https://go.face2ai.com/%E5%85%B6%E4%BB%96/other-a-mail.zh/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; 一封来自读者的信
+&lt;strong&gt;Keywords:&lt;/strong&gt; 计算机视觉，就业，人工智能，深度学习&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>【强化学习】2.2 行为评价方法(Action-value Methods)</title>
+      <link>https://go.face2ai.com/%E5%BC%BA%E5%8C%96%E5%AD%A6%E4%B9%A0/rl-rsab-2-2-action-value-methods.zh/</link>
+      <pubDate>Wed, 10 Oct 2018 22:03:20 +0000</pubDate>
+      
+      <guid>https://go.face2ai.com/%E5%BC%BA%E5%8C%96%E5%AD%A6%E4%B9%A0/rl-rsab-2-2-action-value-methods.zh/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; 本文介绍第一种强化学习方法——行为评价方法(Action-value Methods)，非常简单但是可以通过这个简单的算法来感受下强化学习的难点和问题解决的思路
+&lt;strong&gt;Keywords:&lt;/strong&gt; 强化学习, k臂赌博机, 多臂赌博机, 利用, 探索, 行为评价方法，样本均值方法, $\varepsilon$-greedy方法&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>【Hexo】Hexo下next主题valine强化版本的改造</title>
+      <link>https://go.face2ai.com/%E5%85%B6%E4%BB%96/other-hexo-next-valine-leancloud.zh/</link>
+      <pubDate>Wed, 10 Oct 2018 15:03:36 +0000</pubDate>
+      
+      <guid>https://go.face2ai.com/%E5%85%B6%E4%BB%96/other-hexo-next-valine-leancloud.zh/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; 本文介绍Valine评论系统的自定义
+&lt;strong&gt;Keywords:&lt;/strong&gt; Hexo，Next，Valine评论系统，Valine邮件&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>【强化学习】2.1 k臂赌博机(k-armed bandits)问题</title>
+      <link>https://go.face2ai.com/%E5%BC%BA%E5%8C%96%E5%AD%A6%E4%B9%A0/rl-rsab-2-1-a-k-armed-bandit-problem.zh/</link>
+      <pubDate>Mon, 08 Oct 2018 22:40:24 +0000</pubDate>
+      
+      <guid>https://go.face2ai.com/%E5%BC%BA%E5%8C%96%E5%AD%A6%E4%B9%A0/rl-rsab-2-1-a-k-armed-bandit-problem.zh/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; 在强化学习中，平衡Exploitation和Exploration将会是一个从始至终的问题，我们本章用简单的k臂赌博机问题来从具体的每一步来分析和研究这个问题，本节先介绍下问题的描述和大概的解决思路，为本章后面的问题解决做好铺垫
+&lt;strong&gt;Keywords:&lt;/strong&gt; 强化学习，k臂赌博机，多臂赌博机，利用，探索，Exploitation，Exploration&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>【强化学习】2.0 多臂赌博机</title>
+      <link>https://go.face2ai.com/%E5%BC%BA%E5%8C%96%E5%AD%A6%E4%B9%A0/rl-rsab-2-0-multi-armed-bandits.zh/</link>
+      <pubDate>Sun, 07 Oct 2018 17:03:13 +0000</pubDate>
+      
+      <guid>https://go.face2ai.com/%E5%BC%BA%E5%8C%96%E5%AD%A6%E4%B9%A0/rl-rsab-2-0-multi-armed-bandits.zh/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; 本文是第二章“多臂赌博机”的绪论，介绍本章主要内容
+&lt;strong&gt;Keywords:&lt;/strong&gt; 强化学习，多臂赌博机&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>【强化学习】1.6 本章总结、强化学习历史简述</title>
+      <link>https://go.face2ai.com/%E5%BC%BA%E5%8C%96%E5%AD%A6%E4%B9%A0/rl-rsab-1-6-summary-history.zh/</link>
+      <pubDate>Tue, 02 Oct 2018 16:56:30 +0000</pubDate>
+      
+      <guid>https://go.face2ai.com/%E5%BC%BA%E5%8C%96%E5%AD%A6%E4%B9%A0/rl-rsab-1-6-summary-history.zh/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; 强化学习第一章小结
+&lt;strong&gt;Keywords:&lt;/strong&gt; 强化学习历史，强化学习总结&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>【强化学习】 1.5 强化学习的一个扩展举例</title>
+      <link>https://go.face2ai.com/%E5%BC%BA%E5%8C%96%E5%AD%A6%E4%B9%A0/rl-rsab-1-5-an-extended-example.zh/</link>
+      <pubDate>Fri, 28 Sep 2018 08:42:24 +0000</pubDate>
+      
+      <guid>https://go.face2ai.com/%E5%BC%BA%E5%8C%96%E5%AD%A6%E4%B9%A0/rl-rsab-1-5-an-extended-example.zh/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; 本文介绍强化学习的一个具体例子，Tic-Tac-Toe，作为一种下棋类游戏，Tic-Tac-Toe规则简单，而且问题规模小，容易进行深入分析，了解强化学习在具体例子中的执行过程，进而了解强化学习的性质和特点。
+&lt;strong&gt;Keywords:&lt;/strong&gt; 强化学习，强化学习举例，Tic-Tac-Toe&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>【强化学习】 1.4.1 强化学习与优化方法</title>
+      <link>https://go.face2ai.com/%E5%BC%BA%E5%8C%96%E5%AD%A6%E4%B9%A0/rl-rsab-1-4-1-connection-to-optimization-method.zh/</link>
+      <pubDate>Wed, 26 Sep 2018 08:50:41 +0000</pubDate>
+      
+      <guid>https://go.face2ai.com/%E5%BC%BA%E5%8C%96%E5%AD%A6%E4%B9%A0/rl-rsab-1-4-1-connection-to-optimization-method.zh/</guid>
+      <description>&lt;p&gt;**Abstract:**本文介绍强化学习和优化方法之间的关系，他们之间一些共同误区以及强化学习的工程性质
+**Keywords:**强化学习，优化方法，强化学习工程化&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>【信息论、推理与学习算法】本系列博客介绍</title>
+      <link>https://go.face2ai.com/math/itila-introduction-to-this-series/</link>
+      <pubDate>Fri, 21 Sep 2018 11:53:59 +0000</pubDate>
+      
+      <guid>https://go.face2ai.com/math/itila-introduction-to-this-series/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; 本文是本系列的第一篇，介绍本系列的主要内容
+&lt;strong&gt;Keywords:&lt;/strong&gt; Information Theory，信息论，Inference，推理，Learning Algorithms，学习算法&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>【强化学习】 1.4.0 “进化方法”和 “决策梯度方法”  概论</title>
+      <link>https://go.face2ai.com/%E5%BC%BA%E5%8C%96%E5%AD%A6%E4%B9%A0/rl-rsab-1-4-0-limitations-and-scope.zh/</link>
+      <pubDate>Thu, 20 Sep 2018 12:59:01 +0000</pubDate>
+      
+      <guid>https://go.face2ai.com/%E5%BC%BA%E5%8C%96%E5%AD%A6%E4%B9%A0/rl-rsab-1-4-0-limitations-and-scope.zh/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;  本文介绍强化学习中的一些局限（limitation）和机遇（scope），介绍进化方法和决策梯度方法的区别和优劣
+&lt;strong&gt;Keywords:&lt;/strong&gt; Evolutionary Method，进化方法，Policy Gradient Methods，决策梯度方法&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>【强化学习】1.3 强化学习的基础元素</title>
+      <link>https://go.face2ai.com/%E5%BC%BA%E5%8C%96%E5%AD%A6%E4%B9%A0/rl-rsab-1-3-elements-of-rl.zh/</link>
+      <pubDate>Wed, 12 Sep 2018 21:51:01 +0000</pubDate>
+      
+      <guid>https://go.face2ai.com/%E5%BC%BA%E5%8C%96%E5%AD%A6%E4%B9%A0/rl-rsab-1-3-elements-of-rl.zh/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; 本文介绍除了agent和environment以外的，对于强化学习最重要的最基础的四个元素。
+&lt;strong&gt;Keywords:&lt;/strong&gt; Policy，策略，Reward Signal，奖励，Value Function，评价函数，Model of Environment，环境模型&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>【强化学习】1-2 强化学习举例</title>
+      <link>https://go.face2ai.com/%E5%BC%BA%E5%8C%96%E5%AD%A6%E4%B9%A0/rl-rsab-1-2-examples.zh/</link>
+      <pubDate>Thu, 30 Aug 2018 23:27:59 +0000</pubDate>
+      
+      <guid>https://go.face2ai.com/%E5%BC%BA%E5%8C%96%E5%AD%A6%E4%B9%A0/rl-rsab-1-2-examples.zh/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; 本文介绍几个对应于强化学习的生活中的例子，来具体化前面提到的名词和几个重要理论在自然界中的表现。
+&lt;strong&gt;Keywords:&lt;/strong&gt; 强化学习，强化学习举例，Agent，Environment，环境，Reaction，反应&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>【强化学习】1-1-4 强化学习和人工智能</title>
+      <link>https://go.face2ai.com/%E5%BC%BA%E5%8C%96%E5%AD%A6%E4%B9%A0/rl-rsab-1-1-4-reinforcement-learning.zh/</link>
+      <pubDate>Wed, 29 Aug 2018 23:54:34 +0000</pubDate>
+      
+      <guid>https://go.face2ai.com/%E5%BC%BA%E5%8C%96%E5%AD%A6%E4%B9%A0/rl-rsab-1-1-4-reinforcement-learning.zh/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; 本文主要介绍强化学习现阶段的情况，以及未来的去向的一种预测。
+&lt;strong&gt;Keywords:&lt;/strong&gt; modern Reinforcement Learning，现代强化学习，Psychology，心理学，Neuroscience，神经系统科学，mathematics，数学&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>【强化学习】1-1-3 强化学习基本框架</title>
+      <link>https://go.face2ai.com/%E5%BC%BA%E5%8C%96%E5%AD%A6%E4%B9%A0/rl-rsab-1-1-3-reinforcement-learning.zh/</link>
+      <pubDate>Wed, 29 Aug 2018 23:18:29 +0000</pubDate>
+      
+      <guid>https://go.face2ai.com/%E5%BC%BA%E5%8C%96%E5%AD%A6%E4%B9%A0/rl-rsab-1-1-3-reinforcement-learning.zh/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; 本文简要介绍强化学习的框架，以及框架中几个概念的基本关系
+&lt;strong&gt;Keywords:&lt;/strong&gt; agent，real-time，organism，robot，framwork&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>【强化学习】1-1-2 “探索”(Exploration)还是“ 利用”(Exploitation)都要“面向目标”(Goal-Direct)</title>
+      <link>https://go.face2ai.com/%E5%BC%BA%E5%8C%96%E5%AD%A6%E4%B9%A0/rl-rsab-1-1-2-reinforcement-learning.zh/</link>
+      <pubDate>Mon, 27 Aug 2018 22:55:15 +0000</pubDate>
+      
+      <guid>https://go.face2ai.com/%E5%BC%BA%E5%8C%96%E5%AD%A6%E4%B9%A0/rl-rsab-1-1-2-reinforcement-learning.zh/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; 本文介绍强化学习中最重要的一个挑战—— “探索”(Exploration)还是“ 利用”(Exploitation)
+&lt;strong&gt;Keywords:&lt;/strong&gt; Trade-Off，Exploration，Exploitation，Goal-Direct，平衡，探索，利用，目标导向&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>【强化学习】1.1.1 强化学习、监督学习和非监督学习</title>
+      <link>https://go.face2ai.com/%E5%BC%BA%E5%8C%96%E5%AD%A6%E4%B9%A0/rl-rsab-1-1-1-reinforcement-learning.zh/</link>
+      <pubDate>Sun, 26 Aug 2018 22:34:32 +0000</pubDate>
+      
+      <guid>https://go.face2ai.com/%E5%BC%BA%E5%8C%96%E5%AD%A6%E4%B9%A0/rl-rsab-1-1-1-reinforcement-learning.zh/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; 本文主要介绍强化学习，监督学习，非监督学习之间的不同。
+&lt;strong&gt;Keywords:&lt;/strong&gt; Supervised Learning，Unsupervised Learning，Reinforcement Learning&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>【强化学习】1.1.0 强化学习介绍</title>
+      <link>https://go.face2ai.com/%E5%BC%BA%E5%8C%96%E5%AD%A6%E4%B9%A0/rl-rsab-1-1-0-reinforcement-learning.zh/</link>
+      <pubDate>Sat, 25 Aug 2018 22:41:02 +0000</pubDate>
+      
+      <guid>https://go.face2ai.com/%E5%BC%BA%E5%8C%96%E5%AD%A6%E4%B9%A0/rl-rsab-1-1-0-reinforcement-learning.zh/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; 本文介绍Reinforcement Learning的具体特点和与其他机器学习算法不同之处，本文是一个骨架性的文章，所有专有名词都保持英文原始单词，具体内容会在后续中给出详细解答。
+&lt;strong&gt;Keywords:&lt;/strong&gt; Reinforcement Learning，Situation，Action，Enviroment，Closed-loop，Optimal Control，Markov Decision Processes，MDPs&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>【强化学习】1.0 强化学习介绍</title>
+      <link>https://go.face2ai.com/%E5%BC%BA%E5%8C%96%E5%AD%A6%E4%B9%A0/rl-rsab-1-0-introduction.zh/</link>
+      <pubDate>Wed, 22 Aug 2018 23:35:56 +0000</pubDate>
+      
+      <guid>https://go.face2ai.com/%E5%BC%BA%E5%8C%96%E5%AD%A6%E4%B9%A0/rl-rsab-1-0-introduction.zh/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; 本文是 《Reinforcement Learning: An Introduction》 的第一篇，介绍本书以及本系列的主要写作内容
+&lt;strong&gt;Keywords:&lt;/strong&gt; 学习的本质，诱发与结果(cause and effect)，计算近似，直接建模，强化学习&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>【PRML】Introduction 介绍</title>
+      <link>https://go.face2ai.com/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/machinelearning-prml-1-introduction.zh/</link>
+      <pubDate>Tue, 17 Jul 2018 22:27:10 +0000</pubDate>
+      
+      <guid>https://go.face2ai.com/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/machinelearning-prml-1-introduction.zh/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; In this section, we introduct what is Machine Learning, pattern recognition, and some relative concepts.
+&lt;strong&gt;Keywords:&lt;/strong&gt; &amp;ldquo;Pattern Recognition and Machine Learning&amp;rdquo;, Introduction, Machine Learning&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>【CUDA 基础】6.5 流回调</title>
+      <link>https://go.face2ai.com/%E7%BC%96%E7%A8%8B/cuda/cuda-f-6-5-%E6%B5%81%E5%9B%9E%E8%B0%83.zh/</link>
+      <pubDate>Wed, 20 Jun 2018 21:56:18 +0000</pubDate>
+      
+      <guid>https://go.face2ai.com/%E7%BC%96%E7%A8%8B/cuda/cuda-f-6-5-%E6%B5%81%E5%9B%9E%E8%B0%83.zh/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; 本文介绍流回调
+&lt;strong&gt;Keywords:&lt;/strong&gt; 流回调&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>【CUDA 基础】6.4 重叠GPU和CPU的执行</title>
+      <link>https://go.face2ai.com/%E7%BC%96%E7%A8%8B/cuda/cuda-f-6-4-%E9%87%8D%E5%8F%A0gpu%E5%92%8Ccpu%E7%9A%84%E6%89%A7%E8%A1%8C.zh/</link>
+      <pubDate>Wed, 20 Jun 2018 21:56:05 +0000</pubDate>
+      
+      <guid>https://go.face2ai.com/%E7%BC%96%E7%A8%8B/cuda/cuda-f-6-4-%E9%87%8D%E5%8F%A0gpu%E5%92%8Ccpu%E7%9A%84%E6%89%A7%E8%A1%8C.zh/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; 本文介绍如何进行GPU和CPU的重叠执行
+&lt;strong&gt;Keywords:&lt;/strong&gt; 重叠GPU和CPU的执行&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>【CUDA 基础】6.3 重叠内核执行和数据传输</title>
+      <link>https://go.face2ai.com/%E7%BC%96%E7%A8%8B/cuda/cuda-f-6-3-%E9%87%8D%E5%8F%A0%E5%86%85%E6%A0%B8%E6%89%A7%E8%A1%8C%E5%92%8C%E6%95%B0%E6%8D%AE%E4%BC%A0%E8%BE%93.zh/</link>
+      <pubDate>Wed, 20 Jun 2018 20:10:09 +0000</pubDate>
+      
+      <guid>https://go.face2ai.com/%E7%BC%96%E7%A8%8B/cuda/cuda-f-6-3-%E9%87%8D%E5%8F%A0%E5%86%85%E6%A0%B8%E6%89%A7%E8%A1%8C%E5%92%8C%E6%95%B0%E6%8D%AE%E4%BC%A0%E8%BE%93.zh/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; 本文介绍如何利用流的重叠来隐藏主机到设备的数据传输延迟
+&lt;strong&gt;Keywords:&lt;/strong&gt; 深度优先，广度优先&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>【CUDA 基础】6.2 并发内核执行</title>
+      <link>https://go.face2ai.com/%E7%BC%96%E7%A8%8B/cuda/cuda-f-6-2-%E5%B9%B6%E5%8F%91%E5%86%85%E6%A0%B8%E6%89%A7%E8%A1%8C.zh/</link>
+      <pubDate>Mon, 18 Jun 2018 22:04:08 +0000</pubDate>
+      
+      <guid>https://go.face2ai.com/%E7%BC%96%E7%A8%8B/cuda/cuda-f-6-2-%E5%B9%B6%E5%8F%91%E5%86%85%E6%A0%B8%E6%89%A7%E8%A1%8C.zh/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; 本文介绍内核的并发执行，以及相关的知识
+&lt;strong&gt;Keywords:&lt;/strong&gt; 流，事件，深度优先，广度优先，硬件工作队列，默认流阻塞行为&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>【数值分析】0.4 有效数字缺失</title>
+      <link>https://go.face2ai.com/math/math-numerical-analysis-0-4-significant-digit.zh/</link>
+      <pubDate>Wed, 13 Jun 2018 19:16:27 +0000</pubDate>
+      
+      <guid>https://go.face2ai.com/math/math-numerical-analysis-0-4-significant-digit.zh/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; 本文介绍计算机在计算中有可能引发的有效数字缺失
+&lt;strong&gt;Keywords:&lt;/strong&gt; 有效数字缺失&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>【CUDA 基础】6.1 流和事件概述</title>
+      <link>https://go.face2ai.com/%E7%BC%96%E7%A8%8B/cuda/cuda-f-6-1-%E6%B5%81%E5%92%8C%E4%BA%8B%E4%BB%B6%E6%A6%82%E8%BF%B0.zh/</link>
+      <pubDate>Sun, 10 Jun 2018 21:45:15 +0000</pubDate>
+      
+      <guid>https://go.face2ai.com/%E7%BC%96%E7%A8%8B/cuda/cuda-f-6-1-%E6%B5%81%E5%92%8C%E4%BA%8B%E4%BB%B6%E6%A6%82%E8%BF%B0.zh/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; 本文介绍CUDA中流和事件的理论描述。
+&lt;strong&gt;Keywords:&lt;/strong&gt; 流，事件&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>【CUDA 基础】6.0 流和并发</title>
+      <link>https://go.face2ai.com/%E7%BC%96%E7%A8%8B/cuda/cuda-f-6-0-%E6%B5%81%E5%92%8C%E5%B9%B6%E5%8F%91.zh/</link>
+      <pubDate>Sun, 10 Jun 2018 20:21:37 +0000</pubDate>
+      
+      <guid>https://go.face2ai.com/%E7%BC%96%E7%A8%8B/cuda/cuda-f-6-0-%E6%B5%81%E5%92%8C%E5%B9%B6%E5%8F%91.zh/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; 本文是第六章的概述，本章也是Freshman的最后一个章节。
+&lt;strong&gt;Keywords:&lt;/strong&gt; 流，事件，网格级并行，同步机制，NVVP&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>【数值分析】0.3 实数的浮点表示</title>
+      <link>https://go.face2ai.com/math/math-numerical-analysis-0-3-float.zh/</link>
+      <pubDate>Thu, 07 Jun 2018 06:19:13 +0000</pubDate>
+      
+      <guid>https://go.face2ai.com/math/math-numerical-analysis-0-3-float.zh/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; 本文介绍实数在计算机内的浮点数表示方法
+&lt;strong&gt;Keywords:&lt;/strong&gt; 浮点表示，IEEE754&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>【CUDA 基础】5.6 线程束洗牌指令</title>
+      <link>https://go.face2ai.com/%E7%BC%96%E7%A8%8B/cuda/cuda-f-5-6-%E7%BA%BF%E7%A8%8B%E6%9D%9F%E6%B4%97%E7%89%8C%E6%8C%87%E4%BB%A4.zh/</link>
+      <pubDate>Wed, 06 Jun 2018 19:53:12 +0000</pubDate>
+      
+      <guid>https://go.face2ai.com/%E7%BC%96%E7%A8%8B/cuda/cuda-f-5-6-%E7%BA%BF%E7%A8%8B%E6%9D%9F%E6%B4%97%E7%89%8C%E6%8C%87%E4%BB%A4.zh/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; 本文介绍线程束洗牌指令的用法
+&lt;strong&gt;Keywords:&lt;/strong&gt; 线程束洗牌指令&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>【CUDA 基础】5.5 常量内存</title>
+      <link>https://go.face2ai.com/%E7%BC%96%E7%A8%8B/cuda/cuda-f-5-5-%E5%B8%B8%E9%87%8F%E5%86%85%E5%AD%98.zh/</link>
+      <pubDate>Wed, 06 Jun 2018 06:20:07 +0000</pubDate>
+      
+      <guid>https://go.face2ai.com/%E7%BC%96%E7%A8%8B/cuda/cuda-f-5-5-%E5%B8%B8%E9%87%8F%E5%86%85%E5%AD%98.zh/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; 本文介绍另外两种内存——常量内存，只读缓存
+&lt;strong&gt;Keywords:&lt;/strong&gt; CUDA常量内存，CUDA只读缓存&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>【CUDA 基础】5.4 合并的全局内存访问</title>
+      <link>https://go.face2ai.com/%E7%BC%96%E7%A8%8B/cuda/cuda-f-5-4-%E5%90%88%E5%B9%B6%E7%9A%84%E5%85%A8%E5%B1%80%E5%86%85%E5%AD%98%E8%AE%BF%E9%97%AE.zh/</link>
+      <pubDate>Mon, 04 Jun 2018 21:34:22 +0000</pubDate>
+      
+      <guid>https://go.face2ai.com/%E7%BC%96%E7%A8%8B/cuda/cuda-f-5-4-%E5%90%88%E5%B9%B6%E7%9A%84%E5%85%A8%E5%B1%80%E5%86%85%E5%AD%98%E8%AE%BF%E9%97%AE.zh/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; 本文介绍使用共享内存进行矩阵转置以减少内存的交叉访问
+&lt;strong&gt;Keywords:&lt;/strong&gt; 合并，转置&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>【CUDA 基础】5.3 减少全局内存访问</title>
+      <link>https://go.face2ai.com/%E7%BC%96%E7%A8%8B/cuda/cuda-f-5-3-%E5%87%8F%E5%B0%91%E5%85%A8%E5%B1%80%E5%86%85%E5%AD%98%E8%AE%BF%E9%97%AE.zh/</link>
+      <pubDate>Mon, 04 Jun 2018 19:47:29 +0000</pubDate>
+      
+      <guid>https://go.face2ai.com/%E7%BC%96%E7%A8%8B/cuda/cuda-f-5-3-%E5%87%8F%E5%B0%91%E5%85%A8%E5%B1%80%E5%86%85%E5%AD%98%E8%AE%BF%E9%97%AE.zh/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; 本文介绍使用共享内存进行归约，并比较全局内存归约与共享内存归约之间的性能差距
+&lt;strong&gt;Keywords:&lt;/strong&gt; 共享内存，归约&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>【CUDA 基础】5.2 共享内存的数据布局</title>
+      <link>https://go.face2ai.com/%E7%BC%96%E7%A8%8B/cuda/cuda-f-5-2-%E5%85%B1%E4%BA%AB%E5%86%85%E5%AD%98%E7%9A%84%E6%95%B0%E6%8D%AE%E5%B8%83%E5%B1%80.zh/</link>
+      <pubDate>Sat, 02 Jun 2018 21:01:03 +0000</pubDate>
+      
+      <guid>https://go.face2ai.com/%E7%BC%96%E7%A8%8B/cuda/cuda-f-5-2-%E5%85%B1%E4%BA%AB%E5%86%85%E5%AD%98%E7%9A%84%E6%95%B0%E6%8D%AE%E5%B8%83%E5%B1%80.zh/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; 本文主要研究几个关于共享内存的例子，以此来了解共享内存的性质，为我们的核函数加速
+&lt;strong&gt;Keywords:&lt;/strong&gt; 行主序，列主序，填充与无填充，从线程索引体映射数据元素&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>【CUDA 基础】5.1 CUDA共享内存概述</title>
+      <link>https://go.face2ai.com/%E7%BC%96%E7%A8%8B/cuda/cuda-f-5-1-cuda%E5%85%B1%E4%BA%AB%E5%86%85%E5%AD%98%E6%A6%82%E8%BF%B0.zh/</link>
+      <pubDate>Fri, 01 Jun 2018 17:46:23 +0000</pubDate>
+      
+      <guid>https://go.face2ai.com/%E7%BC%96%E7%A8%8B/cuda/cuda-f-5-1-cuda%E5%85%B1%E4%BA%AB%E5%86%85%E5%AD%98%E6%A6%82%E8%BF%B0.zh/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; 本文为CUDA内存的概述，介绍共享内存的模型，分配，访问，配置，同步等内容
+&lt;strong&gt;Keywords:&lt;/strong&gt; 模型，分配，访问，配置，同步&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>【CUDA 基础】5.0 共享内存和常量内存</title>
+      <link>https://go.face2ai.com/%E7%BC%96%E7%A8%8B/cuda/cuda-f-5-0-%E5%85%B1%E4%BA%AB%E5%86%85%E5%AD%98%E5%92%8C%E5%B8%B8%E9%87%8F%E5%86%85%E5%AD%98.zh/</link>
+      <pubDate>Fri, 01 Jun 2018 16:46:49 +0000</pubDate>
+      
+      <guid>https://go.face2ai.com/%E7%BC%96%E7%A8%8B/cuda/cuda-f-5-0-%E5%85%B1%E4%BA%AB%E5%86%85%E5%AD%98%E5%92%8C%E5%B8%B8%E9%87%8F%E5%86%85%E5%AD%98.zh/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; 本文是第五章关于CUDA共享内存和常量内存的概述
+&lt;strong&gt;Keywords:&lt;/strong&gt; 共享内存，常量内存&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>【数值分析】0.2 二进制数字</title>
+      <link>https://go.face2ai.com/math/math-numerical-analysis-0-2-binary.zh/</link>
+      <pubDate>Thu, 31 May 2018 06:12:14 +0000</pubDate>
+      
+      <guid>https://go.face2ai.com/math/math-numerical-analysis-0-2-binary.zh/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; 本文介绍二进制数字的相关知识
+&lt;strong&gt;Keywords:&lt;/strong&gt; 数制，二进制，十进制&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>【数理统计理论基础】 1.1 导言</title>
+      <link>https://go.face2ai.com/math/math-statistics-basis-1-1-introduction.zh/</link>
+      <pubDate>Wed, 30 May 2018 14:15:45 +0000</pubDate>
+      
+      <guid>https://go.face2ai.com/math/math-statistics-basis-1-1-introduction.zh/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; 本文主要介绍数理统计学简史，以及数理统计学怎么应用
+&lt;strong&gt;Keywords:&lt;/strong&gt; 数理统计，数理统计应用&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>【数值分析】0.1 多项式求值</title>
+      <link>https://go.face2ai.com/math/math-numerical-analysis-0-1-polynomial-evaluation.zh/</link>
+      <pubDate>Wed, 30 May 2018 06:56:04 +0000</pubDate>
+      
+      <guid>https://go.face2ai.com/math/math-numerical-analysis-0-1-polynomial-evaluation.zh/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; 本文介绍多项式求值的相关内容。
+&lt;strong&gt;Keywords:&lt;/strong&gt; 多项式求值，霍纳方法&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>【数值分析】数值分析介绍(Big Picture)</title>
+      <link>https://go.face2ai.com/math/math-numerical-analysis-0-0-introduction.zh/</link>
+      <pubDate>Wed, 30 May 2018 06:10:16 +0000</pubDate>
+      
+      <guid>https://go.face2ai.com/math/math-numerical-analysis-0-0-introduction.zh/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; 数值分析课程介绍
+&lt;strong&gt;Keywords:&lt;/strong&gt; 数值分析&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>【麻省理工学院】人工智能课程安排</title>
+      <link>https://go.face2ai.com/%E5%85%B6%E4%BB%96/other-mit-undergraduate-programs-course-6-3.zh/</link>
+      <pubDate>Sat, 26 May 2018 17:58:27 +0000</pubDate>
+      
+      <guid>https://go.face2ai.com/%E5%85%B6%E4%BB%96/other-mit-undergraduate-programs-course-6-3.zh/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; MIT AI本课课程介绍
+&lt;strong&gt;Keywords:&lt;/strong&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>【斯坦福大学】人工智能课程安排</title>
+      <link>https://go.face2ai.com/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/machinelearning-stanford-artificial-intelligence-track.zh/</link>
+      <pubDate>Fri, 25 May 2018 13:17:17 +0000</pubDate>
+      
+      <guid>https://go.face2ai.com/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/machinelearning-stanford-artificial-intelligence-track.zh/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; 本文翻译自Stanford大学AI专业的课程选取表，为广大AI自学者提供自学建议
+&lt;strong&gt;Keywords:&lt;/strong&gt; Stanford Artificial Intelligence Track，人工智能课程，自学机器学习，自学人工智能，机器学习数学课程&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>【数理统计理论基础】 概览</title>
+      <link>https://go.face2ai.com/math/math-statistics-basis-0-0-big-picture.zh/</link>
+      <pubDate>Thu, 24 May 2018 13:58:55 +0000</pubDate>
+      
+      <guid>https://go.face2ai.com/math/math-statistics-basis-0-0-big-picture.zh/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; 本文为数理统计理论基础的第一篇，作为概览，从总体介绍数理统计系列的学习线路和相关博客写作的大体思路
+&lt;strong&gt;Keywords:&lt;/strong&gt; 统计学基础，数理统计学基础&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>【CUDA 基础】4.5 使用统一内存的向量加法</title>
+      <link>https://go.face2ai.com/%E7%BC%96%E7%A8%8B/cuda/cuda-f-4-5-%E4%BD%BF%E7%94%A8%E7%BB%9F%E4%B8%80%E5%86%85%E5%AD%98%E7%9A%84%E5%90%91%E9%87%8F%E5%8A%A0%E6%B3%95.zh/</link>
+      <pubDate>Mon, 14 May 2018 17:24:55 +0000</pubDate>
+      
+      <guid>https://go.face2ai.com/%E7%BC%96%E7%A8%8B/cuda/cuda-f-4-5-%E4%BD%BF%E7%94%A8%E7%BB%9F%E4%B8%80%E5%86%85%E5%AD%98%E7%9A%84%E5%90%91%E9%87%8F%E5%8A%A0%E6%B3%95.zh/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; 使用统一内存的CUDA程序——向量加法
+&lt;strong&gt;Keywords:&lt;/strong&gt; 统一内存，Uniform Memory&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>【CUDA 基础】4.4 核函数可达到的带宽</title>
+      <link>https://go.face2ai.com/%E7%BC%96%E7%A8%8B/cuda/cuda-f-4-4-%E6%A0%B8%E5%87%BD%E6%95%B0%E5%8F%AF%E8%BE%BE%E5%88%B0%E7%9A%84%E5%B8%A6%E5%AE%BD.zh/</link>
+      <pubDate>Sun, 13 May 2018 12:08:02 +0000</pubDate>
+      
+      <guid>https://go.face2ai.com/%E7%BC%96%E7%A8%8B/cuda/cuda-f-4-4-%E6%A0%B8%E5%87%BD%E6%95%B0%E5%8F%AF%E8%BE%BE%E5%88%B0%E7%9A%84%E5%B8%A6%E5%AE%BD.zh/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; 本文通过矩阵转置这一个例子，调整，优化核函数，使其达到最优的内存带宽
+&lt;strong&gt;Keywords:&lt;/strong&gt; 带宽，吞吐量，矩阵转置&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>【转】How to do Research At the MIT AI Lab</title>
+      <link>https://go.face2ai.com/%E5%85%B6%E4%BB%96/other-mit-how-to-research.zh/</link>
+      <pubDate>Thu, 10 May 2018 12:51:29 +0000</pubDate>
+      
+      <guid>https://go.face2ai.com/%E5%85%B6%E4%BB%96/other-mit-how-to-research.zh/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;  MASSACHUSETTS INSTITUTE OF TECHNOLOGY ARTIFICIAL INTELLIGENCE LABORATORY October, 1988
+&lt;strong&gt;Keywords:&lt;/strong&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>【数理统计学简史】2.3 狄莫弗初步结果的改进，与斯特林的联系</title>
+      <link>https://go.face2ai.com/math/math-statistics-2-3-communication-with-stirling.zh/</link>
+      <pubDate>Tue, 08 May 2018 17:04:12 +0000</pubDate>
+      
+      <guid>https://go.face2ai.com/math/math-statistics-2-3-communication-with-stirling.zh/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; 本文介绍狄莫弗与斯特林之间的联系，以及结果进一步的优化
+&lt;strong&gt;Keywords:&lt;/strong&gt; 二项分布，斯特林公式&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>【CUDA 基础】4.3 内存访问模式</title>
+      <link>https://go.face2ai.com/%E7%BC%96%E7%A8%8B/cuda/cuda-f-4-3-%E5%86%85%E5%AD%98%E8%AE%BF%E9%97%AE%E6%A8%A1%E5%BC%8F.zh/</link>
+      <pubDate>Thu, 03 May 2018 22:08:07 +0000</pubDate>
+      
+      <guid>https://go.face2ai.com/%E7%BC%96%E7%A8%8B/cuda/cuda-f-4-3-%E5%86%85%E5%AD%98%E8%AE%BF%E9%97%AE%E6%A8%A1%E5%BC%8F.zh/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; 本文介绍内存的访问过程，也就是从应用发起请求到硬件实现的完整操作过程，这里是优化内存瓶颈的关键之处，也是CUDA程序优化的基础。
+&lt;strong&gt;Keywords:&lt;/strong&gt; 内存访问模式，对齐，合并，缓存，结构体数组，数组结构体&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>【数理统计学简史】2.2 狄莫弗的初步结果</title>
+      <link>https://go.face2ai.com/math/math-statistics-2-2-de-moivre-naive-result.zh/</link>
+      <pubDate>Thu, 03 May 2018 17:14:58 +0000</pubDate>
+      
+      <guid>https://go.face2ai.com/math/math-statistics-2-2-de-moivre-naive-result.zh/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; 本文介绍狄莫弗上一篇之后得出的关于二项分布的近似计算
+&lt;strong&gt;Keywords:&lt;/strong&gt; 二项分布，斯特林公式&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>【数理统计学简史】2.1 狄莫弗研究的动因</title>
+      <link>https://go.face2ai.com/math/math-statistics-2-1-de-moivre-motive.zh/</link>
+      <pubDate>Wed, 02 May 2018 14:36:47 +0000</pubDate>
+      
+      <guid>https://go.face2ai.com/math/math-statistics-2-1-de-moivre-motive.zh/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; 本文介绍狄莫弗研究二项概率的动机，和伯努利大数定律产生联系的过程
+&lt;strong&gt;Keywords:&lt;/strong&gt; 狄莫弗，狄莫弗公式，二项概率，大数定律&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>【CUDA 基础】4.2 内存管理</title>
+      <link>https://go.face2ai.com/%E7%BC%96%E7%A8%8B/cuda/cuda-f-4-2-%E5%86%85%E5%AD%98%E7%AE%A1%E7%90%86.zh/</link>
+      <pubDate>Tue, 01 May 2018 21:39:47 +0000</pubDate>
+      
+      <guid>https://go.face2ai.com/%E7%BC%96%E7%A8%8B/cuda/cuda-f-4-2-%E5%86%85%E5%AD%98%E7%AE%A1%E7%90%86.zh/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; 本文主要介绍CUDA内存管理，以及CUDA内存模型下的各种内存的特点。
+&lt;strong&gt;Keywords:&lt;/strong&gt; CUDA内存管理，CUDA内存分配和释放，CUDA内存传输，固定内存，零拷贝内存，统一虚拟寻址，统一内存寻址&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>【数理统计学简史】2.0 狄莫弗的二项概率逼近</title>
+      <link>https://go.face2ai.com/math/math-statistics-2-0-de-moivre-binomial-distribution.zh/</link>
+      <pubDate>Tue, 01 May 2018 18:38:53 +0000</pubDate>
+      
+      <guid>https://go.face2ai.com/math/math-statistics-2-0-de-moivre-binomial-distribution.zh/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; 本文作为第二章的开篇，主要介绍狄莫弗在二项概率逼近方面的研究，顺便解决了前面一篇我们说的伯努利大数定律中 $N$ 的确定方式。
+&lt;strong&gt;Keywords:&lt;/strong&gt; 狄莫弗，二项概率逼近&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>【数理统计学简史】1.7 伯努利大数定律</title>
+      <link>https://go.face2ai.com/math/math-statistics-1-7-bernouli-law-of-large-numbers.zh/</link>
+      <pubDate>Mon, 30 Apr 2018 17:16:04 +0000</pubDate>
+      
+      <guid>https://go.face2ai.com/math/math-statistics-1-7-bernouli-law-of-large-numbers.zh/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; 本文介绍《推测术》中最精华的第四部分，提出历史性结论——伯努利大数定律
+&lt;strong&gt;Keywords:&lt;/strong&gt; 大数定律，伯努利大数定律，《推测术》，强大数律，弱大数律，切比雪夫不等式&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>【CUDA 基础】4.1 内存模型概述</title>
+      <link>https://go.face2ai.com/%E7%BC%96%E7%A8%8B/cuda/cuda-f-4-1-%E5%86%85%E5%AD%98%E6%A8%A1%E5%9E%8B%E6%A6%82%E8%BF%B0.zh/</link>
+      <pubDate>Sat, 28 Apr 2018 22:28:08 +0000</pubDate>
+      
+      <guid>https://go.face2ai.com/%E7%BC%96%E7%A8%8B/cuda/cuda-f-4-1-%E5%86%85%E5%AD%98%E6%A8%A1%E5%9E%8B%E6%A6%82%E8%BF%B0.zh/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; 本文介绍CUDA编程的内存模型个概述，主要讲解CUDA包含的几种内存，以及各种内存的主要特点和用途，这篇作为内存部分地图一样，指导我们后面的写作和学习。
+&lt;strong&gt;Keywords:&lt;/strong&gt; CUDA内存模型，CUDA内存层次结构，寄存器，共享内存，本地内存，常量内存，纹理内存，全局内存&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>【数理统计学简史】1.6 关于概率的几点看法</title>
+      <link>https://go.face2ai.com/math/math-statistics-1-6-some-idea-of-probability.zh/</link>
+      <pubDate>Sat, 28 Apr 2018 13:36:06 +0000</pubDate>
+      
+      <guid>https://go.face2ai.com/math/math-statistics-1-6-some-idea-of-probability.zh/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; 本文介绍一些关于概率的几点看法，主要来自伯努利的推测术。
+&lt;strong&gt;Keywords:&lt;/strong&gt; 主观概率，客观概率，《推测术》，先验，后验，因果律，道德确定性，小概率事件原理，贝叶斯&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>【CUDA 基础】4.0 全局内存</title>
+      <link>https://go.face2ai.com/%E7%BC%96%E7%A8%8B/cuda/cuda-f-4-0-%E5%85%A8%E5%B1%80%E5%86%85%E5%AD%98.zh/</link>
+      <pubDate>Sat, 28 Apr 2018 09:43:50 +0000</pubDate>
+      
+      <guid>https://go.face2ai.com/%E7%BC%96%E7%A8%8B/cuda/cuda-f-4-0-%E5%85%A8%E5%B1%80%E5%86%85%E5%AD%98.zh/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; 本文为学习CUDA编程的第四章的概要，主要介绍第四章研究的对象
+&lt;strong&gt;Keywords:&lt;/strong&gt; 全局内存，CUDA内存模型，CUDA内存管理，全局内存编程，全局内存访问模式，全局内存数据布局，统一内存编程，提高内存吞吐量。&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>【数理统计学简史】1.5 《推测术》前三部分内容提要</title>
+      <link>https://go.face2ai.com/math/math-statistics-1-5-ars-conjectandi-first-3-sections.zh/</link>
+      <pubDate>Thu, 26 Apr 2018 16:45:32 +0000</pubDate>
+      
+      <guid>https://go.face2ai.com/math/math-statistics-1-5-ars-conjectandi-first-3-sections.zh/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; 本文介绍《推测术》前三部分，主要是古典概率的系统化和深化
+&lt;strong&gt;Keywords:&lt;/strong&gt; 推测术，猜度术，排列，古典概率，全概率公式&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>【数理统计学简史】1.4 惠更斯的“机遇与规律”</title>
+      <link>https://go.face2ai.com/math/math-statistics-1-4-huygens.zh/</link>
+      <pubDate>Wed, 25 Apr 2018 16:21:46 +0000</pubDate>
+      
+      <guid>https://go.face2ai.com/math/math-statistics-1-4-huygens.zh/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; 本文介绍惠更斯的著作“机遇与规律”
+&lt;strong&gt;Keywords:&lt;/strong&gt; 期望，全概率公式，概率概念的形成&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>【数理统计学简史】1.3 帕斯卡和费马的通信</title>
+      <link>https://go.face2ai.com/math/math-statistics-1-3-pascal-fermat.zh/</link>
+      <pubDate>Tue, 24 Apr 2018 23:20:48 +0000</pubDate>
+      
+      <guid>https://go.face2ai.com/math/math-statistics-1-3-pascal-fermat.zh/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; 本文介绍帕斯卡和费马当时的通信中解决的一些概率问题，这些信件奠定了概率论的基础。
+&lt;strong&gt;Keywords:&lt;/strong&gt; 期望，分赌本问题，乘法定理，加法定理，全概率公式&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>【CUDA 基础】3.6 动态并行</title>
+      <link>https://go.face2ai.com/%E7%BC%96%E7%A8%8B/cuda/cuda-f-3-6-%E5%8A%A8%E6%80%81%E5%B9%B6%E8%A1%8C.zh/</link>
+      <pubDate>Tue, 24 Apr 2018 20:57:48 +0000</pubDate>
+      
+      <guid>https://go.face2ai.com/%E7%BC%96%E7%A8%8B/cuda/cuda-f-3-6-%E5%8A%A8%E6%80%81%E5%B9%B6%E8%A1%8C.zh/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; 本文介绍CUDA动态并行——在设备上运行时的网格启动新的子网格
+&lt;strong&gt;Keywords:&lt;/strong&gt; 动态并行，嵌套执行&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>【数理统计学简史】1.2 分赌本问题</title>
+      <link>https://go.face2ai.com/math/math-statistics-1-2-gambling-problem.zh/</link>
+      <pubDate>Mon, 23 Apr 2018 17:23:17 +0000</pubDate>
+      
+      <guid>https://go.face2ai.com/math/math-statistics-1-2-gambling-problem.zh/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; 本文介绍经典的分赌本问题的历史，和最后得出的解法，为期望的出现做了铺垫
+&lt;strong&gt;Keywords:&lt;/strong&gt; 分赌本问题，二项分布，期望，帕斯卡三角&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>【数理统计学简史】1.1 卡丹诺的著作</title>
+      <link>https://go.face2ai.com/math/math-statistics-1-1-cardano.zh/</link>
+      <pubDate>Sun, 22 Apr 2018 17:36:22 +0000</pubDate>
+      
+      <guid>https://go.face2ai.com/math/math-statistics-1-1-cardano.zh/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; 本文介绍概率最早形成时的大致情况，年代久远，本文中所说的都是由记载的，更早的相关内容无处考证
+&lt;strong&gt;Keywords:&lt;/strong&gt; 《机遇博弈》，组合公式，卡丹诺&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>【数理统计学简史】1.0 早期概率论——从萌芽到《推测术》</title>
+      <link>https://go.face2ai.com/math/math-statistics-1-0-early-probability-theory.zh/</link>
+      <pubDate>Sat, 21 Apr 2018 20:16:41 +0000</pubDate>
+      
+      <guid>https://go.face2ai.com/math/math-statistics-1-0-early-probability-theory.zh/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; 作为第一章的开篇文章，本文从数理统计学的由来开始，大致的说了一下整体的数理统计学的发展，后面逐一展开，进行介绍。
+&lt;strong&gt;Keywords:&lt;/strong&gt; 《推测术》，早期概率论，赌博&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>【数理统计学简史】 介绍</title>
+      <link>https://go.face2ai.com/math/math-statistics-history-introduction.zh/</link>
+      <pubDate>Fri, 20 Apr 2018 15:03:01 +0000</pubDate>
+      
+      <guid>https://go.face2ai.com/math/math-statistics-history-introduction.zh/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; 本文是数理统计学的第一篇文章，从数理统计学的发展过程来了解我们要研究什么
+&lt;strong&gt;Keywords:&lt;/strong&gt; 数学统计学简史&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>【CUDA 基础】3.5 展开循环</title>
+      <link>https://go.face2ai.com/%E7%BC%96%E7%A8%8B/cuda/cuda-f-3-5-%E5%B1%95%E5%BC%80%E5%BE%AA%E7%8E%AF.zh/</link>
+      <pubDate>Thu, 19 Apr 2018 21:02:08 +0000</pubDate>
+      
+      <guid>https://go.face2ai.com/%E7%BC%96%E7%A8%8B/cuda/cuda-f-3-5-%E5%B1%95%E5%BC%80%E5%BE%AA%E7%8E%AF.zh/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; 本文介绍循环展开技术，在归约的基础上继续加速。
+&lt;strong&gt;Keywords:&lt;/strong&gt; 展开归约，归约，模板函数&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>【CUDA 基础】3.4 避免分支分化</title>
+      <link>https://go.face2ai.com/%E7%BC%96%E7%A8%8B/cuda/cuda-f-3-4-%E9%81%BF%E5%85%8D%E5%88%86%E6%94%AF%E5%88%86%E5%8C%96.zh/</link>
+      <pubDate>Tue, 17 Apr 2018 23:32:55 +0000</pubDate>
+      
+      <guid>https://go.face2ai.com/%E7%BC%96%E7%A8%8B/cuda/cuda-f-3-4-%E9%81%BF%E5%85%8D%E5%88%86%E6%94%AF%E5%88%86%E5%8C%96.zh/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; 介绍规约问题中的分支分化问题
+&lt;strong&gt;Keywords:&lt;/strong&gt; 规约问题，分支分化 &lt;font color=&#34;ff0000&#34;&gt;此篇有些结果和参考书中结果相反，需要更深入的技术才能解决&lt;/font&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>【CUDA 基础】3.3 并行性表现</title>
+      <link>https://go.face2ai.com/%E7%BC%96%E7%A8%8B/cuda/cuda-f-3-3-%E5%B9%B6%E8%A1%8C%E6%80%A7%E8%A1%A8%E7%8E%B0.zh/</link>
+      <pubDate>Sun, 15 Apr 2018 21:17:52 +0000</pubDate>
+      
+      <guid>https://go.face2ai.com/%E7%BC%96%E7%A8%8B/cuda/cuda-f-3-3-%E5%B9%B6%E8%A1%8C%E6%80%A7%E8%A1%A8%E7%8E%B0.zh/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; 本文主要通过nvprof工具来分析核函数的执行效率（资源利用率）
+&lt;strong&gt;Keywords:&lt;/strong&gt; nvprof&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>【概率论】6-4:分布连续性修正(The Correction for Continuity)</title>
+      <link>https://go.face2ai.com/math/math-probability-6-4-the-correction-for-continuity.zh/</link>
+      <pubDate>Mon, 09 Apr 2018 15:25:31 +0000</pubDate>
+      
+      <guid>https://go.face2ai.com/math/math-probability-6-4-the-correction-for-continuity.zh/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; 本文介绍如何使用中心极限定理，将某区间上离散的随机变量，用一段连续的正态分布来近似
+&lt;strong&gt;Keywords:&lt;/strong&gt; The Central Limit Theorem，Approximation&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>【概率论】6-3:中心极限定理(The Central Limit Theorem)</title>
+      <link>https://go.face2ai.com/math/math-probability-6-3-the-central-limit-theorem.zh/</link>
+      <pubDate>Mon, 09 Apr 2018 09:21:44 +0000</pubDate>
+      
+      <guid>https://go.face2ai.com/math/math-probability-6-3-the-central-limit-theorem.zh/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; 本文介绍中心极限定理
+&lt;strong&gt;Keywords:&lt;/strong&gt; The Central Limit Theorem，The Normal distribution，The Delta Method&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>【概率论】6-2:大数定理(The Law of Large Numbers)</title>
+      <link>https://go.face2ai.com/math/math-probability-6-2-the-law-of-large-numbers.zh/</link>
+      <pubDate>Sat, 07 Apr 2018 21:07:42 +0000</pubDate>
+      
+      <guid>https://go.face2ai.com/math/math-probability-6-2-the-law-of-large-numbers.zh/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; 本文介绍马尔科夫不等式，切比雪夫不等式，样本均值，和大数定理的知识内容
+&lt;strong&gt;Keywords:&lt;/strong&gt; Markov Inequality，Chebyshev Inequality，Sample Mean，The Law of Large Numbers&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>【概率论】6-1:大样本介绍(Large Random Samples Introduction)</title>
+      <link>https://go.face2ai.com/math/math-probability-6-1-large-random-samples-introduction.zh/</link>
+      <pubDate>Sat, 07 Apr 2018 14:43:51 +0000</pubDate>
+      
+      <guid>https://go.face2ai.com/math/math-probability-6-1-large-random-samples-introduction.zh/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; 本文作为第六章的开篇主要介绍第六章我们要研究的内容
+&lt;strong&gt;Keywords:&lt;/strong&gt; Large Random Samples&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>【概率论】5-10:二维正态分布(The Bivariate Normal Distributions)</title>
+      <link>https://go.face2ai.com/math/math-probability-5-10-the-bivariate-normal-distributions.zh/</link>
+      <pubDate>Thu, 05 Apr 2018 22:03:55 +0000</pubDate>
+      
+      <guid>https://go.face2ai.com/math/math-probability-5-10-the-bivariate-normal-distributions.zh/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; 本文介绍第一个多变量连续分布——双变量正态分布(&lt;font color=&#34;ff0000&#34;&gt;本篇内有未证明定理，需要后续要补充&lt;/font&gt; )
+&lt;strong&gt;Keywords:&lt;/strong&gt; The Bivariate Normal Distributions&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>【概率论】5-9:多项式分布(The Multinomial Distributions)</title>
+      <link>https://go.face2ai.com/math/math-probability-5-9-multinomial-distribution.zh/</link>
+      <pubDate>Wed, 04 Apr 2018 22:17:23 +0000</pubDate>
+      
+      <guid>https://go.face2ai.com/math/math-probability-5-9-multinomial-distribution.zh/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; 本文介绍多项式分布的相关知识
+&lt;strong&gt;Keywords:&lt;/strong&gt; The Multinomial Distributions&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>【Hexo】Hexo下next主题畅言评论同步问题的解决方案</title>
+      <link>https://go.face2ai.com/%E5%85%B6%E4%BB%96/other-hexo-next-changyan.zh/</link>
+      <pubDate>Mon, 02 Apr 2018 20:36:17 +0000</pubDate>
+      
+      <guid>https://go.face2ai.com/%E5%85%B6%E4%BB%96/other-hexo-next-changyan.zh/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; 本文介绍如何解决畅言在Hexo下无法同步移动端和PC端评论的问题
+&lt;strong&gt;Keywords:&lt;/strong&gt; Hexo，next，畅言&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>【概率论】5-8:Beta分布(The Beta Distributions)</title>
+      <link>https://go.face2ai.com/math/math-probability-5-8-the-beta-distribution.zh/</link>
+      <pubDate>Mon, 02 Apr 2018 15:14:12 +0000</pubDate>
+      
+      <guid>https://go.face2ai.com/math/math-probability-5-8-the-beta-distribution.zh/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; 本文介绍Beta分布的相关知识内容 &lt;strong&gt;Keywords:&lt;/strong&gt; The Beta Distribution&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>【概率论】5-7:Gama分布(The Gamma Distributions Part II)</title>
+      <link>https://go.face2ai.com/math/math-probability-5-7-the-gamma-distributions-p2.zh/</link>
+      <pubDate>Mon, 02 Apr 2018 09:16:46 +0000</pubDate>
+      
+      <guid>https://go.face2ai.com/math/math-probability-5-7-the-gamma-distributions-p2.zh/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; 本文介绍Gamma分布相关知识的第二部分指数分布 &lt;strong&gt;Keywords:&lt;/strong&gt; The Exponential Distributions&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>【概率论】5-7:Gama分布(The Gamma Distributions Part I)</title>
+      <link>https://go.face2ai.com/math/math-probability-5-7-the-gamma-distributions-p1.zh/</link>
+      <pubDate>Sat, 31 Mar 2018 18:33:39 +0000</pubDate>
+      
+      <guid>https://go.face2ai.com/math/math-probability-5-7-the-gamma-distributions-p1.zh/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; 本文介绍Gamma函数和Gamma分布，本课第二部分介绍指数分布 &lt;strong&gt;Keywords:&lt;/strong&gt; The Gamma Distributions&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>【概率论】5-6:正态分布(The Normal Distributions Part III)</title>
+      <link>https://go.face2ai.com/math/math-probability-5-6-the-normal-distributions-p3.zh/</link>
+      <pubDate>Fri, 30 Mar 2018 08:58:10 +0000</pubDate>
+      
+      <guid>https://go.face2ai.com/math/math-probability-5-6-the-normal-distributions-p3.zh/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; 本文介绍正态分布第三部分，标准正态分布，正态分布的线性组合，对数正态分布以及对数正态分布
+&lt;strong&gt;Keywords:&lt;/strong&gt; The Normal Distributions，The Standard Normal Distribution&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>【概率论】5-6:正态分布(The Normal Distributions Part II)</title>
+      <link>https://go.face2ai.com/math/math-probability-5-6-the-normal-distributions-p2.zh/</link>
+      <pubDate>Thu, 29 Mar 2018 15:02:03 +0000</pubDate>
+      
+      <guid>https://go.face2ai.com/math/math-probability-5-6-the-normal-distributions-p2.zh/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; 本文介绍正态分布的数学性质
+&lt;strong&gt;Keywords:&lt;/strong&gt; The Normal Distributions&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>【概率论】5-6:正态分布(The Normal Distributions Part I)</title>
+      <link>https://go.face2ai.com/math/math-probability-5-6-the-normal-distributions-p1.zh/</link>
+      <pubDate>Thu, 29 Mar 2018 14:15:47 +0000</pubDate>
+      
+      <guid>https://go.face2ai.com/math/math-probability-5-6-the-normal-distributions-p1.zh/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; 本文介绍正态分布第一部分，关于正态分布的基本知识
+&lt;strong&gt;Keywords:&lt;/strong&gt; The Normal Distributions&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>【概率论】5-5:负二项分布(The Negative Binomial Distribution)</title>
+      <link>https://go.face2ai.com/math/math-probability-5-5-the-negative-binomial-distribution.zh/</link>
+      <pubDate>Thu, 29 Mar 2018 08:57:12 +0000</pubDate>
+      
+      <guid>https://go.face2ai.com/math/math-probability-5-5-the-negative-binomial-distribution.zh/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; 本文介绍负二项分布，几何分布的基础知识
+&lt;strong&gt;Keywords:&lt;/strong&gt; The Negative Binomial Distribution，The Geometric Distribution&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>【概率论】5-4:泊松分布(The Poisson Distribution)</title>
+      <link>https://go.face2ai.com/math/math-probability-5-4-the-poisson-distribution.zh/</link>
+      <pubDate>Wed, 28 Mar 2018 15:40:55 +0000</pubDate>
+      
+      <guid>https://go.face2ai.com/math/math-probability-5-4-the-poisson-distribution.zh/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; 本文介绍Poisson分布相关知识
+&lt;strong&gt;Keywords:&lt;/strong&gt; Poisson Distribution&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>【概率论】5-3:超几何分布(The Hypergeomtric Distribution)</title>
+      <link>https://go.face2ai.com/math/math-probability-5-3-the-hypergeomtirc-distribution.zh/</link>
+      <pubDate>Wed, 28 Mar 2018 09:27:39 +0000</pubDate>
+      
+      <guid>https://go.face2ai.com/math/math-probability-5-3-the-hypergeomtirc-distribution.zh/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; 本文主要介绍超几何分布
+&lt;strong&gt;Keywords:&lt;/strong&gt; Hypergeomtirc Distribution,Finite Population Correction&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>【概率论】5-2:伯努利和二项分布(The Bernoulli and Binomial Distributions)</title>
+      <link>https://go.face2ai.com/math/math-probability-5-2-the-bernoulli-and-binomial-distributions.zh/</link>
+      <pubDate>Tue, 27 Mar 2018 21:15:22 +0000</pubDate>
+      
+      <guid>https://go.face2ai.com/math/math-probability-5-2-the-bernoulli-and-binomial-distributions.zh/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; 本文介绍Bernoulli Distribution （伯努利分布）和Binomial Distribution（二项分布）
+&lt;strong&gt;Keywords:&lt;/strong&gt; Bernoulli Distributions，Binomial Distributions&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>【概率论】5-1:各分布介绍(Special Distribution Introduction)</title>
+      <link>https://go.face2ai.com/math/math-probability-5-1-special-distributions.zh/</link>
+      <pubDate>Tue, 27 Mar 2018 20:35:20 +0000</pubDate>
+      
+      <guid>https://go.face2ai.com/math/math-probability-5-1-special-distributions.zh/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; 本文介绍本章关于分布的内容提要
+&lt;strong&gt;Keywords:&lt;/strong&gt; Distribution&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>【概率论】4-7:条件期望(Conditional Expectation)</title>
+      <link>https://go.face2ai.com/math/math-probability-4-7-conditional-expectation.zh/</link>
+      <pubDate>Tue, 27 Mar 2018 10:53:24 +0000</pubDate>
+      
+      <guid>https://go.face2ai.com/math/math-probability-4-7-conditional-expectation.zh/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; 本文介绍期望的条件版本，也就是条件期望
+&lt;strong&gt;Keywords:&lt;/strong&gt; Expectation，Prediction，Law of Total Probability&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>【概率论】4-6:协方差和相关性(Covariance and Correlation)</title>
+      <link>https://go.face2ai.com/math/math-probability-4-6-covariance-and-correlation.zh/</link>
+      <pubDate>Mon, 26 Mar 2018 10:44:07 +0000</pubDate>
+      
+      <guid>https://go.face2ai.com/math/math-probability-4-6-covariance-and-correlation.zh/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; 本文介绍协方差和相关性的基础知识，以及部分性质
+&lt;strong&gt;Keywords:&lt;/strong&gt; Covariance,Correlation,Properties of Covariance and Correlation&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>【概率论】4-5:均值和中值(The Mean and the Median)</title>
+      <link>https://go.face2ai.com/math/math-probability-4-5-the-mean-and-the-median.zh/</link>
+      <pubDate>Sun, 25 Mar 2018 21:01:04 +0000</pubDate>
+      
+      <guid>https://go.face2ai.com/math/math-probability-4-5-the-mean-and-the-median.zh/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; 本文介绍均值和中值的对比，以及最小平方误差，最小绝对误差
+&lt;strong&gt;Keywords:&lt;/strong&gt; Mean，Median，Mean Squared Error，Mean Absolute Error&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>【概率论】4-4:距(Moments)</title>
+      <link>https://go.face2ai.com/math/math-probability-4-4-moments.zh/</link>
+      <pubDate>Sun, 25 Mar 2018 10:58:47 +0000</pubDate>
+      
+      <guid>https://go.face2ai.com/math/math-probability-4-4-moments.zh/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; 本文介绍另一个基于期望的随机变量分布的数字特征——“矩” （不知道咋翻译的，英文moment表示时刻,瞬间等意思）
+&lt;strong&gt;Keywords:&lt;/strong&gt; Moments，Moments Generating Function&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>【概率论】4-3:方差(Variance)</title>
+      <link>https://go.face2ai.com/math/math-probability-4-3-variance.zh/</link>
+      <pubDate>Fri, 23 Mar 2018 22:22:11 +0000</pubDate>
+      
+      <guid>https://go.face2ai.com/math/math-probability-4-3-variance.zh/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; 本文介绍继期望之后分布的另一个重要数学性质，方差
+&lt;strong&gt;Keywords:&lt;/strong&gt; Variance,Standard Deviation&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>【概率论】4-2:期望的性质(Properties of Expectation)</title>
+      <link>https://go.face2ai.com/math/math-probability-4-2-properties-of-expectations.zh/</link>
+      <pubDate>Fri, 23 Mar 2018 10:24:47 +0000</pubDate>
+      
+      <guid>https://go.face2ai.com/math/math-probability-4-2-properties-of-expectations.zh/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; 本文介绍关于期望的性质，主要是计算性质，所以本文会有非常多公式定理，例子可能较少
+&lt;strong&gt;Keywords:&lt;/strong&gt; Properties of Expectation&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>【概率论】4-1:随机变量的期望(The Expectation of a Random Variable Part II)</title>
+      <link>https://go.face2ai.com/math/math-probability-4-1-the-expectation-of-a-random-variable-p2.zh/</link>
+      <pubDate>Thu, 22 Mar 2018 09:09:37 +0000</pubDate>
+      
+      <guid>https://go.face2ai.com/math/math-probability-4-1-the-expectation-of-a-random-variable-p2.zh/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; 本篇介绍期望的第二部分，关于随机变量的函数的期望
+&lt;strong&gt;Keywords:&lt;/strong&gt; Expectation&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>【概率论】4-1:随机变量的期望(The Expectation of a Random Variable Part I)</title>
+      <link>https://go.face2ai.com/math/math-probability-4-1-the-expectation-of-a-random-variable-p1.zh/</link>
+      <pubDate>Tue, 20 Mar 2018 09:48:55 +0000</pubDate>
+      
+      <guid>https://go.face2ai.com/math/math-probability-4-1-the-expectation-of-a-random-variable-p1.zh/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; 本文主要介绍期望的基础之知识，第一部分介绍连续和离散随机变量的期望。
+&lt;strong&gt;Keywords:&lt;/strong&gt; Expectation&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>【概率论】3-9:多随机变量函数(Functions of Two or More Random Variables)</title>
+      <link>https://go.face2ai.com/math/math-probability-3-9-functions-of-two-or-more-random-variables.zh/</link>
+      <pubDate>Mon, 19 Mar 2018 10:12:34 +0000</pubDate>
+      
+      <guid>https://go.face2ai.com/math/math-probability-3-9-functions-of-two-or-more-random-variables.zh/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; 本文介绍多随机变量的函数
+&lt;strong&gt;Keywords:&lt;/strong&gt; 离散多随机变量的函数，连续多随机变量的函数，卷积&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>【概率论】3-8:随机变量函数(Functions of a Random Variable)</title>
+      <link>https://go.face2ai.com/math/math-probability-3-8-fuctions-of-a-random-variable.zh/</link>
+      <pubDate>Fri, 16 Mar 2018 09:49:24 +0000</pubDate>
+      
+      <guid>https://go.face2ai.com/math/math-probability-3-8-fuctions-of-a-random-variable.zh/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; 本文介绍通过函数这个工具，来研究随机变量
+&lt;strong&gt;Keywords:&lt;/strong&gt; The Probability Integral Transformation，Simulation，Pseudo-Random Numbers，General Function&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>【CUDA 基础】3.2 理解线程束执行的本质(Part II)</title>
+      <link>https://go.face2ai.com/%E7%BC%96%E7%A8%8B/cuda/cuda-f-3-2-%E7%90%86%E8%A7%A3%E7%BA%BF%E7%A8%8B%E6%9D%9F%E6%89%A7%E8%A1%8C%E7%9A%84%E6%9C%AC%E8%B4%A8-p2.zh/</link>
+      <pubDate>Thu, 15 Mar 2018 20:08:09 +0000</pubDate>
+      
+      <guid>https://go.face2ai.com/%E7%BC%96%E7%A8%8B/cuda/cuda-f-3-2-%E7%90%86%E8%A7%A3%E7%BA%BF%E7%A8%8B%E6%9D%9F%E6%89%A7%E8%A1%8C%E7%9A%84%E6%9C%AC%E8%B4%A8-p2.zh/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; 本文介绍CUDA线程束执行的本质的后半部分，包括资源，延迟，同步，扩展性等严重影响性能的线，吞吐量，带宽，占用率，CUDA同步&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>【概率论】3-7:多变量分布(Multivariate Distributions Part II）</title>
+      <link>https://go.face2ai.com/math/math-probability-3-7-multivariate-distributions-p2.zh/</link>
+      <pubDate>Thu, 15 Mar 2018 09:20:38 +0000</pubDate>
+      
+      <guid>https://go.face2ai.com/math/math-probability-3-7-multivariate-distributions-p2.zh/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; 本文继续上文的内容，讲解多变量分布的条件分布，全概率公式和贝叶斯公式。提出直方图的概念。
+&lt;strong&gt;Keywords:&lt;/strong&gt; Conditional Distributions，Law of Total Probability，Bayes&amp;rsquo; Theorem，Histograms&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>【CUDA 基础】3.2 理解线程束执行的本质(Part I)</title>
+      <link>https://go.face2ai.com/%E7%BC%96%E7%A8%8B/cuda/cuda-f-3-2-%E7%90%86%E8%A7%A3%E7%BA%BF%E7%A8%8B%E6%9D%9F%E6%89%A7%E8%A1%8C%E7%9A%84%E6%9C%AC%E8%B4%A8-p1.zh/</link>
+      <pubDate>Wed, 14 Mar 2018 21:31:16 +0000</pubDate>
+      
+      <guid>https://go.face2ai.com/%E7%BC%96%E7%A8%8B/cuda/cuda-f-3-2-%E7%90%86%E8%A7%A3%E7%BA%BF%E7%A8%8B%E6%9D%9F%E6%89%A7%E8%A1%8C%E7%9A%84%E6%9C%AC%E8%B4%A8-p1.zh/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; 本文介绍CUDA执行模型最核心的部分，线程束的执行实质第一部分
+&lt;strong&gt;Keywords:&lt;/strong&gt; CUDA分支，线程束分化&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>【概率论】3-7:多变量分布(Multivariate Distributions Part I）</title>
+      <link>https://go.face2ai.com/math/math-probability-3-7-multivariate-distributions-p1.zh/</link>
+      <pubDate>Wed, 14 Mar 2018 09:55:14 +0000</pubDate>
+      
+      <guid>https://go.face2ai.com/math/math-probability-3-7-multivariate-distributions-p1.zh/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; 本文将3.4，3.5，3.6的内容扩展到多个随机变量中去，并得到相对应的结论，由于内容较多，故分为两部分完成
+&lt;strong&gt;Keywords:&lt;/strong&gt; Joint Distributions,Mixed Distributions,Marginal Distributions,Independent Random Variable&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>【CUDA 基础】3.1 CUDA执行模型概述</title>
+      <link>https://go.face2ai.com/%E7%BC%96%E7%A8%8B/cuda/cuda-f-3-1-cuda%E6%89%A7%E8%A1%8C%E6%A8%A1%E5%9E%8B%E6%A6%82%E8%BF%B0.zh/</link>
+      <pubDate>Mon, 12 Mar 2018 23:20:41 +0000</pubDate>
+      
+      <guid>https://go.face2ai.com/%E7%BC%96%E7%A8%8B/cuda/cuda-f-3-1-cuda%E6%89%A7%E8%A1%8C%E6%A8%A1%E5%9E%8B%E6%A6%82%E8%BF%B0.zh/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; 本文介绍CUDA执行模型，只比硬件高一层的抽象
+&lt;strong&gt;Keywords:&lt;/strong&gt; CUDA SM，SIMT，SIMD，Fermi，Kepler&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>【概率论】3-6:条件分布(Conditional Distributions Part II）</title>
+      <link>https://go.face2ai.com/math/math-probability-3-6-conditional-distributions-p2.zh/</link>
+      <pubDate>Mon, 12 Mar 2018 09:06:00 +0000</pubDate>
+      
+      <guid>https://go.face2ai.com/math/math-probability-3-6-conditional-distributions-p2.zh/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; 本文介绍联合分布的构建，也就是条件分布部分的扩展和应用
+&lt;strong&gt;Keywords:&lt;/strong&gt; 乘法法则，贝叶斯定理，随机变量的全概率公式&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>【CUDA 基础】2.4 GPU设备信息</title>
+      <link>https://go.face2ai.com/%E7%BC%96%E7%A8%8B/cuda/cuda-f-2-4-%E8%AE%BE%E5%A4%87%E4%BF%A1%E6%81%AF.zh/</link>
+      <pubDate>Sat, 10 Mar 2018 23:16:11 +0000</pubDate>
+      
+      <guid>https://go.face2ai.com/%E7%BC%96%E7%A8%8B/cuda/cuda-f-2-4-%E8%AE%BE%E5%A4%87%E4%BF%A1%E6%81%AF.zh/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; 本文只介绍一个功能，如何获取设备（一个或多个）信息
+&lt;strong&gt;Keywords:&lt;/strong&gt; CUDA Device Information&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>【CUDA 基础】2.3 组织并行线程</title>
+      <link>https://go.face2ai.com/%E7%BC%96%E7%A8%8B/cuda/cuda-f-2-3-%E7%BB%84%E7%BB%87%E5%B9%B6%E8%A1%8C%E7%BA%BF%E7%A8%8B.zh/</link>
+      <pubDate>Fri, 09 Mar 2018 21:00:38 +0000</pubDate>
+      
+      <guid>https://go.face2ai.com/%E7%BC%96%E7%A8%8B/cuda/cuda-f-2-3-%E7%BB%84%E7%BB%87%E5%B9%B6%E8%A1%8C%E7%BA%BF%E7%A8%8B.zh/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; 本文介绍CUDA模型中的线程组织模式
+&lt;strong&gt;Keywords:&lt;/strong&gt; Thread,Block,Grid&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>【CUDA 基础】2.2 给核函数计时</title>
+      <link>https://go.face2ai.com/%E7%BC%96%E7%A8%8B/cuda/cuda-f-2-2-%E6%A0%B8%E5%87%BD%E6%95%B0%E8%AE%A1%E6%97%B6.zh/</link>
+      <pubDate>Thu, 08 Mar 2018 21:08:00 +0000</pubDate>
+      
+      <guid>https://go.face2ai.com/%E7%BC%96%E7%A8%8B/cuda/cuda-f-2-2-%E6%A0%B8%E5%87%BD%E6%95%B0%E8%AE%A1%E6%97%B6.zh/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; 本文介绍CUDA核函数计时方法
+&lt;strong&gt;Keywords:&lt;/strong&gt; gettimeofday,nvprof&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>【概率论】3-6:条件分布(Conditional Distributions Part I）</title>
+      <link>https://go.face2ai.com/math/math-probability-3-6-conditional-distributions-p1.zh/</link>
+      <pubDate>Thu, 08 Mar 2018 10:38:13 +0000</pubDate>
+      
+      <guid>https://go.face2ai.com/math/math-probability-3-6-conditional-distributions-p1.zh/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; 首先介绍随机变量的条件分布，随后介绍随机变量条件分布下的乘法法则，贝叶斯公式和全概率公式
+&lt;strong&gt;Keywords:&lt;/strong&gt; Discrete Conditional Distributions，Continuous Conditional Distributions，Multiplication Rule，Bayes&amp;rsquo; Therom，Law of Total Probability&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>【爬虫】3.3 数据抓取</title>
+      <link>https://go.face2ai.com/%E7%BC%96%E7%A8%8B/crawler/crawler-3-3-%E6%95%B0%E6%8D%AE%E6%8A%93%E5%8F%96.zh/</link>
+      <pubDate>Tue, 06 Mar 2018 12:30:41 +0000</pubDate>
+      
+      <guid>https://go.face2ai.com/%E7%BC%96%E7%A8%8B/crawler/crawler-3-3-%E6%95%B0%E6%8D%AE%E6%8A%93%E5%8F%96.zh/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; 介绍三种网页抓取的方法
+&lt;strong&gt;Keywords:&lt;/strong&gt; 正则表达式,Beautiful Soup,Lxml&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>【爬虫】3.2 HTTP协议(二)</title>
+      <link>https://go.face2ai.com/%E7%BC%96%E7%A8%8B/crawler/crawler-3-2-http%E5%8D%8F%E8%AE%AE-2.zh/</link>
+      <pubDate>Mon, 05 Mar 2018 20:56:25 +0000</pubDate>
+      
+      <guid>https://go.face2ai.com/%E7%BC%96%E7%A8%8B/crawler/crawler-3-2-http%E5%8D%8F%E8%AE%AE-2.zh/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; 本文介绍HTTP基础知识的入门讲解，没有深入，主要是为了让我们知道爬虫请求服务器响应的大致过程
+&lt;strong&gt;Keywords:&lt;/strong&gt; http,uri/url&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>【爬虫】3.1 HTTP协议(一)</title>
+      <link>https://go.face2ai.com/%E7%BC%96%E7%A8%8B/crawler/crawler-3-1-http%E5%8D%8F%E8%AE%AE-1.zh/</link>
+      <pubDate>Sun, 04 Mar 2018 18:31:50 +0000</pubDate>
+      
+      <guid>https://go.face2ai.com/%E7%BC%96%E7%A8%8B/crawler/crawler-3-1-http%E5%8D%8F%E8%AE%AE-1.zh/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; 本文介绍HTTP基础知识的入门讲解，没有深入，主要是为了让我们知道爬虫请求服务器响应的大致过程
+&lt;strong&gt;Keywords:&lt;/strong&gt; http,web,tcp/ip,uri/url&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>【爬虫】3.0 三只虫</title>
+      <link>https://go.face2ai.com/%E7%BC%96%E7%A8%8B/crawler/crawler-3-0-%E7%AC%AC%E4%B8%80%E4%B8%AA%E7%88%AC%E8%99%AB.zh/</link>
+      <pubDate>Sat, 03 Mar 2018 17:08:37 +0000</pubDate>
+      
+      <guid>https://go.face2ai.com/%E7%BC%96%E7%A8%8B/crawler/crawler-3-0-%E7%AC%AC%E4%B8%80%E4%B8%AA%E7%88%AC%E8%99%AB.zh/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; 本文介绍第一个naive爬虫，同时也给出三种不同方式的
+&lt;strong&gt;Keywords:&lt;/strong&gt; 网站地图爬虫，ID遍历爬虫，链接爬虫&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>【爬虫】2.0 分析目标网站</title>
+      <link>https://go.face2ai.com/%E7%BC%96%E7%A8%8B/crawler/crawler-2-0-%E5%88%86%E6%9E%90%E7%A1%AE%E5%AE%9A%E7%9B%AE%E6%A0%87.zh/</link>
+      <pubDate>Fri, 02 Mar 2018 20:48:20 +0000</pubDate>
+      
+      <guid>https://go.face2ai.com/%E7%BC%96%E7%A8%8B/crawler/crawler-2-0-%E5%88%86%E6%9E%90%E7%A1%AE%E5%AE%9A%E7%9B%AE%E6%A0%87.zh/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; 分析网站，进行数据收集
+&lt;strong&gt;Keywords:&lt;/strong&gt; builtwith，网站规模&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>【爬虫】1.0 介绍</title>
+      <link>https://go.face2ai.com/%E7%BC%96%E7%A8%8B/crawler/crawler-1-0-introduction.zh/</link>
+      <pubDate>Thu, 01 Mar 2018 22:30:19 +0000</pubDate>
+      
+      <guid>https://go.face2ai.com/%E7%BC%96%E7%A8%8B/crawler/crawler-1-0-introduction.zh/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; 关于python网络爬虫的入门
+&lt;strong&gt;Keywords:&lt;/strong&gt; 爬虫，python&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>【CUDA 基础】2.1 CUDA编程模型概述（二）</title>
+      <link>https://go.face2ai.com/%E7%BC%96%E7%A8%8B/cuda/cuda-f-2-1-cuda%E7%BC%96%E7%A8%8B%E6%A8%A1%E5%9E%8B%E6%A6%82%E8%BF%B02.zh/</link>
+      <pubDate>Fri, 16 Feb 2018 22:31:44 +0000</pubDate>
+      
+      <guid>https://go.face2ai.com/%E7%BC%96%E7%A8%8B/cuda/cuda-f-2-1-cuda%E7%BC%96%E7%A8%8B%E6%A8%A1%E5%9E%8B%E6%A6%82%E8%BF%B02.zh/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; 本文继续上文介绍CUDA编程模型关于核函数以及错误处理部分
+&lt;strong&gt;Keywords:&lt;/strong&gt; CUDA核函数，CUDA错误处理&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>【CUDA 基础】2.0 CUDA编程模型概述（一）</title>
+      <link>https://go.face2ai.com/%E7%BC%96%E7%A8%8B/cuda/cuda-f-2-0-cuda%E7%BC%96%E7%A8%8B%E6%A8%A1%E5%9E%8B%E6%A6%82%E8%BF%B01.zh/</link>
+      <pubDate>Thu, 15 Feb 2018 17:25:38 +0000</pubDate>
+      
+      <guid>https://go.face2ai.com/%E7%BC%96%E7%A8%8B/cuda/cuda-f-2-0-cuda%E7%BC%96%E7%A8%8B%E6%A8%A1%E5%9E%8B%E6%A6%82%E8%BF%B01.zh/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; 本文介绍CUDA编程模型的简要结构，包括写一个简单的可执行的CUDA程序，一个正确的CUDA核函数，以及相应的调整设置内存，线程来正确的运行程序。
+&lt;strong&gt;Keywords:&lt;/strong&gt; CUDA编程模型，CUDA编程结构，内存管理，线程管理，CUDA核函数，CUDA错误处理&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>【CUDA 基础】1.1 异构计算与CUDA</title>
+      <link>https://go.face2ai.com/%E7%BC%96%E7%A8%8B/cuda/cuda-f-1-1-%E5%BC%82%E6%9E%84%E8%AE%A1%E7%AE%97-cuda.zh/</link>
+      <pubDate>Thu, 15 Feb 2018 09:48:57 +0000</pubDate>
+      
+      <guid>https://go.face2ai.com/%E7%BC%96%E7%A8%8B/cuda/cuda-f-1-1-%E5%BC%82%E6%9E%84%E8%AE%A1%E7%AE%97-cuda.zh/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; 介绍异构计算和CUDA概述，完成GPU输出Hello world！
+&lt;strong&gt;Keywords:&lt;/strong&gt; 异构计算，CUDA&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>【CUDA 基础】1.0 并行计算与计算机架构</title>
+      <link>https://go.face2ai.com/%E7%BC%96%E7%A8%8B/cuda/cuda-f-1-0-%E5%B9%B6%E8%A1%8C%E8%AE%A1%E7%AE%97%E4%B8%8E%E8%AE%A1%E7%AE%97%E6%9C%BA%E6%9E%B6%E6%9E%84.zh/</link>
+      <pubDate>Wed, 14 Feb 2018 21:43:33 +0000</pubDate>
+      
+      <guid>https://go.face2ai.com/%E7%BC%96%E7%A8%8B/cuda/cuda-f-1-0-%E5%B9%B6%E8%A1%8C%E8%AE%A1%E7%AE%97%E4%B8%8E%E8%AE%A1%E7%AE%97%E6%9C%BA%E6%9E%B6%E6%9E%84.zh/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; 本文从总体上给出了CUDA编程的Big picture，后续所有的文章都在本文的基础上详细展开。
+&lt;strong&gt;Keywords:&lt;/strong&gt; 并行计算，串行编程，并行编程，计算机架构，并行性，异构架构，CUDA&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>【CUDA 基础】0.0 腾讯云CUDA环境搭建</title>
+      <link>https://go.face2ai.com/%E7%BC%96%E7%A8%8B/cuda/cuda-f-0-0-tencent-gpu-cloud.zh/</link>
+      <pubDate>Tue, 13 Feb 2018 22:04:54 +0000</pubDate>
+      
+      <guid>https://go.face2ai.com/%E7%BC%96%E7%A8%8B/cuda/cuda-f-0-0-tencent-gpu-cloud.zh/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; 本文主要为不支持CUDA的电脑用户提供一个可供选择的CUDA学习环境
+&lt;strong&gt;Keywords:&lt;/strong&gt; 腾讯云,CUDA,GPU云&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>【概率论】3-5:边缘分布(Marginal Distribution)</title>
+      <link>https://go.face2ai.com/math/math-probability-3-5-marginal-distributions.zh/</link>
+      <pubDate>Fri, 09 Feb 2018 11:33:45 +0000</pubDate>
+      
+      <guid>https://go.face2ai.com/math/math-probability-3-5-marginal-distributions.zh/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; 本文承接上文，对于二维联合分布，如何求出二维变量中一个变量的一个分布，也就是标题所说的边缘分布；以及对独立随机变量的讨论。
+&lt;strong&gt;Keywords:&lt;/strong&gt; Marginal p.f.,Marginal p.d.f.,Independent&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>【概率论】3-4:二维分布(Bivariate Distribution)</title>
+      <link>https://go.face2ai.com/math/math-probability-3-4-bivariate-distribution.zh/</link>
+      <pubDate>Wed, 07 Feb 2018 09:35:57 +0000</pubDate>
+      
+      <guid>https://go.face2ai.com/math/math-probability-3-4-bivariate-distribution.zh/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; 本文主要介绍双变量的分布情况，以及其中的一些有用的性质
+&lt;strong&gt;Keywords:&lt;/strong&gt; Discrete Joint Distribution,Continuous Joint Distribution,Mixed Bivariate Distribution,Bivariate Cumulative Distribution Functions&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>【概率论】3-3:累积分布函数(Cumulative Distribution Function)</title>
+      <link>https://go.face2ai.com/math/math-probability-3-3-cumulative-distribution-function.zh/</link>
+      <pubDate>Tue, 06 Feb 2018 10:09:15 +0000</pubDate>
+      
+      <guid>https://go.face2ai.com/math/math-probability-3-3-cumulative-distribution-function.zh/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; 本文介绍描述随机变量分布的另一种工具，累积分布函数，CDF
+&lt;strong&gt;Keywords:&lt;/strong&gt; Cumulative Distribution Function，Quantial&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>【概率论】3-2:连续分布(Continuous Distributions)</title>
+      <link>https://go.face2ai.com/math/math-probability-3-2-continuous-distribution.zh/</link>
+      <pubDate>Mon, 05 Feb 2018 09:23:02 +0000</pubDate>
+      
+      <guid>https://go.face2ai.com/math/math-probability-3-2-continuous-distribution.zh/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; 本文继续上文的离散随机变量的观点，将部分试验模型转换到连续随机变量的观点上。
+&lt;strong&gt;Keywords:&lt;/strong&gt; Continuous Random Variable，Continuous Distributions，Probability Desity Function，Uniform Distributions on Intervals&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>【概率论】3-1:随机变量和分布(Random Variables and Discrete Distributions)</title>
+      <link>https://go.face2ai.com/math/math-probability-3-1-random-variables-and-discrete-distributions.zh/</link>
+      <pubDate>Sat, 03 Feb 2018 13:00:10 +0000</pubDate>
+      
+      <guid>https://go.face2ai.com/math/math-probability-3-1-random-variables-and-discrete-distributions.zh/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; 本文主要介绍随机变量的引入，离散分布的介绍以及离散均匀分布，二项分布的基本原理
+&lt;strong&gt;Keywords:&lt;/strong&gt; Random Variables，Discrete Distributions，Uniform Distributions on Integers，Binomial Distributions&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>【概率论】2-3:贝叶斯定理(Bayes&#39; Theorem)</title>
+      <link>https://go.face2ai.com/math/math-probability-2-3-bayes-teorem.zh/</link>
+      <pubDate>Fri, 02 Feb 2018 10:10:45 +0000</pubDate>
+      
+      <guid>https://go.face2ai.com/math/math-probability-2-3-bayes-teorem.zh/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; 本文是关于Bayes&amp;rsquo; Theorem 的介绍性知识
+&lt;strong&gt;Keywords:&lt;/strong&gt; Bayes&amp;rsquo; Theorem，Law of total Probability&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>【概率论】2-2:独立事件(Independent Events)</title>
+      <link>https://go.face2ai.com/math/math-probability-2-2-independent-events.zh/</link>
+      <pubDate>Thu, 01 Feb 2018 09:33:49 +0000</pubDate>
+      
+      <guid>https://go.face2ai.com/math/math-probability-2-2-independent-events.zh/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; 本文介绍事件的独立，以及派生出来的多事件独立，以及条件独立
+&lt;strong&gt;Keywords:&lt;/strong&gt; Independent Events，Independent of Several Events，Coditionally Independent Events&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>【概率论】2-1:条件概率(Conditional Probability)</title>
+      <link>https://go.face2ai.com/math/math-probability-2-1-conditional-probability.zh/</link>
+      <pubDate>Wed, 31 Jan 2018 10:34:36 +0000</pubDate>
+      
+      <guid>https://go.face2ai.com/math/math-probability-2-1-conditional-probability.zh/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; 本文介绍条件概率的定义及相关知识，提出全概率公式
+&lt;strong&gt;Keywords:&lt;/strong&gt; Conditional Probability，Multiplication Rule，Partitions
+，Law of total Probability&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>【概率论】1-4:事件的的并集(Union of Events and Statical Swindles)</title>
+      <link>https://go.face2ai.com/math/math-probability-1-4-union-of-event.zh/</link>
+      <pubDate>Tue, 30 Jan 2018 09:22:40 +0000</pubDate>
+      
+      <guid>https://go.face2ai.com/math/math-probability-1-4-union-of-event.zh/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; 本文主要介绍事件的并集对应的概率计算，以及一个补充的概率小知识，怎么用统计骗人
+&lt;strong&gt;Keywords:&lt;/strong&gt; Union of two Events，Union of Finite Number of Events，Statical Swindles&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>【概率论】1-3:组合(Combinatorial Methods)</title>
+      <link>https://go.face2ai.com/math/math-probability-1-3-combinatorial-methods.zh/</link>
+      <pubDate>Fri, 26 Jan 2018 09:20:58 +0000</pubDate>
+      
+      <guid>https://go.face2ai.com/math/math-probability-1-3-combinatorial-methods.zh/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; 本文主要介绍组合的相关知识，以及引出的二项式系数，多项式系数
+&lt;strong&gt;Keywords:&lt;/strong&gt; Combination，Binormial Coeffcient，Multinormial Coeffcient&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>【概率论】1-2:计数方法(Counting Methods)</title>
+      <link>https://go.face2ai.com/math/math-probability-1-2-counting-methods.zh/</link>
+      <pubDate>Thu, 25 Jan 2018 10:35:46 +0000</pubDate>
+      
+      <guid>https://go.face2ai.com/math/math-probability-1-2-counting-methods.zh/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; 本文主要介绍有限样本空间下的古典概率问题，以及其中包含的计数方法，排列的基本思想
+&lt;strong&gt;Keywords:&lt;/strong&gt; Counting Methods，Combinatorial Methods，Multiplication，Permutations，Stirling&amp;rsquo;s Formula&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>【概率论】1-1:概率定义(Definition of Probability)</title>
+      <link>https://go.face2ai.com/math/math-probability-1-1-definition-of-probability.zh/</link>
+      <pubDate>Wed, 24 Jan 2018 10:12:00 +0000</pubDate>
+      
+      <guid>https://go.face2ai.com/math/math-probability-1-1-definition-of-probability.zh/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; 本文介绍样本空间，公理化的概率的定义，以及概率的性质
+&lt;strong&gt;Keywords:&lt;/strong&gt; Sample Space，Finite Sample Space，Kolmogorov axioms(Probability Axioms)，Definition of Probability，Properties of Probability，Bonferroni Inequality&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>【概率论】1-0：概率论介绍</title>
+      <link>https://go.face2ai.com/math/math-probability-1-0-introduction.zh/</link>
+      <pubDate>Tue, 23 Jan 2018 11:20:14 +0000</pubDate>
+      
+      <guid>https://go.face2ai.com/math/math-probability-1-0-introduction.zh/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; 本文主要介绍概率的基本概念和观点，主要为了说明概率是什么，同时给出比较重要的试验和事件的解释说明。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Keywords:&lt;/strong&gt; Probability，the Frequency Interpretation，the Classical Interpretation，the Subjective Interpretation，the Axiomatic Interpretation，Experiments，Events&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>【OpenCV源代码分析】矩阵计算过程</title>
+      <link>https://go.face2ai.com/%E5%85%B6%E4%BB%96/other-opencv-mat%E8%BF%87%E7%A8%8B%E5%88%86%E6%9E%90.zh/</link>
+      <pubDate>Fri, 29 Dec 2017 10:54:33 +0000</pubDate>
+      
+      <guid>https://go.face2ai.com/%E5%85%B6%E4%BB%96/other-opencv-mat%E8%BF%87%E7%A8%8B%E5%88%86%E6%9E%90.zh/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; 本文通过分析opencv的Mat类的计算过程，来研究OpenCV的数据结构以及算法过程
+&lt;strong&gt;Keywords:&lt;/strong&gt; OpenCV，矩阵计算&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>【线性代数】7-3:对角化和伪逆(Diagonalization and the Pseudoinverse)</title>
+      <link>https://go.face2ai.com/math/math-linear-algebra-chapter-7-3.zh/</link>
+      <pubDate>Wed, 06 Dec 2017 14:03:08 +0000</pubDate>
+      
+      <guid>https://go.face2ai.com/math/math-linear-algebra-chapter-7-3.zh/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; 本文以线性变换的角度重新理解矩阵变换的原理，以对角化和SVD作为主要的案例
+&lt;strong&gt;Keywords:&lt;/strong&gt; Diagonalization，Pseudoinverse&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>【线性代数】7-2:线性变化的矩阵(The Matrix of a Linear Transformation)</title>
+      <link>https://go.face2ai.com/math/math-linear-algebra-chapter-7-2.zh/</link>
+      <pubDate>Mon, 04 Dec 2017 12:52:03 +0000</pubDate>
+      
+      <guid>https://go.face2ai.com/math/math-linear-algebra-chapter-7-2.zh/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; 本篇有点长，内容及其丰富，包括线性变换的矩阵形式以及相关例子（导数和积分），然后详细的讲解了下怎么构造矩阵，也就是矩阵的来源，之后是矩阵相乘的原理，基的变换，最后一波大应用，小波变换和离散傅里叶变换
+&lt;strong&gt;Keywords:&lt;/strong&gt; Matrix,Matrix for the Derivate,Matrix for the Integral,Construction of the Matrix,$AB$ Match $TS$,Multiplication,Change of Basis Matrix,Wavelet Transform,Fourier Transform(DFT)&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>【线性代数】7-1:线性变换思想(The Idea of a Linear Transformation)</title>
+      <link>https://go.face2ai.com/math/math-linear-algebra-chapter-7-1.zh/</link>
+      <pubDate>Mon, 04 Dec 2017 09:04:18 +0000</pubDate>
+      
+      <guid>https://go.face2ai.com/math/math-linear-algebra-chapter-7-1.zh/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; 本篇介绍线性代数的另一个角度，就是线性变换思想
+&lt;strong&gt;Keywords:&lt;/strong&gt; Linear Transformation，Linear Combination，Kernel，Range&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>【线性代数】6-7:SVD分解(Singular Value Decomposition-SVD)</title>
+      <link>https://go.face2ai.com/math/math-linear-algebra-chapter-6-7.zh/</link>
+      <pubDate>Thu, 30 Nov 2017 09:02:19 +0000</pubDate>
+      
+      <guid>https://go.face2ai.com/math/math-linear-algebra-chapter-6-7.zh/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; 本文介绍SVD，奇异值分解，应该可以算是本章最后的高潮部分了，也是在机器学习中我们最常用的一种变换，我们经常需要求矩阵的特征值特征向量，比如联合贝叶斯，PCA等常规操作，本文还有两个线性代数的应用，在图像压缩上，以及互联网搜索上。 &lt;strong&gt;Keywords:&lt;/strong&gt; Singular Value Decomposition,JPEG2000,Eigenvalues,Eigenvectors&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>【线性代数】6-6:相似矩阵(Similar Matrices)</title>
+      <link>https://go.face2ai.com/math/math-linear-algebra-chapter-6-6.zh/</link>
+      <pubDate>Wed, 29 Nov 2017 09:08:12 +0000</pubDate>
+      
+      <guid>https://go.face2ai.com/math/math-linear-algebra-chapter-6-6.zh/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; 本文主要介绍根据矩阵对角化以及特征值引出的相似矩阵的性质和特点
+&lt;strong&gt;Keywords:&lt;/strong&gt; Similar Matrices,Jordan Form,Eigenvalues,Eigenvectors&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>【线性代数】6-5:正定矩阵(Positive Definite Matrices)</title>
+      <link>https://go.face2ai.com/math/math-linear-algebra-chapter-6-5.zh/</link>
+      <pubDate>Fri, 24 Nov 2017 11:24:21 +0000</pubDate>
+      
+      <guid>https://go.face2ai.com/math/math-linear-algebra-chapter-6-5.zh/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; 关于正定矩阵的相关知识总结，正定矩阵在数学中的一个应用
+&lt;strong&gt;Keywords:&lt;/strong&gt; Positive Definite Matrices,Symmetric Matrices,Eigenvalues,Eigenvectors&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>【线性代数】6-4:对称矩阵(Symmetric Matrices)</title>
+      <link>https://go.face2ai.com/math/math-linear-algebra-chapter-6-4.zh/</link>
+      <pubDate>Wed, 22 Nov 2017 15:18:03 +0000</pubDate>
+      
+      <guid>https://go.face2ai.com/math/math-linear-algebra-chapter-6-4.zh/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; 本篇继续线性代数的高潮部分，对称矩阵，以及对称矩阵的一些性质
+&lt;strong&gt;Keywords:&lt;/strong&gt; Eigenvalues，Eigenvectors，Symmetric Matrices，Projection Matrices，Spectral Theorem，Principal Axis Theorem&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>【线性代数】6-3:微分方程的应用(Applications to Differential Equations)</title>
+      <link>https://go.face2ai.com/math/math-linear-algebra-chapter-6-3.zh/</link>
+      <pubDate>Wed, 22 Nov 2017 15:09:04 +0000</pubDate>
+      
+      <guid>https://go.face2ai.com/math/math-linear-algebra-chapter-6-3.zh/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; 本文主要介绍线性代数在微分方程中的应用
+&lt;strong&gt;Keywords:&lt;/strong&gt; Eigenvalues,Eigenvectors,Differential Equations&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>【线性代数】6-2:对角化(Diagonalizing a Matrix)</title>
+      <link>https://go.face2ai.com/math/math-linear-algebra-chapter-6-2.zh/</link>
+      <pubDate>Tue, 21 Nov 2017 11:48:42 +0000</pubDate>
+      
+      <guid>https://go.face2ai.com/math/math-linear-algebra-chapter-6-2.zh/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; 矩阵对角化，以及对角化过程中引入的知识，以及对角化的应用
+&lt;strong&gt;Keywords:&lt;/strong&gt; Eigenvalues,Eigenvectors,Diagonalizing,Fibonacci Numbers, $A^k$ ,Nondiagonalizable Matrix&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>【集合论】2 集合操作</title>
+      <link>https://go.face2ai.com/math/math-set-theory-2-operations-with-sets.zh/</link>
+      <pubDate>Thu, 16 Nov 2017 14:03:01 +0000</pubDate>
+      
+      <guid>https://go.face2ai.com/math/math-set-theory-2-operations-with-sets.zh/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; 本文主要介绍集合论中集合的基本运算和运算法则
+&lt;strong&gt;Keywords:&lt;/strong&gt; Complement，Union，Intersection，Commutative Law，Associative Law，Distributive laws&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>【线性代数】6-1:特征值介绍(Introduction to Eigenvalues)</title>
+      <link>https://go.face2ai.com/math/math-linear-algebra-chapter-6-1.zh/</link>
+      <pubDate>Tue, 14 Nov 2017 18:13:04 +0000</pubDate>
+      
+      <guid>https://go.face2ai.com/math/math-linear-algebra-chapter-6-1.zh/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; 线性代数重点，关于矩阵特征值特征向量的相关知识第一篇文章，简单介绍特征值
+&lt;strong&gt;Keywords:&lt;/strong&gt; Eigenvalues，Eigenvectors，Sigular，Markov matrix，Trace，Imaginary Eigenvalues&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>【集合论】 样本集合</title>
+      <link>https://go.face2ai.com/math/math-set-theory-1-sample-sets.zh/</link>
+      <pubDate>Tue, 14 Nov 2017 12:30:14 +0000</pubDate>
+      
+      <guid>https://go.face2ai.com/math/math-set-theory-1-sample-sets.zh/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; 集合论基础知识,样本集合
+&lt;strong&gt;Keywords:&lt;/strong&gt; Sample set&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>【概率论】 概率论总览</title>
+      <link>https://go.face2ai.com/math/math-probability-big-picture.zh/</link>
+      <pubDate>Mon, 13 Nov 2017 15:57:45 +0000</pubDate>
+      
+      <guid>https://go.face2ai.com/math/math-probability-big-picture.zh/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; 关于概率论的整体框架
+&lt;strong&gt;Keywords:&lt;/strong&gt; 概率论&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>【线性代数】5-3:克莱姆法则，逆和体积(Cramer&#39;s Rule,Inverses,and Volumes)</title>
+      <link>https://go.face2ai.com/math/math-linear-algebra-chapter-5-3.zh/</link>
+      <pubDate>Sun, 05 Nov 2017 10:09:53 +0000</pubDate>
+      
+      <guid>https://go.face2ai.com/math/math-linear-algebra-chapter-5-3.zh/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; 本文主要介绍行列式的应用，包括求逆，求面积，求体积，以及叉乘的一些性质
+&lt;strong&gt;Keywords:&lt;/strong&gt; Inverses，Cramer&amp;rsquo;s Rule，Volumes，Determinant，Cross Product&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>【线性代数】5-2:置换和余因子(Permutations and Cofactors)</title>
+      <link>https://go.face2ai.com/math/math-linear-algebra-chapter-5-2.zh/</link>
+      <pubDate>Fri, 03 Nov 2017 09:50:36 +0000</pubDate>
+      
+      <guid>https://go.face2ai.com/math/math-linear-algebra-chapter-5-2.zh/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; 行列式的几种求法，以及相关的衍生问题
+&lt;strong&gt;Keywords:&lt;/strong&gt; Determinants，&amp;lsquo;Pivot Formula&amp;rsquo;，&amp;lsquo;Big Formula&amp;rsquo;，&amp;lsquo;Cofactors Formula&amp;rsquo;，Cofactors，Permutations&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>【线性代数】5-1:行列式性质(The Properties of Determinants)</title>
+      <link>https://go.face2ai.com/math/math-linear-algebra-chapter-5-1.zh/</link>
+      <pubDate>Thu, 02 Nov 2017 10:34:30 +0000</pubDate>
+      
+      <guid>https://go.face2ai.com/math/math-linear-algebra-chapter-5-1.zh/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; 本文介绍矩阵的行列式相关性质
+&lt;strong&gt;Keywords:&lt;/strong&gt; Determinants，Properties of the Determinants&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>【线性代数】4-4:正交基和Gram算法(Orthogonal Bases and Gram-Schmidt)</title>
+      <link>https://go.face2ai.com/math/math-linear-algebra-chapter-4-4.zh/</link>
+      <pubDate>Thu, 19 Oct 2017 16:28:54 +0000</pubDate>
+      
+      <guid>https://go.face2ai.com/math/math-linear-algebra-chapter-4-4.zh/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; 通过将正交的向量组合成矩阵探索其中的一些有趣的性质和用途
+&lt;strong&gt;Keywords:&lt;/strong&gt; Orthogonal Matrix Q，Gram-Schmidt Algorithm，QR&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>【线性代数】4-3:最小二乘近似(Least Squares Approximations)</title>
+      <link>https://go.face2ai.com/math/math-linear-algebra-chapter-4-3.zh/</link>
+      <pubDate>Tue, 17 Oct 2017 09:28:50 +0000</pubDate>
+      
+      <guid>https://go.face2ai.com/math/math-linear-algebra-chapter-4-3.zh/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; 从线性代数的角度理解计算最小二乘法，以及解释最小化误差的思想。介绍部分应用，包括曲线拟合等
+&lt;strong&gt;Keywords:&lt;/strong&gt; - Least Squares Approximations,Minimizing the Error,Fitting a Straight Linear&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>【线性代数】4-2:投影(Porjections)</title>
+      <link>https://go.face2ai.com/math/math-linear-algebra-chapter-4-2.zh/</link>
+      <pubDate>Tue, 17 Oct 2017 09:28:46 +0000</pubDate>
+      
+      <guid>https://go.face2ai.com/math/math-linear-algebra-chapter-4-2.zh/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; 本篇主要介绍的就是向量的映射，以映射到直线为引导，重点在于映射到子空间。
+&lt;strong&gt;Keywords:&lt;/strong&gt; Projections，Projection Onto a Subspace&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>【线性代数】4-1:四个正交子空间(Orthogonality of the Four Subspace)</title>
+      <link>https://go.face2ai.com/math/math-linear-algebra-chapter-4-1.zh/</link>
+      <pubDate>Tue, 17 Oct 2017 09:28:42 +0000</pubDate>
+      
+      <guid>https://go.face2ai.com/math/math-linear-algebra-chapter-4-1.zh/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; 本篇介绍正交性，向量正交，矩阵正交，子空间正交
+&lt;strong&gt;Keywords:&lt;/strong&gt; Orthogonality,Four Subspace,Orthogonal Complements,Fundamental Theorem of Linear Algebra ,Combining Bases from Subspaces,Split&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>FaceNet论文阅读</title>
+      <link>https://go.face2ai.com/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0/deep-learning-facenet%E8%AE%BA%E6%96%87%E9%98%85%E8%AF%BB.zh/</link>
+      <pubDate>Fri, 13 Oct 2017 09:17:36 +0000</pubDate>
+      
+      <guid>https://go.face2ai.com/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0/deep-learning-facenet%E8%AE%BA%E6%96%87%E9%98%85%E8%AF%BB.zh/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; In this paper we present a system, called FaceNet, that directly learns a mapping from face images to a compact Euclidean space where distances directly correspond to a measure of face similarity&lt;/p&gt;
+&lt;p&gt;提出一个系统，此系统能将人脸图片直接映射到欧几里得空间的一个向量，这些向量之间的距离能直接度量人脸之间的相似度&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Keywords:&lt;/strong&gt; 人脸识别,FaceNet,GoogleNet&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>【线性代数】3-6:四个子空间的维度(Dimensions of the Four Subspaces)</title>
+      <link>https://go.face2ai.com/math/math-linear-algebra-chapter-3-6.zh/</link>
+      <pubDate>Mon, 25 Sep 2017 15:21:01 +0000</pubDate>
+      
+      <guid>https://go.face2ai.com/math/math-linear-algebra-chapter-3-6.zh/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; 四个向量空间的dimensions的一些性质
+&lt;strong&gt;Keywords:&lt;/strong&gt; Dimensions,Four Subspaces&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>【线性代数】3-5:独立性，基和维度(Independence,Basis and Dimension)</title>
+      <link>https://go.face2ai.com/math/math-linear-algebra-chapter-3-5.zh/</link>
+      <pubDate>Mon, 25 Sep 2017 15:20:46 +0000</pubDate>
+      
+      <guid>https://go.face2ai.com/math/math-linear-algebra-chapter-3-5.zh/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; 本文是本章最重要的知识点，也是整个线性代数中非常核心的内容，包括independence ，basis和dimension等多个概念
+&lt;strong&gt;Keywords:&lt;/strong&gt; Independence，Basis，Dimension，Span&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>【线性代数】3-4:方程组的完整解( $Ax=b$ )</title>
+      <link>https://go.face2ai.com/math/math-linear-algebra-chapter-3-4.zh/</link>
+      <pubDate>Mon, 25 Sep 2017 15:20:42 +0000</pubDate>
+      
+      <guid>https://go.face2ai.com/math/math-linear-algebra-chapter-3-4.zh/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Ax=b的完整解，以及一个解，infinity个解，没有解的所有条件和说明
+&lt;strong&gt;Keywords:&lt;/strong&gt; Ax=b,Special Solution,Full Column Rank,Full Row Rank,Complete Solution&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>【线性代数】3-3:秩(Rank)</title>
+      <link>https://go.face2ai.com/math/math-linear-algebra-chapter-3-3.zh/</link>
+      <pubDate>Mon, 25 Sep 2017 15:20:38 +0000</pubDate>
+      
+      <guid>https://go.face2ai.com/math/math-linear-algebra-chapter-3-3.zh/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; 本文将介绍线性代数中最最最重要的概念之一，秩（Rank）
+&lt;strong&gt;Keywords:&lt;/strong&gt; Rank,Row Reduced form,Pivot Columns,Free Columns,Special Solutions&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>【线性代数】3-2:零空间(Nullspace)</title>
+      <link>https://go.face2ai.com/math/math-linear-algebra-chapter-3-2.zh/</link>
+      <pubDate>Tue, 19 Sep 2017 17:40:36 +0000</pubDate>
+      
+      <guid>https://go.face2ai.com/math/math-linear-algebra-chapter-3-2.zh/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; 零空间的相关知识点，使用到前面的消元过程
+&lt;strong&gt;Keywords:&lt;/strong&gt; Nullspace，Pivot Columns，Free Columns，Special Solutions，Ux=0，Rx=0&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>【线性代数】3-1:向量空间(Space of Vectors)</title>
+      <link>https://go.face2ai.com/math/math-linear-algebra-chapter-3-1.zh/</link>
+      <pubDate>Tue, 19 Sep 2017 17:40:30 +0000</pubDate>
+      
+      <guid>https://go.face2ai.com/math/math-linear-algebra-chapter-3-1.zh/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; 本章介绍线性代数的核心内容，关于Vectors Space和subspace的一些观点，本文作为第一篇，主要说明基础知识
+&lt;strong&gt;Keywords:&lt;/strong&gt; 向量空间，子空间，列空间，张成&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Visualizing and Understanding CNN</title>
+      <link>https://go.face2ai.com/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0/deep-learning-visualizing-and-understanding-cnn.zh/</link>
+      <pubDate>Wed, 13 Sep 2017 16:46:09 +0000</pubDate>
+      
+      <guid>https://go.face2ai.com/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0/deep-learning-visualizing-and-understanding-cnn.zh/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; 研究卷积神经网络，把阅读到的一些文献经典的部分翻译一下
+&lt;strong&gt;Keywords:&lt;/strong&gt; CNN Visualizing&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>LeNet论文解读</title>
+      <link>https://go.face2ai.com/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0/deep-learning-lenet.zh/</link>
+      <pubDate>Wed, 13 Sep 2017 16:05:58 +0000</pubDate>
+      
+      <guid>https://go.face2ai.com/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0/deep-learning-lenet.zh/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; 学习LeNet的论文总结Stochastic Gradient 与 Batch Gradient 的比较 以及收敛速度
+&lt;strong&gt;Keywords:&lt;/strong&gt; Stochastic Gradient,Batch Gradient，Faster Convergence&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Droupout 的论文解读</title>
+      <link>https://go.face2ai.com/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0/deep-learning-%E9%98%85%E8%AF%BB-dropout-prevent-nn-from-overfitting.zh/</link>
+      <pubDate>Wed, 13 Sep 2017 15:49:22 +0000</pubDate>
+      
+      <guid>https://go.face2ai.com/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0/deep-learning-%E9%98%85%E8%AF%BB-dropout-prevent-nn-from-overfitting.zh/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; 使用dropout处理过拟合，原论文的理解总结
+&lt;strong&gt;Keywords:&lt;/strong&gt; Dropout，Overfit&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>【线性代数】2-7:转置与变换(Transposes and Permutation)</title>
+      <link>https://go.face2ai.com/math/math-linear-algebra-chapter-2-7.zh/</link>
+      <pubDate>Tue, 12 Sep 2017 16:47:01 +0000</pubDate>
+      
+      <guid>https://go.face2ai.com/math/math-linear-algebra-chapter-2-7.zh/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; 矩阵的转置和行变换（permutation），包含一些运算的转置，以及对称概念的提出和相关性质
+&lt;strong&gt;Keywords:&lt;/strong&gt; Transposes,Permutation,Symmetric,Inner Products,R&amp;rsquo;R&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>【线性代数】2-6:三角矩阵( $A=LU$ and $A=LDU$ )</title>
+      <link>https://go.face2ai.com/math/math-linear-algebra-chapter-2-6.zh/</link>
+      <pubDate>Tue, 12 Sep 2017 15:41:12 +0000</pubDate>
+      
+      <guid>https://go.face2ai.com/math/math-linear-algebra-chapter-2-6.zh/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; 如何将矩阵分解成三角矩阵
+&lt;strong&gt;Keywords:&lt;/strong&gt; A=LU,A=LDU,Factorization&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>【线性代数】2-5:矩阵的逆(Inverse)</title>
+      <link>https://go.face2ai.com/math/math-linear-algebra-chapter-2-5.zh/</link>
+      <pubDate>Mon, 11 Sep 2017 20:00:16 +0000</pubDate>
+      
+      <guid>https://go.face2ai.com/math/math-linear-algebra-chapter-2-5.zh/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; 矩阵的“逆”，以及相关计算
+&lt;strong&gt;Keywords:&lt;/strong&gt; Inverse，Singular，Gauss-Jordan&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>CNN训练数据讨论</title>
+      <link>https://go.face2ai.com/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0/deep-learning-cnn%E8%AE%AD%E7%BB%83%E6%95%B0%E6%8D%AE%E8%AE%A8%E8%AE%BA.zh/</link>
+      <pubDate>Thu, 07 Sep 2017 10:06:13 +0000</pubDate>
+      
+      <guid>https://go.face2ai.com/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0/deep-learning-cnn%E8%AE%AD%E7%BB%83%E6%95%B0%E6%8D%AE%E8%AE%A8%E8%AE%BA.zh/</guid>
+      <description>Abstract: 不同的输入对CNN的影响 Keywords: CNN，输入数据
+CNN训练数据讨论 问题回顾 对于神经网络，同一样本不同的表现形式，不同的Normalization的方式，作为输入会带来不同的结果。
+具体数据 分析 所谓同一样本的不同形式，比如彩色图片的不同色彩空间描述，RGB，YUV(YCbCr)，LIS等色彩空间有着不同的表现方式，其本质（数学模式）虽然不同，但视觉效果都表征同一样本，或者将样本变形成灰度图像，样本类别没有发生变化，只是描述发生了转换，更深层的说法就是变量的域发生了改变。 以上描述了同一样本不同域的变化，相反，在同一域下，数值的scale也会引起训练结果的变化，原因笔者目前还不清楚，期待研究明白后能给出通俗，简单的解释。
+实验1 文章对行人进行性别分类，网络结构采用最古老的LeNet作为模板，对训练样本进行不同的处理产生了不同的结果，比较如下：
+色彩空间变换，RGB，GRAY，YCbCr YCbCr转换公式： Normalization方式：
+实验结果： 总结 不同变量域最后的结果差别较大 不同的Normalization的结果也不相同，Normalization的结果优于不normalization的结果。 另外，Normalization也会影响收敛速度
+  Ng, Choon-Boon, Yong-Haur Tay, and Bok-Min Goi. &amp;ldquo;Comparing image representations for training a convolutional neural network to classify gender.&amp;rdquo; In 2013 1st International Conference on Artificial Intelligence, Modelling and Simulation, pp. 29-33. IEEE, 2013.&amp;#160;&amp;#x21a9;&amp;#xfe0e;
+   </description>
+    </item>
+    
+    <item>
+      <title>训练数据选择血泪史</title>
+      <link>https://go.face2ai.com/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/machinelearning-%E8%AE%AD%E7%BB%83%E6%95%B0%E6%8D%AE%E9%80%89%E6%8B%A9%E8%A1%80%E6%B3%AA%E5%8F%B2.zh/</link>
+      <pubDate>Thu, 07 Sep 2017 09:56:12 +0000</pubDate>
+      
+      <guid>https://go.face2ai.com/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/machinelearning-%E8%AE%AD%E7%BB%83%E6%95%B0%E6%8D%AE%E9%80%89%E6%8B%A9%E8%A1%80%E6%B3%AA%E5%8F%B2.zh/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; 机器学习数据预处理的小总结
+&lt;strong&gt;Keywords:&lt;/strong&gt; 数据，预处理&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Tony 推荐读物</title>
+      <link>https://go.face2ai.com/%E5%85%B6%E4%BB%96/other-tony%E6%8E%A8%E8%8D%90%E8%AF%BB%E7%89%A9.zh/</link>
+      <pubDate>Thu, 07 Sep 2017 09:30:32 +0000</pubDate>
+      
+      <guid>https://go.face2ai.com/%E5%85%B6%E4%BB%96/other-tony%E6%8E%A8%E8%8D%90%E8%AF%BB%E7%89%A9.zh/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; tony 推荐读物
+&lt;strong&gt;Keywords:&lt;/strong&gt; 书籍推荐&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Tony 说学习</title>
+      <link>https://go.face2ai.com/%E5%85%B6%E4%BB%96/other-tony%E8%AF%B4%E5%AD%A6%E4%B9%A0.zh/</link>
+      <pubDate>Thu, 07 Sep 2017 09:25:51 +0000</pubDate>
+      
+      <guid>https://go.face2ai.com/%E5%85%B6%E4%BB%96/other-tony%E8%AF%B4%E5%AD%A6%E4%B9%A0.zh/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; 关于学习的小感想
+&lt;strong&gt;Keywords:&lt;/strong&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>【线性代数】2-4:矩阵操作(Matrix Operations)</title>
+      <link>https://go.face2ai.com/math/math-linear-algebra-chapter-2-4.zh/</link>
+      <pubDate>Tue, 05 Sep 2017 17:15:19 +0000</pubDate>
+      
+      <guid>https://go.face2ai.com/math/math-linear-algebra-chapter-2-4.zh/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; 矩阵基本计算，包括加减乘法，主要是乘法的几种不同的理解&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Keywords:&lt;/strong&gt; Addition，Subtraction，Multiplication，Inner Product，Outer Product&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>【线性代数】2-3:消元与矩阵的关系(Elimination and Matrix)</title>
+      <link>https://go.face2ai.com/math/math-linear-algebra-chapter-2-3.zh/</link>
+      <pubDate>Thu, 31 Aug 2017 17:55:10 +0000</pubDate>
+      
+      <guid>https://go.face2ai.com/math/math-linear-algebra-chapter-2-3.zh/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; 用大学的方法消元，也就是整个消元过程矩阵化，引出矩阵乘法
+&lt;strong&gt;Keywords:&lt;/strong&gt; Elimination Matrix，Matrix Multiplication，Augmented Matrix&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>【线性代数】2-2:消元(Eliminate)</title>
+      <link>https://go.face2ai.com/math/math-linear-algebra-chapter-2-2.zh/</link>
+      <pubDate>Thu, 31 Aug 2017 16:14:14 +0000</pubDate>
+      
+      <guid>https://go.face2ai.com/math/math-linear-algebra-chapter-2-2.zh/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; 从小学解方程的消元开始，推导出线性代数的知识，包括先关矩阵计算
+&lt;strong&gt;Keywords:&lt;/strong&gt; Eliminate 消元，Pivot 主元，Row Exchange 行交换，Upper Triangular 上三角矩阵&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>【线性代数】2-1:解方程组(Ax=b)</title>
+      <link>https://go.face2ai.com/math/math-linear-algebra-chapter-2-1.zh/</link>
+      <pubDate>Thu, 31 Aug 2017 15:08:37 +0000</pubDate>
+      
+      <guid>https://go.face2ai.com/math/math-linear-algebra-chapter-2-1.zh/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; 通过不同的角度解方程组$Ax=b$
+&lt;strong&gt;Keywords:&lt;/strong&gt; row picture，column Picture，system of equations&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>【线性代数】1-2:点乘和长度(Dot Products and Length)</title>
+      <link>https://go.face2ai.com/math/math-linear-algebra-chapter-1-2.zh/</link>
+      <pubDate>Mon, 28 Aug 2017 12:12:18 +0000</pubDate>
+      
+      <guid>https://go.face2ai.com/math/math-linear-algebra-chapter-1-2.zh/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; 介绍点乘，length
+&lt;strong&gt;Keywords:&lt;/strong&gt; dot product，length&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>【线性代数】1-1:线性组合(Linear Combinations)</title>
+      <link>https://go.face2ai.com/math/math-linear-algebra-chapter-1-1.zh/</link>
+      <pubDate>Mon, 28 Aug 2017 10:44:28 +0000</pubDate>
+      
+      <guid>https://go.face2ai.com/math/math-linear-algebra-chapter-1-1.zh/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; 线性组合详细说明
+&lt;strong&gt;Keywords:&lt;/strong&gt; Linear Combinations&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>【线性代数】1-0:向量(Vector)</title>
+      <link>https://go.face2ai.com/math/math-linear-algebra-chapter-1-0.zh/</link>
+      <pubDate>Mon, 28 Aug 2017 10:01:20 +0000</pubDate>
+      
+      <guid>https://go.face2ai.com/math/math-linear-algebra-chapter-1-0.zh/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; 本文主要介绍向量和线性组合的相关知识
+&lt;strong&gt;Keywords:&lt;/strong&gt; 向量，线性组合&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>用atom&#43;markdown&#43;hexo&#43;github写博客</title>
+      <link>https://go.face2ai.com/%E5%85%B6%E4%BB%96/other-%E7%94%A8atom-markdown-hexo-github%E5%86%99%E5%8D%9A%E5%AE%A2.zh/</link>
+      <pubDate>Thu, 24 Aug 2017 22:24:52 +0000</pubDate>
+      
+      <guid>https://go.face2ai.com/%E5%85%B6%E4%BB%96/other-%E7%94%A8atom-markdown-hexo-github%E5%86%99%E5%8D%9A%E5%AE%A2.zh/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;：本文推荐一些小插件，和小技巧，目的是快速的完成自己的博客，博客的主要目的是传递经验和思想，这就和观赏性网站有了区别，不需要华丽，简洁，清楚的风格更适合技术人员。
+&lt;strong&gt;Keywords&lt;/strong&gt;：LaTeX，Markdown，Hexo，Atom&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>【线性代数】线性代数总览</title>
+      <link>https://go.face2ai.com/math/math-linear_algebra_big_picture.zh/</link>
+      <pubDate>Fri, 18 Aug 2017 16:28:36 +0000</pubDate>
+      
+      <guid>https://go.face2ai.com/math/math-linear_algebra_big_picture.zh/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; 通过学习MIT 18.06课程，总结出的线性代数的知识点相互依赖关系，后续博客将会按照相应的依赖关系进行介绍。
+&lt;strong&gt;Keywords:&lt;/strong&gt; Linear Algebra,Big Picture&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>本站目录</title>
+      <link>https://go.face2ai.com/%E5%85%B6%E4%BB%96/other-website-contents.zh/</link>
+      <pubDate>Sat, 18 Jul 2015 16:28:36 +0000</pubDate>
+      
+      <guid>https://go.face2ai.com/%E5%85%B6%E4%BB%96/other-website-contents.zh/</guid>
+      <description>&lt;p&gt;本站包含作者原创的关于人工智能的理论，算法等博客，目前包括：强化学习，深度学习，机器学习，线性代数，概率论，数理统计，Python，爬虫等在目前人工智能领域需要用到的基础知识，欢迎大家订阅关注。&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>30天自制操作系统</title>
+      <link>https://go.face2ai.com/%E7%BC%96%E7%A8%8B/30-days/30_days_system/</link>
+      <pubDate>Fri, 13 Dec 2013 14:42:00 +0000</pubDate>
+      
+      <guid>https://go.face2ai.com/%E7%BC%96%E7%A8%8B/30-days/30_days_system/</guid>
+      <description>30天自制操作系统1 Mac下工具的使用 现在来介绍官网上下的工具怎么用首先是官网地址，书上有个注释上有:hrb.osask.jp 翻译成中文大概是这个样子滴。
+上面有两个文件可以下载，一个是工具，一个是工具的源代码，很好的学习资料
+下面把工具复制出来
+看到很多可执行文件。。感觉好舒服。。
+然后把我们随便一个project复制到z_tools的同级目录下
+project的内容可以修改，因为批处理可以下岗了：
+然后可能是难度最大的部分出现了:修改makefile
+如果没用过makefile可以先找点资料看看。很简单的语法，很强大的功能： 修改完成后是：
+ TOOLPATH = ../z_tools/ INCPATH = ../z_tools/haribote/ ################################################### MAKE = make NASK = $(TOOLPATH)nask CC1 = $(TOOLPATH)gocc1 -I$(INCPATH) -Os -Wall -quiet GAS2NASK = $(TOOLPATH)gas2nask -a OBJ2BIM = $(TOOLPATH)obj2bim BIM2HRB = $(TOOLPATH)bim2hrb RULEFILE = $(TOOLPATH)haribote/haribote.rul EDIMG = $(TOOLPATH)edimg IMGTOL = $(TOOLPATH)imgtol.com COPY = cp DEL = rm ################################################### ## ÉfÉtÉHÉãÉgìÆçÏ default : $(MAKE) img ## ÉtÉ@ÉCÉãê∂ê¨ãKë• ipl10.bin : ipl10.nas Makefile $(NASK) ipl10.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://go.face2ai.com/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://go.face2ai.com/about/</guid>
+      <description>About Me Hi, I&amp;rsquo;m Anthony Tan(谭升). I am now living in Shenzhen, China. I&amp;rsquo;m a full-time computer vision algorithm engineer and a part-time individual reinforcement learning researcher. I have had a great interest in artificial intelligence since I watched the movie &amp;ldquo;Iron man&amp;rdquo; when I was a middle school student. And to get deeper into these subjects, I&amp;rsquo;d like to apply for a Ph.D. project on reinforcement learning in the following years.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://go.face2ai.com/%E7%BC%96%E7%A8%8B/crawler/crawler/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://go.face2ai.com/%E7%BC%96%E7%A8%8B/crawler/crawler/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>【30天自制操作系】 定时器</title>
+      <link>https://go.face2ai.com/%E7%BC%96%E7%A8%8B/30-days/30%E5%A4%A9%E8%87%AA%E5%88%B6%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0--%E7%AC%AC11%E5%A4%A9.zh/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://go.face2ai.com/%E7%BC%96%E7%A8%8B/30-days/30%E5%A4%A9%E8%87%AA%E5%88%B6%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0--%E7%AC%AC11%E5%A4%A9.zh/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; 《30天自制操作系统》闪烁和定时器
+&lt;strong&gt;Keywords:&lt;/strong&gt; 《30天自制操作系统》，Macbook，定时器&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>【30天自制操作系统】 FIFO</title>
+      <link>https://go.face2ai.com/%E7%BC%96%E7%A8%8B/30-days/30%E5%A4%A9%E8%87%AA%E5%88%B6%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0--%E7%AC%AC13%E5%A4%A9.zh/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://go.face2ai.com/%E7%BC%96%E7%A8%8B/30-days/30%E5%A4%A9%E8%87%AA%E5%88%B6%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0--%E7%AC%AC13%E5%A4%A9.zh/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; 《30天自制操作系统》FIFO
+&lt;strong&gt;Keywords:&lt;/strong&gt; 《30天自制操作系统》，Macbook，FIFO&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>【30天自制操作系统】 GDT和IDT</title>
+      <link>https://go.face2ai.com/%E7%BC%96%E7%A8%8B/30-days/30%E5%A4%A9%E8%87%AA%E5%88%B6%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0--%E7%AC%AC5%E5%A4%A9.zh/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://go.face2ai.com/%E7%BC%96%E7%A8%8B/30-days/30%E5%A4%A9%E8%87%AA%E5%88%B6%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0--%E7%AC%AC5%E5%A4%A9.zh/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; 《30天自制操作系统》GDT和IDT介绍
+&lt;strong&gt;Keywords:&lt;/strong&gt; 《30天自制操作系统》，Macbook，GDT，IDT&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>【30天自制操作系统】 IPL，BIOS</title>
+      <link>https://go.face2ai.com/%E7%BC%96%E7%A8%8B/30-days/30%E5%A4%A9%E8%87%AA%E5%88%B6%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0--%E7%AC%AC3%E5%A4%A9.zh/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://go.face2ai.com/%E7%BC%96%E7%A8%8B/30-days/30%E5%A4%A9%E8%87%AA%E5%88%B6%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0--%E7%AC%AC3%E5%A4%A9.zh/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;《30天自制操作系统》IPL机制，BIOS介绍
+&lt;strong&gt;Keywords:&lt;/strong&gt; IPL，BIOS&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>【30天自制操作系统】 Mac环境下的工具介绍</title>
+      <link>https://go.face2ai.com/%E7%BC%96%E7%A8%8B/30-days/30%E5%A4%A9%E8%87%AA%E5%88%B6%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0--%E7%95%AA%E5%A4%96%E7%AF%87%E4%B9%8Bmac%E7%8E%AF%E5%A2%83%E4%B8%8B%E7%9A%84%E5%B7%A5%E5%85%B7%E4%BB%8B%E7%BB%8D.zh/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://go.face2ai.com/%E7%BC%96%E7%A8%8B/30-days/30%E5%A4%A9%E8%87%AA%E5%88%B6%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0--%E7%95%AA%E5%A4%96%E7%AF%87%E4%B9%8Bmac%E7%8E%AF%E5%A2%83%E4%B8%8B%E7%9A%84%E5%B7%A5%E5%85%B7%E4%BB%8B%E7%BB%8D.zh/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Mac 下 《30天自制操作系统》环境工具介绍
+&lt;strong&gt;Keywords:&lt;/strong&gt; 《30天自制操作系统》，Macbook，环境，工具&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>【30天自制操作系统】 Mac环境搭建</title>
+      <link>https://go.face2ai.com/%E7%BC%96%E7%A8%8B/30-days/30%E5%A4%A9%E8%87%AA%E5%88%B6%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0--mac%E7%8E%AF%E5%A2%83%E6%90%AD%E5%BB%BA.zh/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://go.face2ai.com/%E7%BC%96%E7%A8%8B/30-days/30%E5%A4%A9%E8%87%AA%E5%88%B6%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0--mac%E7%8E%AF%E5%A2%83%E6%90%AD%E5%BB%BA.zh/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Mac 下 《30天自制操作系统》环境
+&lt;strong&gt;Keywords:&lt;/strong&gt; 《30天自制操作系统》，Macbook，环境&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>【30天自制操作系统】 一个半成品</title>
+      <link>https://go.face2ai.com/%E7%BC%96%E7%A8%8B/30-days/30%E5%A4%A9%E8%87%AA%E5%88%B6%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0--%E7%AC%AC%E5%A5%BD%E5%A4%9A%E5%A4%A9.zh/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://go.face2ai.com/%E7%BC%96%E7%A8%8B/30-days/30%E5%A4%A9%E8%87%AA%E5%88%B6%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0--%E7%AC%AC%E5%A5%BD%E5%A4%9A%E5%A4%A9.zh/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; 一个半成品
+&lt;strong&gt;Keywords:&lt;/strong&gt; 《30天自制操作系统》，Macbook，半成品&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>【30天自制操作系统】 中断</title>
+      <link>https://go.face2ai.com/%E7%BC%96%E7%A8%8B/30-days/30%E5%A4%A9%E8%87%AA%E5%88%B6%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0--%E7%AC%AC7%E5%A4%A9.zh/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://go.face2ai.com/%E7%BC%96%E7%A8%8B/30-days/30%E5%A4%A9%E8%87%AA%E5%88%B6%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0--%E7%AC%AC7%E5%A4%A9.zh/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; 《30天自制操作系统》中断处理程序
+&lt;strong&gt;Keywords:&lt;/strong&gt; 《30天自制操作系统》，Macbook，中断处理程序&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>【30天自制操作系统】 中断处理</title>
+      <link>https://go.face2ai.com/%E7%BC%96%E7%A8%8B/30-days/30%E5%A4%A9%E8%87%AA%E5%88%B6%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0--%E7%AC%AC6%E5%A4%A9.zh/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://go.face2ai.com/%E7%BC%96%E7%A8%8B/30-days/30%E5%A4%A9%E8%87%AA%E5%88%B6%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0--%E7%AC%AC6%E5%A4%A9.zh/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; 《30天自制操作系统》中断处理
+&lt;strong&gt;Keywords:&lt;/strong&gt; 《30天自制操作系统》，Macbook，中断&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>【30天自制操作系统】 保护模式</title>
+      <link>https://go.face2ai.com/%E7%BC%96%E7%A8%8B/30-days/30%E5%A4%A9%E8%87%AA%E5%88%B6%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0--%E7%AC%AC2%E5%A4%A9.zh/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://go.face2ai.com/%E7%BC%96%E7%A8%8B/30-days/30%E5%A4%A9%E8%87%AA%E5%88%B6%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0--%E7%AC%AC2%E5%A4%A9.zh/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; 软盘，启动，保护模式的初次使用
+&lt;strong&gt;Keywords:&lt;/strong&gt; 《30天自制操作系统》，Macbook，软盘，启动，保护模式&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>【30天自制操作系统】 内存管理</title>
+      <link>https://go.face2ai.com/%E7%BC%96%E7%A8%8B/30-days/30%E5%A4%A9%E8%87%AA%E5%88%B6%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0--%E7%AC%AC9%E5%A4%A9.zh/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://go.face2ai.com/%E7%BC%96%E7%A8%8B/30-days/30%E5%A4%A9%E8%87%AA%E5%88%B6%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0--%E7%AC%AC9%E5%A4%A9.zh/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; 30天自制操作系统》内存管理
+&lt;strong&gt;Keywords:&lt;/strong&gt; 《30天自制操作系统》，Macbook，内存管理&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>【30天自制操作系统】 内存管理和叠加处理</title>
+      <link>https://go.face2ai.com/%E7%BC%96%E7%A8%8B/30-days/30%E5%A4%A9%E8%87%AA%E5%88%B6%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0--%E7%AC%AC10%E5%A4%A9.zh/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://go.face2ai.com/%E7%BC%96%E7%A8%8B/30-days/30%E5%A4%A9%E8%87%AA%E5%88%B6%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0--%E7%AC%AC10%E5%A4%A9.zh/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; 《30天自制操作系统》内存管理和叠加处理
+&lt;strong&gt;Keywords:&lt;/strong&gt; 《30天自制操作系统》，Macbook，内存管理,叠加处理&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>【30天自制操作系统】 计时器</title>
+      <link>https://go.face2ai.com/%E7%BC%96%E7%A8%8B/30-days/30%E5%A4%A9%E8%87%AA%E5%88%B6%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0--%E7%AC%AC12%E5%A4%A9.zh/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://go.face2ai.com/%E7%BC%96%E7%A8%8B/30-days/30%E5%A4%A9%E8%87%AA%E5%88%B6%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0--%E7%AC%AC12%E5%A4%A9.zh/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; 《30天自制操作系统》计时器
+&lt;strong&gt;Keywords:&lt;/strong&gt; 《30天自制操作系统》，Macbook，计时器&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>【30天自制操作系统】 高分辨率</title>
+      <link>https://go.face2ai.com/%E7%BC%96%E7%A8%8B/30-days/30%E5%A4%A9%E8%87%AA%E5%88%B6%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0--%E7%AC%AC14%E5%A4%A9.zh/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://go.face2ai.com/%E7%BC%96%E7%A8%8B/30-days/30%E5%A4%A9%E8%87%AA%E5%88%B6%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0--%E7%AC%AC14%E5%A4%A9.zh/</guid>
+      <description>Abstract: 《30天自制操作系统》高分辨率 Keywords: 《30天自制操作系统》，Macbook，高分辨率
+高分辨率 高分辨率，这个是个必须要说的话题，因为好像没有啥电脑显示器用320*200的分辨率了，所以提高分辨率势在必行。。哈哈 一个重要的操作就是查询VBE 中断编号 0x10 参数ES：DI指向的地址将会被VBE的内容覆盖 参数AX存储一个返回值，如果是0x004f就是有VBE不是这个值，就意味着VBE不可用 画面模式信息：
+ WORD 【ES:DI + 0x00】 :模式属性 WORD 【ES:DI + 0x12】 :x分辨率 WORD 【ES:DI + 0x14】 :y分辨率 BYTE 【ES:DI + 0x19】 :颜色数。。。必须为8 BYTE 【ES:DI + 0x1b】 :颜色的指定方法。。。必须为4（4为调色板模式） DWORD 【ES:DI + 0x28】 :VRAM的地址 ``` 然后就是现实键盘输入，移动对话框，不在赘述 </description>
+    </item>
+    
+    <item>
+      <title>【30天自制操作系统】 鼠标</title>
+      <link>https://go.face2ai.com/%E7%BC%96%E7%A8%8B/30-days/30%E5%A4%A9%E8%87%AA%E5%88%B6%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0--%E7%AC%AC8%E5%A4%A9.zh/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://go.face2ai.com/%E7%BC%96%E7%A8%8B/30-days/30%E5%A4%A9%E8%87%AA%E5%88%B6%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0--%E7%AC%AC8%E5%A4%A9.zh/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; 《30天自制操作系统》鼠标显示
+&lt;strong&gt;Keywords:&lt;/strong&gt; 《30天自制操作系统》，Macbook，鼠标&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>【30天自制操作系统】Mac下工具的使用</title>
+      <link>https://go.face2ai.com/%E7%BC%96%E7%A8%8B/30-days/30%E5%A4%A9%E8%87%AA%E5%88%B6%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0--mac%E4%B8%8B%E5%B7%A5%E5%85%B7%E7%9A%84%E4%BD%BF%E7%94%A8.zh/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://go.face2ai.com/%E7%BC%96%E7%A8%8B/30-days/30%E5%A4%A9%E8%87%AA%E5%88%B6%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0--mac%E4%B8%8B%E5%B7%A5%E5%85%B7%E7%9A%84%E4%BD%BF%E7%94%A8.zh/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Mac 下 《30天自制操作系统》工具使用
+&lt;strong&gt;Keywords:&lt;/strong&gt; 《30天自制操作系统》，Macbook，环境，工具&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>【30天自制操作系统】多任务 I</title>
+      <link>https://go.face2ai.com/%E7%BC%96%E7%A8%8B/30-days/30%E5%A4%A9%E8%87%AA%E5%88%B6%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0--%E7%AC%AC15%E5%A4%A9.zh/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://go.face2ai.com/%E7%BC%96%E7%A8%8B/30-days/30%E5%A4%A9%E8%87%AA%E5%88%B6%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0--%E7%AC%AC15%E5%A4%A9.zh/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; 《30天自制操作系统》多任务
+&lt;strong&gt;Keywords:&lt;/strong&gt; 《30天自制操作系统》，Macbook，多任务&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>【30天自制操作系统】多任务 II</title>
+      <link>https://go.face2ai.com/%E7%BC%96%E7%A8%8B/30-days/30%E5%A4%A9%E8%87%AA%E5%88%B6%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0--%E7%AC%AC16%E5%A4%A9.zh/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://go.face2ai.com/%E7%BC%96%E7%A8%8B/30-days/30%E5%A4%A9%E8%87%AA%E5%88%B6%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0--%E7%AC%AC16%E5%A4%A9.zh/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; 《30天自制操作系统》多任务
+&lt;strong&gt;Keywords:&lt;/strong&gt; 《30天自制操作系统》，Macbook，环境&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>【30天自制操作系统】汇编与C语言</title>
+      <link>https://go.face2ai.com/%E7%BC%96%E7%A8%8B/30-days/30%E5%A4%A9%E8%87%AA%E5%88%B6%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0--%E7%AC%AC4%E5%A4%A9.zh/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://go.face2ai.com/%E7%BC%96%E7%A8%8B/30-days/30%E5%A4%A9%E8%87%AA%E5%88%B6%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0--%E7%AC%AC4%E5%A4%A9.zh/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; 汇编调用C语言
+&lt;strong&gt;Keywords:&lt;/strong&gt; 《30天自制操作系统》，Macbook，汇编调用C语言，C语言调用汇编&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>【数字图像处理】1.1:灰度级</title>
+      <link>https://go.face2ai.com/%E7%BC%96%E7%A8%8B/dip/dip-1-1-%E4%B8%8D%E5%90%8C%E7%81%B0%E5%BA%A6%E7%BA%A7%E7%9A%84%E5%9B%BE%E5%83%8F.zh/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://go.face2ai.com/%E7%BC%96%E7%A8%8B/dip/dip-1-1-%E4%B8%8D%E5%90%8C%E7%81%B0%E5%BA%A6%E7%BA%A7%E7%9A%84%E5%9B%BE%E5%83%8F.zh/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; 数字图像处理：第1天
+&lt;strong&gt;Keywords:&lt;/strong&gt; 灰度级数&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>【数字图像处理】1.2:灰度变换，gama变换，对数，反对数变换</title>
+      <link>https://go.face2ai.com/%E7%BC%96%E7%A8%8B/dip/dip-1-2-%E7%81%B0%E5%BA%A6%E5%8F%98%E6%8D%A2-gama%E5%8F%98%E6%8D%A2-%E5%AF%B9%E6%95%B0-%E5%8F%8D%E5%AF%B9%E6%95%B0%E5%8F%98%E6%8D%A2.zh/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://go.face2ai.com/%E7%BC%96%E7%A8%8B/dip/dip-1-2-%E7%81%B0%E5%BA%A6%E5%8F%98%E6%8D%A2-gama%E5%8F%98%E6%8D%A2-%E5%AF%B9%E6%95%B0-%E5%8F%8D%E5%AF%B9%E6%95%B0%E5%8F%98%E6%8D%A2.zh/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; 数字图像处理：第2天
+&lt;strong&gt;Keywords:&lt;/strong&gt; 灰度变换，gama变换，对数，反对数变换&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>【数字图像处理】10.1:彩色图像-图像增强 直方图增强</title>
+      <link>https://go.face2ai.com/%E7%BC%96%E7%A8%8B/dip/dip-10-1-%E5%BD%A9%E8%89%B2%E5%9B%BE%E5%83%8F-%E5%9B%BE%E5%83%8F%E5%A2%9E%E5%BC%BA-%E7%9B%B4%E6%96%B9%E5%9B%BE%E5%A2%9E%E5%BC%BA.zh/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://go.face2ai.com/%E7%BC%96%E7%A8%8B/dip/dip-10-1-%E5%BD%A9%E8%89%B2%E5%9B%BE%E5%83%8F-%E5%9B%BE%E5%83%8F%E5%A2%9E%E5%BC%BA-%E7%9B%B4%E6%96%B9%E5%9B%BE%E5%A2%9E%E5%BC%BA.zh/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; 数字图像处理：第70天
+&lt;strong&gt;Keywords:&lt;/strong&gt; 彩色图像直方图&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>【数字图像处理】10.2:彩色图像-图像增强 图像平滑</title>
+      <link>https://go.face2ai.com/%E7%BC%96%E7%A8%8B/dip/dip-10-2-%E5%BD%A9%E8%89%B2%E5%9B%BE%E5%83%8F-%E5%9B%BE%E5%83%8F%E5%A2%9E%E5%BC%BA-%E5%9B%BE%E5%83%8F%E5%B9%B3%E6%BB%91.zh/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://go.face2ai.com/%E7%BC%96%E7%A8%8B/dip/dip-10-2-%E5%BD%A9%E8%89%B2%E5%9B%BE%E5%83%8F-%E5%9B%BE%E5%83%8F%E5%A2%9E%E5%BC%BA-%E5%9B%BE%E5%83%8F%E5%B9%B3%E6%BB%91.zh/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; 数字图像处理：第71天
+&lt;strong&gt;Keywords:&lt;/strong&gt; 高斯滤波,均值滤波,双边滤波,中值滤波&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>【数字图像处理】10.3:彩色图像-图像增强 图像锐化</title>
+      <link>https://go.face2ai.com/%E7%BC%96%E7%A8%8B/dip/dip-10-3-%E5%BD%A9%E8%89%B2%E5%9B%BE%E5%83%8F-%E5%9B%BE%E5%83%8F%E5%A2%9E%E5%BC%BA-%E5%9B%BE%E5%83%8F%E9%94%90%E5%8C%96.zh/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://go.face2ai.com/%E7%BC%96%E7%A8%8B/dip/dip-10-3-%E5%BD%A9%E8%89%B2%E5%9B%BE%E5%83%8F-%E5%9B%BE%E5%83%8F%E5%A2%9E%E5%BC%BA-%E5%9B%BE%E5%83%8F%E9%94%90%E5%8C%96.zh/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; 数字图像处理：第72天
+&lt;strong&gt;Keywords:&lt;/strong&gt; 拉普拉斯算子,Sobel算子,Robert算子&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>【数字图像处理】10.4:彩色图像-图像分割 彩色空间分割</title>
+      <link>https://go.face2ai.com/%E7%BC%96%E7%A8%8B/dip/dip-10-4-%E5%BD%A9%E8%89%B2%E5%9B%BE%E5%83%8F-%E5%9B%BE%E5%83%8F%E5%88%86%E5%89%B2-%E5%BD%A9%E8%89%B2%E7%A9%BA%E9%97%B4%E5%88%86%E5%89%B2.zh/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://go.face2ai.com/%E7%BC%96%E7%A8%8B/dip/dip-10-4-%E5%BD%A9%E8%89%B2%E5%9B%BE%E5%83%8F-%E5%9B%BE%E5%83%8F%E5%88%86%E5%89%B2-%E5%BD%A9%E8%89%B2%E7%A9%BA%E9%97%B4%E5%88%86%E5%89%B2.zh/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; 数字图像处理：第73天
+&lt;strong&gt;Keywords:&lt;/strong&gt; 彩色分割&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>【数字图像处理】2.1:一维DFT</title>
+      <link>https://go.face2ai.com/%E7%BC%96%E7%A8%8B/dip/dip-2-1-%E4%B8%80%E7%BB%B4dft.zh/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://go.face2ai.com/%E7%BC%96%E7%A8%8B/dip/dip-2-1-%E4%B8%80%E7%BB%B4dft.zh/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; 数字图像处理：第3天
+&lt;strong&gt;Keywords:&lt;/strong&gt; DFT, 离散傅里叶变换&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>【数字图像处理】2.2:二维DFT</title>
+      <link>https://go.face2ai.com/%E7%BC%96%E7%A8%8B/dip/dip-2-2-%E4%BA%8C%E7%BB%B4dft.zh/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://go.face2ai.com/%E7%BC%96%E7%A8%8B/dip/dip-2-2-%E4%BA%8C%E7%BB%B4dft.zh/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; 数字图像处理：第4天
+&lt;strong&gt;Keywords:&lt;/strong&gt; DFT, 离散傅里叶变换&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>【数字图像处理】2.3:FFT算法理解与c语言的实现</title>
+      <link>https://go.face2ai.com/%E7%BC%96%E7%A8%8B/dip/dip-2-3-fft%E7%AE%97%E6%B3%95%E7%90%86%E8%A7%A3%E4%B8%8Ec%E8%AF%AD%E8%A8%80%E7%9A%84%E5%AE%9E%E7%8E%B0.zh/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://go.face2ai.com/%E7%BC%96%E7%A8%8B/dip/dip-2-3-fft%E7%AE%97%E6%B3%95%E7%90%86%E8%A7%A3%E4%B8%8Ec%E8%AF%AD%E8%A8%80%E7%9A%84%E5%AE%9E%E7%8E%B0.zh/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; 数字图像处理：第5天
+&lt;strong&gt;Keywords:&lt;/strong&gt; FFT,快速傅里叶变换&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>【数字图像处理】2.4:二维FFT,IFFT,c语言实现</title>
+      <link>https://go.face2ai.com/%E7%BC%96%E7%A8%8B/dip/dip-2-4-%E4%BA%8C%E7%BB%B4fft-ifft-c%E8%AF%AD%E8%A8%80%E5%AE%9E%E7%8E%B0.zh/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://go.face2ai.com/%E7%BC%96%E7%A8%8B/dip/dip-2-4-%E4%BA%8C%E7%BB%B4fft-ifft-c%E8%AF%AD%E8%A8%80%E5%AE%9E%E7%8E%B0.zh/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; 数字图像处理：第6天
+&lt;strong&gt;Keywords:&lt;/strong&gt; 二维FFT，二维IFFT，图像快速傅里叶&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>【数字图像处理】2.5:图像傅里叶变换（快速傅里叶变换FFT）</title>
+      <link>https://go.face2ai.com/%E7%BC%96%E7%A8%8B/dip/dip-2-5-%E5%9B%BE%E5%83%8F%E5%82%85%E9%87%8C%E5%8F%B6%E5%8F%98%E6%8D%A2-%E5%BF%AB%E9%80%9F%E5%82%85%E9%87%8C%E5%8F%B6%E5%8F%98%E6%8D%A2fft.zh/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://go.face2ai.com/%E7%BC%96%E7%A8%8B/dip/dip-2-5-%E5%9B%BE%E5%83%8F%E5%82%85%E9%87%8C%E5%8F%B6%E5%8F%98%E6%8D%A2-%E5%BF%AB%E9%80%9F%E5%82%85%E9%87%8C%E5%8F%B6%E5%8F%98%E6%8D%A2fft.zh/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; 数字图像处理：第7天
+&lt;strong&gt;Keywords:&lt;/strong&gt; 傅里叶变换，图像傅里叶谱，二维傅里叶变换&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>【数字图像处理】3.0:二值图像</title>
+      <link>https://go.face2ai.com/%E7%BC%96%E7%A8%8B/dip/dip-3-0-%E4%BA%8C%E5%80%BC%E5%9B%BE%E5%83%8F.zh/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://go.face2ai.com/%E7%BC%96%E7%A8%8B/dip/dip-3-0-%E4%BA%8C%E5%80%BC%E5%9B%BE%E5%83%8F.zh/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; 数字图像处理：第8天
+&lt;strong&gt;Keywords:&lt;/strong&gt; 二值图像，形态学，邻域&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>【数字图像处理】3.1:二值图像-形态学处理 数学形态学</title>
+      <link>https://go.face2ai.com/%E7%BC%96%E7%A8%8B/dip/dip-3-1-%E4%BA%8C%E5%80%BC%E5%9B%BE%E5%83%8F-%E5%BD%A2%E6%80%81%E5%AD%A6%E5%A4%84%E7%90%861-%E6%95%B0%E5%AD%A6%E5%BD%A2%E6%80%81%E5%AD%A6.zh/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://go.face2ai.com/%E7%BC%96%E7%A8%8B/dip/dip-3-1-%E4%BA%8C%E5%80%BC%E5%9B%BE%E5%83%8F-%E5%BD%A2%E6%80%81%E5%AD%A6%E5%A4%84%E7%90%861-%E6%95%B0%E5%AD%A6%E5%BD%A2%E6%80%81%E5%AD%A6.zh/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; 数字图像处理：第9天
+&lt;strong&gt;Keywords:&lt;/strong&gt; 形态学&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>【数字图像处理】3.2:二值图像-形态学处理 腐蚀和膨胀</title>
+      <link>https://go.face2ai.com/%E7%BC%96%E7%A8%8B/dip/dip-3-2-%E4%BA%8C%E5%80%BC%E5%9B%BE%E5%83%8F-%E5%BD%A2%E6%80%81%E5%AD%A6%E5%A4%84%E7%90%862-%E8%85%90%E8%9A%80%E5%92%8C%E8%86%A8%E8%83%80.zh/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://go.face2ai.com/%E7%BC%96%E7%A8%8B/dip/dip-3-2-%E4%BA%8C%E5%80%BC%E5%9B%BE%E5%83%8F-%E5%BD%A2%E6%80%81%E5%AD%A6%E5%A4%84%E7%90%862-%E8%85%90%E8%9A%80%E5%92%8C%E8%86%A8%E8%83%80.zh/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; 数字图像处理：第10天
+&lt;strong&gt;Keywords:&lt;/strong&gt; 形态学，腐蚀，膨胀，边缘&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>【数字图像处理】3.3:二值图像-形态学处理 开操作和闭操作</title>
+      <link>https://go.face2ai.com/%E7%BC%96%E7%A8%8B/dip/dip-3-3-%E4%BA%8C%E5%80%BC%E5%9B%BE%E5%83%8F-%E5%BD%A2%E6%80%81%E5%AD%A6%E5%A4%84%E7%90%863-%E5%BC%80%E6%93%8D%E4%BD%9C%E5%92%8C%E9%97%AD%E6%93%8D%E4%BD%9C.zh/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://go.face2ai.com/%E7%BC%96%E7%A8%8B/dip/dip-3-3-%E4%BA%8C%E5%80%BC%E5%9B%BE%E5%83%8F-%E5%BD%A2%E6%80%81%E5%AD%A6%E5%A4%84%E7%90%863-%E5%BC%80%E6%93%8D%E4%BD%9C%E5%92%8C%E9%97%AD%E6%93%8D%E4%BD%9C.zh/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; 数字图像处理：第11天
+&lt;strong&gt;Keywords:&lt;/strong&gt; 形态学，开操作，闭操作，二值图像&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>【数字图像处理】3.4:二值图像-形态学处理4 其他操作</title>
+      <link>https://go.face2ai.com/%E7%BC%96%E7%A8%8B/dip/dip-3-4-%E4%BA%8C%E5%80%BC%E5%9B%BE%E5%83%8F-%E5%BD%A2%E6%80%81%E5%AD%A6%E5%A4%84%E7%90%864-%E5%85%B6%E4%BB%96.zh/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://go.face2ai.com/%E7%BC%96%E7%A8%8B/dip/dip-3-4-%E4%BA%8C%E5%80%BC%E5%9B%BE%E5%83%8F-%E5%BD%A2%E6%80%81%E5%AD%A6%E5%A4%84%E7%90%864-%E5%85%B6%E4%BB%96.zh/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; 数字图像处理：第12天
+&lt;strong&gt;Keywords:&lt;/strong&gt; 二值图像，形态学，击中，边界提取，孔洞填充，连通分量提取，凸壳，细化，骨架，形态学重建&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>【数字图像处理】4.0:灰度图像</title>
+      <link>https://go.face2ai.com/%E7%BC%96%E7%A8%8B/dip/dip-4-0-%E7%81%B0%E5%BA%A6%E5%9B%BE%E5%83%8F.zh/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://go.face2ai.com/%E7%BC%96%E7%A8%8B/dip/dip-4-0-%E7%81%B0%E5%BA%A6%E5%9B%BE%E5%83%8F.zh/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; 数字图像处理：第13天
+&lt;strong&gt;Keywords:&lt;/strong&gt; 灰度图像&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>【数字图像处理】4.1：灰度图像-形态学处理</title>
+      <link>https://go.face2ai.com/%E7%BC%96%E7%A8%8B/dip/dip-4-1-%E7%81%B0%E5%BA%A6%E5%9B%BE%E5%83%8F-%E5%BD%A2%E6%80%81%E5%AD%A6%E5%A4%84%E7%90%86.zh/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://go.face2ai.com/%E7%BC%96%E7%A8%8B/dip/dip-4-1-%E7%81%B0%E5%BA%A6%E5%9B%BE%E5%83%8F-%E5%BD%A2%E6%80%81%E5%AD%A6%E5%A4%84%E7%90%86.zh/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; 数字图像处理：第14天
+&lt;strong&gt;Keywords:&lt;/strong&gt; 形态学，腐蚀，膨胀，开闭操作&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>【数字图像处理】4.10:灰度图像-频域滤波 概论</title>
+      <link>https://go.face2ai.com/%E7%BC%96%E7%A8%8B/dip/dip-4-10-%E7%81%B0%E5%BA%A6%E5%9B%BE%E5%83%8F-%E9%A2%91%E5%9F%9F%E6%BB%A4%E6%B3%A2-%E6%A6%82%E8%AE%BA.zh/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://go.face2ai.com/%E7%BC%96%E7%A8%8B/dip/dip-4-10-%E7%81%B0%E5%BA%A6%E5%9B%BE%E5%83%8F-%E9%A2%91%E5%9F%9F%E6%BB%A4%E6%B3%A2-%E6%A6%82%E8%AE%BA.zh/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; 数字图像处理：第23天
+&lt;strong&gt;Keywords:&lt;/strong&gt; 频域滤波，频域滤波器，振铃，卷积&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>【数字图像处理】4.11:灰度图像-频域滤波 滤波器</title>
+      <link>https://go.face2ai.com/%E7%BC%96%E7%A8%8B/dip/dip-4-11-%E7%81%B0%E5%BA%A6%E5%9B%BE%E5%83%8F-%E9%A2%91%E5%9F%9F%E6%BB%A4%E6%B3%A2-%E6%BB%A4%E6%B3%A2%E5%99%A8.zh/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://go.face2ai.com/%E7%BC%96%E7%A8%8B/dip/dip-4-11-%E7%81%B0%E5%BA%A6%E5%9B%BE%E5%83%8F-%E9%A2%91%E5%9F%9F%E6%BB%A4%E6%B3%A2-%E6%BB%A4%E6%B3%A2%E5%99%A8.zh/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; 数字图像处理：第24天
+&lt;strong&gt;Keywords:&lt;/strong&gt; 频域滤波，高斯滤波器，布特沃斯滤波器&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>【数字图像处理】4.12:灰度图像-频域滤波 同态滤波</title>
+      <link>https://go.face2ai.com/%E7%BC%96%E7%A8%8B/dip/dip-4-12-%E7%81%B0%E5%BA%A6%E5%9B%BE%E5%83%8F-%E9%A2%91%E5%9F%9F%E6%BB%A4%E6%B3%A2-%E5%90%8C%E6%80%81%E6%BB%A4%E6%B3%A2.zh/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://go.face2ai.com/%E7%BC%96%E7%A8%8B/dip/dip-4-12-%E7%81%B0%E5%BA%A6%E5%9B%BE%E5%83%8F-%E9%A2%91%E5%9F%9F%E6%BB%A4%E6%B3%A2-%E5%90%8C%E6%80%81%E6%BB%A4%E6%B3%A2.zh/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; 数字图像处理：第25天
+&lt;strong&gt;Keywords:&lt;/strong&gt; 同态滤波&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>【数字图像处理】4.2:灰度图像-频域滤波 傅里叶变换之卷积</title>
+      <link>https://go.face2ai.com/%E7%BC%96%E7%A8%8B/dip/dip-4-2-%E7%81%B0%E5%BA%A6%E5%9B%BE%E5%83%8F-%E9%A2%91%E5%9F%9F%E6%BB%A4%E6%B3%A2-%E5%82%85%E9%87%8C%E5%8F%B6%E5%8F%98%E6%8D%A2%E4%B9%8B%E5%8D%B7%E7%A7%AF.zh/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://go.face2ai.com/%E7%BC%96%E7%A8%8B/dip/dip-4-2-%E7%81%B0%E5%BA%A6%E5%9B%BE%E5%83%8F-%E9%A2%91%E5%9F%9F%E6%BB%A4%E6%B3%A2-%E5%82%85%E9%87%8C%E5%8F%B6%E5%8F%98%E6%8D%A2%E4%B9%8B%E5%8D%B7%E7%A7%AF.zh/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; 数字图像处理：第15天
+&lt;strong&gt;Keywords:&lt;/strong&gt; 卷积，傅里叶变换&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>【数字图像处理】4.3：灰度图像-频域滤波 傅里叶变换之连续周期信号傅里叶级数</title>
+      <link>https://go.face2ai.com/%E7%BC%96%E7%A8%8B/dip/dip-4-3-%E7%81%B0%E5%BA%A6%E5%9B%BE%E5%83%8F-%E9%A2%91%E5%9F%9F%E6%BB%A4%E6%B3%A2-%E5%82%85%E9%87%8C%E5%8F%B6%E5%8F%98%E6%8D%A2%E4%B9%8B%E8%BF%9E%E7%BB%AD%E5%91%A8%E6%9C%9F%E4%BF%A1%E5%8F%B7%E5%82%85%E9%87%8C%E5%8F%B6%E7%BA%A7%E6%95%B0.zh/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://go.face2ai.com/%E7%BC%96%E7%A8%8B/dip/dip-4-3-%E7%81%B0%E5%BA%A6%E5%9B%BE%E5%83%8F-%E9%A2%91%E5%9F%9F%E6%BB%A4%E6%B3%A2-%E5%82%85%E9%87%8C%E5%8F%B6%E5%8F%98%E6%8D%A2%E4%B9%8B%E8%BF%9E%E7%BB%AD%E5%91%A8%E6%9C%9F%E4%BF%A1%E5%8F%B7%E5%82%85%E9%87%8C%E5%8F%B6%E7%BA%A7%E6%95%B0.zh/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; 数字图像处理：第16天
+&lt;strong&gt;Keywords:&lt;/strong&gt; 傅里叶级数&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>【数字图像处理】4.4：灰度图像-频域滤波 傅里叶变换之离散周期信号傅里叶级数&#34;</title>
+      <link>https://go.face2ai.com/%E7%BC%96%E7%A8%8B/dip/dip-4-4-%E7%81%B0%E5%BA%A6%E5%9B%BE%E5%83%8F-%E9%A2%91%E5%9F%9F%E6%BB%A4%E6%B3%A2-%E5%82%85%E9%87%8C%E5%8F%B6%E5%8F%98%E6%8D%A2%E4%B9%8B%E7%A6%BB%E6%95%A3%E5%91%A8%E6%9C%9F%E4%BF%A1%E5%8F%B7%E5%82%85%E9%87%8C%E5%8F%B6%E7%BA%A7%E6%95%B0.zh/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://go.face2ai.com/%E7%BC%96%E7%A8%8B/dip/dip-4-4-%E7%81%B0%E5%BA%A6%E5%9B%BE%E5%83%8F-%E9%A2%91%E5%9F%9F%E6%BB%A4%E6%B3%A2-%E5%82%85%E9%87%8C%E5%8F%B6%E5%8F%98%E6%8D%A2%E4%B9%8B%E7%A6%BB%E6%95%A3%E5%91%A8%E6%9C%9F%E4%BF%A1%E5%8F%B7%E5%82%85%E9%87%8C%E5%8F%B6%E7%BA%A7%E6%95%B0.zh/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; 数字图像处理：第17天
+&lt;strong&gt;Keywords:&lt;/strong&gt; 离散周期序列，傅里叶级数&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>【数字图像处理】4.5:灰度图像-频域滤波 傅里叶变换之连续信号傅里叶变换（FT）</title>
+      <link>https://go.face2ai.com/%E7%BC%96%E7%A8%8B/dip/dip-4-5-%E7%81%B0%E5%BA%A6%E5%9B%BE%E5%83%8F-%E9%A2%91%E5%9F%9F%E6%BB%A4%E6%B3%A2-%E5%82%85%E9%87%8C%E5%8F%B6%E5%8F%98%E6%8D%A2%E4%B9%8B%E8%BF%9E%E7%BB%AD%E4%BF%A1%E5%8F%B7%E5%82%85%E9%87%8C%E5%8F%B6%E5%8F%98%E6%8D%A2ft.zh/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://go.face2ai.com/%E7%BC%96%E7%A8%8B/dip/dip-4-5-%E7%81%B0%E5%BA%A6%E5%9B%BE%E5%83%8F-%E9%A2%91%E5%9F%9F%E6%BB%A4%E6%B3%A2-%E5%82%85%E9%87%8C%E5%8F%B6%E5%8F%98%E6%8D%A2%E4%B9%8B%E8%BF%9E%E7%BB%AD%E4%BF%A1%E5%8F%B7%E5%82%85%E9%87%8C%E5%8F%B6%E5%8F%98%E6%8D%A2ft.zh/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; 数字图像处理：第18天
+&lt;strong&gt;Keywords:&lt;/strong&gt; 连续信号傅里叶变换&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>【数字图像处理】4.6:灰度图像-频域滤波 傅里叶变换之采样定理</title>
+      <link>https://go.face2ai.com/%E7%BC%96%E7%A8%8B/dip/dip-4-6-%E7%81%B0%E5%BA%A6%E5%9B%BE%E5%83%8F-%E9%A2%91%E5%9F%9F%E6%BB%A4%E6%B3%A2-%E5%82%85%E9%87%8C%E5%8F%B6%E5%8F%98%E6%8D%A2%E4%B9%8B%E9%87%87%E6%A0%B7%E5%AE%9A%E7%90%86.zh/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://go.face2ai.com/%E7%BC%96%E7%A8%8B/dip/dip-4-6-%E7%81%B0%E5%BA%A6%E5%9B%BE%E5%83%8F-%E9%A2%91%E5%9F%9F%E6%BB%A4%E6%B3%A2-%E5%82%85%E9%87%8C%E5%8F%B6%E5%8F%98%E6%8D%A2%E4%B9%8B%E9%87%87%E6%A0%B7%E5%AE%9A%E7%90%86.zh/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; 数字图像处理：第19天
+&lt;strong&gt;Keywords:&lt;/strong&gt; 采样定理，奈奎斯特采样定理&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>【数字图像处理】4.7:灰度图像-频域滤波 傅里叶变换之离散时间傅里叶变换(DTFT)</title>
+      <link>https://go.face2ai.com/%E7%BC%96%E7%A8%8B/dip/dip-4-7-%E7%81%B0%E5%BA%A6%E5%9B%BE%E5%83%8F-%E9%A2%91%E5%9F%9F%E6%BB%A4%E6%B3%A2-%E5%82%85%E9%87%8C%E5%8F%B6%E5%8F%98%E6%8D%A2%E4%B9%8B%E7%A6%BB%E6%95%A3%E6%97%B6%E9%97%B4%E5%82%85%E9%87%8C%E5%8F%B6%E5%8F%98%E6%8D%A2dtft.zh/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://go.face2ai.com/%E7%BC%96%E7%A8%8B/dip/dip-4-7-%E7%81%B0%E5%BA%A6%E5%9B%BE%E5%83%8F-%E9%A2%91%E5%9F%9F%E6%BB%A4%E6%B3%A2-%E5%82%85%E9%87%8C%E5%8F%B6%E5%8F%98%E6%8D%A2%E4%B9%8B%E7%A6%BB%E6%95%A3%E6%97%B6%E9%97%B4%E5%82%85%E9%87%8C%E5%8F%B6%E5%8F%98%E6%8D%A2dtft.zh/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; 数字图像处理：第20天
+&lt;strong&gt;Keywords:&lt;/strong&gt; 离散时间傅里叶变换&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>【数字图像处理】4.8:灰度图像-频域滤波 傅里叶变换之离散傅里叶变换(DFT)</title>
+      <link>https://go.face2ai.com/%E7%BC%96%E7%A8%8B/dip/dip-4-8-%E7%81%B0%E5%BA%A6%E5%9B%BE%E5%83%8F-%E9%A2%91%E5%9F%9F%E6%BB%A4%E6%B3%A2-%E5%82%85%E9%87%8C%E5%8F%B6%E5%8F%98%E6%8D%A2%E4%B9%8B%E7%A6%BB%E6%95%A3%E5%82%85%E9%87%8C%E5%8F%B6%E5%8F%98%E6%8D%A2dft.zh/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://go.face2ai.com/%E7%BC%96%E7%A8%8B/dip/dip-4-8-%E7%81%B0%E5%BA%A6%E5%9B%BE%E5%83%8F-%E9%A2%91%E5%9F%9F%E6%BB%A4%E6%B3%A2-%E5%82%85%E9%87%8C%E5%8F%B6%E5%8F%98%E6%8D%A2%E4%B9%8B%E7%A6%BB%E6%95%A3%E5%82%85%E9%87%8C%E5%8F%B6%E5%8F%98%E6%8D%A2dft.zh/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; 数字图像处理：第21天
+&lt;strong&gt;Keywords:&lt;/strong&gt; 离散傅里叶变换&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>【数字图像处理】4.9:灰度图像-频域滤波 傅里叶变换之二维离散傅里叶变换</title>
+      <link>https://go.face2ai.com/%E7%BC%96%E7%A8%8B/dip/dip-4-9-%E7%81%B0%E5%BA%A6%E5%9B%BE%E5%83%8F-%E9%A2%91%E5%9F%9F%E6%BB%A4%E6%B3%A2-%E5%82%85%E9%87%8C%E5%8F%B6%E5%8F%98%E6%8D%A2%E4%B9%8B%E4%BA%8C%E7%BB%B4%E7%A6%BB%E6%95%A3%E5%82%85%E9%87%8C%E5%8F%B6%E5%8F%98%E6%8D%A2.zh/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://go.face2ai.com/%E7%BC%96%E7%A8%8B/dip/dip-4-9-%E7%81%B0%E5%BA%A6%E5%9B%BE%E5%83%8F-%E9%A2%91%E5%9F%9F%E6%BB%A4%E6%B3%A2-%E5%82%85%E9%87%8C%E5%8F%B6%E5%8F%98%E6%8D%A2%E4%B9%8B%E4%BA%8C%E7%BB%B4%E7%A6%BB%E6%95%A3%E5%82%85%E9%87%8C%E5%8F%B6%E5%8F%98%E6%8D%A2.zh/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; 数字图像处理：第22天
+&lt;strong&gt;Keywords:&lt;/strong&gt; 卷积，图像傅里叶变换&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>【数字图像处理】5-9:灰度图像--图像增强 灰度变换</title>
+      <link>https://go.face2ai.com/%E7%BC%96%E7%A8%8B/dip/dip-5-9-%E7%81%B0%E5%BA%A6%E5%9B%BE%E5%83%8F-%E5%9B%BE%E5%83%8F%E5%A2%9E%E5%BC%BA-%E7%81%B0%E5%BA%A6%E5%8F%98%E6%8D%A2.zh/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://go.face2ai.com/%E7%BC%96%E7%A8%8B/dip/dip-5-9-%E7%81%B0%E5%BA%A6%E5%9B%BE%E5%83%8F-%E5%9B%BE%E5%83%8F%E5%A2%9E%E5%BC%BA-%E7%81%B0%E5%BA%A6%E5%8F%98%E6%8D%A2.zh/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; 数字图像处理：第35天
+&lt;strong&gt;Keywords:&lt;/strong&gt; 灰度变换,伽马变换&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>【数字图像处理】5.0:灰度图像-空域滤波 基础：卷积和相关</title>
+      <link>https://go.face2ai.com/%E7%BC%96%E7%A8%8B/dip/dip-5-0-%E7%81%B0%E5%BA%A6%E5%9B%BE%E5%83%8F-%E7%A9%BA%E5%9F%9F%E6%BB%A4%E6%B3%A2%E5%9F%BA%E7%A1%80-%E5%8D%B7%E7%A7%AF%E5%92%8C%E7%9B%B8%E5%85%B3.zh/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://go.face2ai.com/%E7%BC%96%E7%A8%8B/dip/dip-5-0-%E7%81%B0%E5%BA%A6%E5%9B%BE%E5%83%8F-%E7%A9%BA%E5%9F%9F%E6%BB%A4%E6%B3%A2%E5%9F%BA%E7%A1%80-%E5%8D%B7%E7%A7%AF%E5%92%8C%E7%9B%B8%E5%85%B3.zh/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; 数字图像处理：第26天
+&lt;strong&gt;Keywords:&lt;/strong&gt; 卷积，相关，空域滤波&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>【数字图像处理】5.1:灰度图像-图像增强 综合介绍</title>
+      <link>https://go.face2ai.com/%E7%BC%96%E7%A8%8B/dip/dip-5-1-%E7%81%B0%E5%BA%A6%E5%9B%BE%E5%83%8F-%E5%9B%BE%E5%83%8F%E5%A2%9E%E5%BC%BA-%E7%BB%BC%E5%90%88%E4%BB%8B%E7%BB%8D.zh/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://go.face2ai.com/%E7%BC%96%E7%A8%8B/dip/dip-5-1-%E7%81%B0%E5%BA%A6%E5%9B%BE%E5%83%8F-%E5%9B%BE%E5%83%8F%E5%A2%9E%E5%BC%BA-%E7%BB%BC%E5%90%88%E4%BB%8B%E7%BB%8D.zh/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; 数字图像处理：第27天
+&lt;strong&gt;Keywords:&lt;/strong&gt; 灰度拉伸&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>【数字图像处理】5.10:灰度图像--图像增强 直方图均衡化（Histogram Equalization)</title>
+      <link>https://go.face2ai.com/%E7%BC%96%E7%A8%8B/dip/dip-5-10-%E7%81%B0%E5%BA%A6%E5%9B%BE%E5%83%8F-%E5%9B%BE%E5%83%8F%E5%A2%9E%E5%BC%BA-%E7%9B%B4%E6%96%B9%E5%9B%BE%E5%9D%87%E8%A1%A1%E5%8C%96histogramequalization.zh/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://go.face2ai.com/%E7%BC%96%E7%A8%8B/dip/dip-5-10-%E7%81%B0%E5%BA%A6%E5%9B%BE%E5%83%8F-%E5%9B%BE%E5%83%8F%E5%A2%9E%E5%BC%BA-%E7%9B%B4%E6%96%B9%E5%9B%BE%E5%9D%87%E8%A1%A1%E5%8C%96histogramequalization.zh/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; 数字图像处理：第36天
+&lt;strong&gt;Keywords:&lt;/strong&gt; 直方图均衡&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>【数字图像处理】5.11:灰度图像-图像增强 直方图匹配（规定化）Histogram Specification&#34;</title>
+      <link>https://go.face2ai.com/%E7%BC%96%E7%A8%8B/dip/dip-5-11-%E7%81%B0%E5%BA%A6%E5%9B%BE%E5%83%8F-%E5%9B%BE%E5%83%8F%E5%A2%9E%E5%BC%BA-%E7%9B%B4%E6%96%B9%E5%9B%BE%E5%8C%B9%E9%85%8D-%E8%A7%84%E5%AE%9A%E5%8C%96-histogramspecification.zh/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://go.face2ai.com/%E7%BC%96%E7%A8%8B/dip/dip-5-11-%E7%81%B0%E5%BA%A6%E5%9B%BE%E5%83%8F-%E5%9B%BE%E5%83%8F%E5%A2%9E%E5%BC%BA-%E7%9B%B4%E6%96%B9%E5%9B%BE%E5%8C%B9%E9%85%8D-%E8%A7%84%E5%AE%9A%E5%8C%96-histogramspecification.zh/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; 数字图像处理：第37天
+&lt;strong&gt;Keywords:&lt;/strong&gt; 直方图匹配,直方图规定化,增强对比度&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>【数字图像处理】5.2:灰度图像-图像增强 平滑之均值滤波、高斯滤波</title>
+      <link>https://go.face2ai.com/%E7%BC%96%E7%A8%8B/dip/dip-5-2-%E7%81%B0%E5%BA%A6%E5%9B%BE%E5%83%8F-%E5%9B%BE%E5%83%8F%E5%A2%9E%E5%BC%BA-%E5%B9%B3%E6%BB%91%E4%B9%8B%E5%9D%87%E5%80%BC%E6%BB%A4%E6%B3%A2-%E9%AB%98%E6%96%AF%E6%BB%A4%E6%B3%A2.zh/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://go.face2ai.com/%E7%BC%96%E7%A8%8B/dip/dip-5-2-%E7%81%B0%E5%BA%A6%E5%9B%BE%E5%83%8F-%E5%9B%BE%E5%83%8F%E5%A2%9E%E5%BC%BA-%E5%B9%B3%E6%BB%91%E4%B9%8B%E5%9D%87%E5%80%BC%E6%BB%A4%E6%B3%A2-%E9%AB%98%E6%96%AF%E6%BB%A4%E6%B3%A2.zh/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; 数字图像处理：第28天
+&lt;strong&gt;Keywords:&lt;/strong&gt; 平滑，均值滤波，高斯平滑&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>【数字图像处理】5.3:灰度图像-图像增强 双边滤波 Bilateral Filtering</title>
+      <link>https://go.face2ai.com/%E7%BC%96%E7%A8%8B/dip/dip-5-3-%E7%81%B0%E5%BA%A6%E5%9B%BE%E5%83%8F-%E5%9B%BE%E5%83%8F%E5%A2%9E%E5%BC%BA-%E5%8F%8C%E8%BE%B9%E6%BB%A4%E6%B3%A2bilateralfiltering.zh/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://go.face2ai.com/%E7%BC%96%E7%A8%8B/dip/dip-5-3-%E7%81%B0%E5%BA%A6%E5%9B%BE%E5%83%8F-%E5%9B%BE%E5%83%8F%E5%A2%9E%E5%BC%BA-%E5%8F%8C%E8%BE%B9%E6%BB%A4%E6%B3%A2bilateralfiltering.zh/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; 数字图像处理：第29天
+&lt;strong&gt;Keywords:&lt;/strong&gt; 双边滤波&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>【数字图像处理】5.4:灰度图像-图像增强 中值滤波</title>
+      <link>https://go.face2ai.com/%E7%BC%96%E7%A8%8B/dip/dip-5-4-%E7%81%B0%E5%BA%A6%E5%9B%BE%E5%83%8F-%E5%9B%BE%E5%83%8F%E5%A2%9E%E5%BC%BA-%E4%B8%AD%E5%80%BC%E6%BB%A4%E6%B3%A2.zh/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://go.face2ai.com/%E7%BC%96%E7%A8%8B/dip/dip-5-4-%E7%81%B0%E5%BA%A6%E5%9B%BE%E5%83%8F-%E5%9B%BE%E5%83%8F%E5%A2%9E%E5%BC%BA-%E4%B8%AD%E5%80%BC%E6%BB%A4%E6%B3%A2.zh/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; 数字图像处理：第30天
+&lt;strong&gt;Keywords:&lt;/strong&gt; 图像平滑，中值滤波&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>【数字图像处理】5.5:灰度图像-图像增强 锐化基础</title>
+      <link>https://go.face2ai.com/%E7%BC%96%E7%A8%8B/dip/dip-5-5-%E7%81%B0%E5%BA%A6%E5%9B%BE%E5%83%8F-%E5%9B%BE%E5%83%8F%E5%A2%9E%E5%BC%BA-%E9%94%90%E5%8C%96%E5%9F%BA%E7%A1%80.zh/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://go.face2ai.com/%E7%BC%96%E7%A8%8B/dip/dip-5-5-%E7%81%B0%E5%BA%A6%E5%9B%BE%E5%83%8F-%E5%9B%BE%E5%83%8F%E5%A2%9E%E5%BC%BA-%E9%94%90%E5%8C%96%E5%9F%BA%E7%A1%80.zh/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; 数字图像处理：第31天
+&lt;strong&gt;Keywords:&lt;/strong&gt; 锐化&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>【数字图像处理】5.6:灰度图像--图像增强 拉普拉斯算子</title>
+      <link>https://go.face2ai.com/%E7%BC%96%E7%A8%8B/dip/dip-5-6-%E7%81%B0%E5%BA%A6%E5%9B%BE%E5%83%8F-%E5%9B%BE%E5%83%8F%E5%A2%9E%E5%BC%BA-%E6%8B%89%E6%99%AE%E6%8B%89%E6%96%AF%E7%AE%97%E5%AD%90.zh/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://go.face2ai.com/%E7%BC%96%E7%A8%8B/dip/dip-5-6-%E7%81%B0%E5%BA%A6%E5%9B%BE%E5%83%8F-%E5%9B%BE%E5%83%8F%E5%A2%9E%E5%BC%BA-%E6%8B%89%E6%99%AE%E6%8B%89%E6%96%AF%E7%AE%97%E5%AD%90.zh/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; 数字图像处理：第32天
+&lt;strong&gt;Keywords:&lt;/strong&gt; 拉普拉斯算子&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>【数字图像处理】5.7:灰度图像-图像增强 非锐化掩蔽 （Unsharpening Mask）</title>
+      <link>https://go.face2ai.com/%E7%BC%96%E7%A8%8B/dip/dip-5-7-%E7%81%B0%E5%BA%A6%E5%9B%BE%E5%83%8F-%E5%9B%BE%E5%83%8F%E5%A2%9E%E5%BC%BA-%E9%9D%9E%E9%94%90%E5%8C%96%E6%8E%A9%E8%94%BDunsharpeningmask.zh/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://go.face2ai.com/%E7%BC%96%E7%A8%8B/dip/dip-5-7-%E7%81%B0%E5%BA%A6%E5%9B%BE%E5%83%8F-%E5%9B%BE%E5%83%8F%E5%A2%9E%E5%BC%BA-%E9%9D%9E%E9%94%90%E5%8C%96%E6%8E%A9%E8%94%BDunsharpeningmask.zh/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; 数字图像处理：第33天
+&lt;strong&gt;Keywords:&lt;/strong&gt; 非锐化掩蔽(USM)&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>【数字图像处理】5.8:灰度图像-图像增强 Robert算子、Sobel算子</title>
+      <link>https://go.face2ai.com/%E7%BC%96%E7%A8%8B/dip/dip-5-8-%E7%81%B0%E5%BA%A6%E5%9B%BE%E5%83%8F-%E5%9B%BE%E5%83%8F%E5%A2%9E%E5%BC%BA-robert%E7%AE%97%E5%AD%90-sobel%E7%AE%97%E5%AD%90.zh/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://go.face2ai.com/%E7%BC%96%E7%A8%8B/dip/dip-5-8-%E7%81%B0%E5%BA%A6%E5%9B%BE%E5%83%8F-%E5%9B%BE%E5%83%8F%E5%A2%9E%E5%BC%BA-robert%E7%AE%97%E5%AD%90-sobel%E7%AE%97%E5%AD%90.zh/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; 数字图像处理：第34天
+&lt;strong&gt;Keywords:&lt;/strong&gt; Sobel算子,Robert算子,&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>【数字图像处理】6.0:灰度图像-图像分割 综合介绍</title>
+      <link>https://go.face2ai.com/%E7%BC%96%E7%A8%8B/dip/dip-6-0-%E7%81%B0%E5%BA%A6%E5%9B%BE%E5%83%8F-%E5%9B%BE%E5%83%8F%E5%88%86%E5%89%B2-%E7%BB%BC%E5%90%88%E4%BB%8B%E7%BB%8D.zh/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://go.face2ai.com/%E7%BC%96%E7%A8%8B/dip/dip-6-0-%E7%81%B0%E5%BA%A6%E5%9B%BE%E5%83%8F-%E5%9B%BE%E5%83%8F%E5%88%86%E5%89%B2-%E7%BB%BC%E5%90%88%E4%BB%8B%E7%BB%8D.zh/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; 数字图像处理：第38天
+&lt;strong&gt;Keywords:&lt;/strong&gt; 图像分割&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>【数字图像处理】6.1:灰度图像-图像分割 边缘模型</title>
+      <link>https://go.face2ai.com/%E7%BC%96%E7%A8%8B/dip/dip-6-1-%E7%81%B0%E5%BA%A6%E5%9B%BE%E5%83%8F-%E5%9B%BE%E5%83%8F%E5%88%86%E5%89%B2-%E8%BE%B9%E7%BC%98%E6%A8%A1%E5%9E%8B.zh/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://go.face2ai.com/%E7%BC%96%E7%A8%8B/dip/dip-6-1-%E7%81%B0%E5%BA%A6%E5%9B%BE%E5%83%8F-%E5%9B%BE%E5%83%8F%E5%88%86%E5%89%B2-%E8%BE%B9%E7%BC%98%E6%A8%A1%E5%9E%8B.zh/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; 数字图像处理：第39天
+&lt;strong&gt;Keywords:&lt;/strong&gt; 边缘模型&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>【数字图像处理】6.10:灰度图像-图像分割 霍夫变换(Hough Transform)--直线&#34;</title>
+      <link>https://go.face2ai.com/%E7%BC%96%E7%A8%8B/dip/dip-6-10-%E7%81%B0%E5%BA%A6%E5%9B%BE%E5%83%8F-%E5%9B%BE%E5%83%8F%E5%88%86%E5%89%B2-%E9%9C%8D%E5%A4%AB%E5%8F%98%E6%8D%A2houghtransform-%E7%9B%B4%E7%BA%BF.zh/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://go.face2ai.com/%E7%BC%96%E7%A8%8B/dip/dip-6-10-%E7%81%B0%E5%BA%A6%E5%9B%BE%E5%83%8F-%E5%9B%BE%E5%83%8F%E5%88%86%E5%89%B2-%E9%9C%8D%E5%A4%AB%E5%8F%98%E6%8D%A2houghtransform-%E7%9B%B4%E7%BA%BF.zh/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; 数字图像处理：第48天
+&lt;strong&gt;Keywords:&lt;/strong&gt; 霍夫变换,直线检测&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>【数字图像处理】6.2:灰度图像-图像分割 边缘检测算子 综述</title>
+      <link>https://go.face2ai.com/%E7%BC%96%E7%A8%8B/dip/dip-6-2-%E7%81%B0%E5%BA%A6%E5%9B%BE%E5%83%8F-%E5%9B%BE%E5%83%8F%E5%88%86%E5%89%B2-%E8%BE%B9%E7%BC%98%E6%A3%80%E6%B5%8B%E7%AE%97%E5%AD%90-%E7%BB%BC%E8%BF%B0.zh/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://go.face2ai.com/%E7%BC%96%E7%A8%8B/dip/dip-6-2-%E7%81%B0%E5%BA%A6%E5%9B%BE%E5%83%8F-%E5%9B%BE%E5%83%8F%E5%88%86%E5%89%B2-%E8%BE%B9%E7%BC%98%E6%A3%80%E6%B5%8B%E7%AE%97%E5%AD%90-%E7%BB%BC%E8%BF%B0.zh/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; 数字图像处理：第40天
+&lt;strong&gt;Keywords:&lt;/strong&gt; 边缘检测,算法&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>【数字图像处理】6.3:灰度图像-图像分割 Robert算子</title>
+      <link>https://go.face2ai.com/%E7%BC%96%E7%A8%8B/dip/dip-6-3-%E7%81%B0%E5%BA%A6%E5%9B%BE%E5%83%8F-%E5%9B%BE%E5%83%8F%E5%88%86%E5%89%B2-robert%E7%AE%97%E5%AD%90.zh/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://go.face2ai.com/%E7%BC%96%E7%A8%8B/dip/dip-6-3-%E7%81%B0%E5%BA%A6%E5%9B%BE%E5%83%8F-%E5%9B%BE%E5%83%8F%E5%88%86%E5%89%B2-robert%E7%AE%97%E5%AD%90.zh/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; 数字图像处理：第41天
+&lt;strong&gt;Keywords:&lt;/strong&gt; Robert算子,边缘检测&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>【数字图像处理】6.4:灰度图像-图像分割 Sobel算子</title>
+      <link>https://go.face2ai.com/%E7%BC%96%E7%A8%8B/dip/dip-6-4-%E7%81%B0%E5%BA%A6%E5%9B%BE%E5%83%8F-%E5%9B%BE%E5%83%8F%E5%88%86%E5%89%B2-sobel%E7%AE%97%E5%AD%90.zh/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://go.face2ai.com/%E7%BC%96%E7%A8%8B/dip/dip-6-4-%E7%81%B0%E5%BA%A6%E5%9B%BE%E5%83%8F-%E5%9B%BE%E5%83%8F%E5%88%86%E5%89%B2-sobel%E7%AE%97%E5%AD%90.zh/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; 数字图像处理：第42天
+&lt;strong&gt;Keywords:&lt;/strong&gt; 边缘检测,Sobel算子&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>【数字图像处理】6.5:灰度图像-图像分割 Prewitt算子</title>
+      <link>https://go.face2ai.com/%E7%BC%96%E7%A8%8B/dip/dip-6-5-%E7%81%B0%E5%BA%A6%E5%9B%BE%E5%83%8F-%E5%9B%BE%E5%83%8F%E5%88%86%E5%89%B2-prewitt%E7%AE%97%E5%AD%90.zh/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://go.face2ai.com/%E7%BC%96%E7%A8%8B/dip/dip-6-5-%E7%81%B0%E5%BA%A6%E5%9B%BE%E5%83%8F-%E5%9B%BE%E5%83%8F%E5%88%86%E5%89%B2-prewitt%E7%AE%97%E5%AD%90.zh/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; 数字图像处理：第43天
+&lt;strong&gt;Keywords:&lt;/strong&gt; Prewitt算子,边缘检测&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>【数字图像处理】6.6:灰度图像-图像分割 Scharr算子</title>
+      <link>https://go.face2ai.com/%E7%BC%96%E7%A8%8B/dip/dip-6-6-%E7%81%B0%E5%BA%A6%E5%9B%BE%E5%83%8F-%E5%9B%BE%E5%83%8F%E5%88%86%E5%89%B2-scharr%E7%AE%97%E5%AD%90.zh/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://go.face2ai.com/%E7%BC%96%E7%A8%8B/dip/dip-6-6-%E7%81%B0%E5%BA%A6%E5%9B%BE%E5%83%8F-%E5%9B%BE%E5%83%8F%E5%88%86%E5%89%B2-scharr%E7%AE%97%E5%AD%90.zh/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; 数字图像处理：第44天
+&lt;strong&gt;Keywords:&lt;/strong&gt; 边缘检测,scharr算子&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>【数字图像处理】6.7:灰度图像-图像分割 Sobel算子，Prewitt算子和Scharr算子平滑能力比较</title>
+      <link>https://go.face2ai.com/%E7%BC%96%E7%A8%8B/dip/dip-6-7-%E7%81%B0%E5%BA%A6%E5%9B%BE%E5%83%8F-%E5%9B%BE%E5%83%8F%E5%88%86%E5%89%B2-%E7%AE%97%E5%AD%90%E5%B9%B3%E6%BB%91%E8%83%BD%E5%8A%9B%E6%AF%94%E8%BE%83.zh/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://go.face2ai.com/%E7%BC%96%E7%A8%8B/dip/dip-6-7-%E7%81%B0%E5%BA%A6%E5%9B%BE%E5%83%8F-%E5%9B%BE%E5%83%8F%E5%88%86%E5%89%B2-%E7%AE%97%E5%AD%90%E5%B9%B3%E6%BB%91%E8%83%BD%E5%8A%9B%E6%AF%94%E8%BE%83.zh/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; 数字图像处理：第45天
+&lt;strong&gt;Keywords:&lt;/strong&gt; Sobel算子,Scharr算子,Prewitt算子&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>【数字图像处理】6.8:灰度图像-图像分割 Canny边缘检测</title>
+      <link>https://go.face2ai.com/%E7%BC%96%E7%A8%8B/dip/dip-6-8-%E7%81%B0%E5%BA%A6%E5%9B%BE%E5%83%8F-%E5%9B%BE%E5%83%8F%E5%88%86%E5%89%B2-canny%E8%BE%B9%E7%BC%98%E6%A3%80%E6%B5%8B.zh/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://go.face2ai.com/%E7%BC%96%E7%A8%8B/dip/dip-6-8-%E7%81%B0%E5%BA%A6%E5%9B%BE%E5%83%8F-%E5%9B%BE%E5%83%8F%E5%88%86%E5%89%B2-canny%E8%BE%B9%E7%BC%98%E6%A3%80%E6%B5%8B.zh/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; 数字图像处理：第46天
+&lt;strong&gt;Keywords:&lt;/strong&gt; canny,边缘检测&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>【数字图像处理】6.9:灰度图像-图像分割 Marr-Hildreth算子（LoG算子）</title>
+      <link>https://go.face2ai.com/%E7%BC%96%E7%A8%8B/dip/dip-6-9-%E7%81%B0%E5%BA%A6%E5%9B%BE%E5%83%8F-%E5%9B%BE%E5%83%8F%E5%88%86%E5%89%B2-marr-hildreth%E7%AE%97%E5%AD%90-log%E7%AE%97%E5%AD%90.zh/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://go.face2ai.com/%E7%BC%96%E7%A8%8B/dip/dip-6-9-%E7%81%B0%E5%BA%A6%E5%9B%BE%E5%83%8F-%E5%9B%BE%E5%83%8F%E5%88%86%E5%89%B2-marr-hildreth%E7%AE%97%E5%AD%90-log%E7%AE%97%E5%AD%90.zh/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; 数字图像处理：第47天
+&lt;strong&gt;Keywords:&lt;/strong&gt; 边缘检测,LoG算子&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>【数字图像处理】7.0:灰度图像-图像分割 阈值处理综述</title>
+      <link>https://go.face2ai.com/%E7%BC%96%E7%A8%8B/dip/dip-7-0-%E7%81%B0%E5%BA%A6%E5%9B%BE%E5%83%8F-%E5%9B%BE%E5%83%8F%E5%88%86%E5%89%B2-%E9%98%88%E5%80%BC%E5%A4%84%E7%90%86%E7%BB%BC%E8%BF%B0.zh/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://go.face2ai.com/%E7%BC%96%E7%A8%8B/dip/dip-7-0-%E7%81%B0%E5%BA%A6%E5%9B%BE%E5%83%8F-%E5%9B%BE%E5%83%8F%E5%88%86%E5%89%B2-%E9%98%88%E5%80%BC%E5%A4%84%E7%90%86%E7%BB%BC%E8%BF%B0.zh/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; 数字图像处理：第49天
+&lt;strong&gt;Keywords:&lt;/strong&gt; 阈值处理&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>【数字图像处理】7.1:灰度图像-图像分割 阈值处理之平均阈值</title>
+      <link>https://go.face2ai.com/%E7%BC%96%E7%A8%8B/dip/dip-7-1-%E7%81%B0%E5%BA%A6%E5%9B%BE%E5%83%8F-%E5%9B%BE%E5%83%8F%E5%88%86%E5%89%B2-%E9%98%88%E5%80%BC%E5%A4%84%E7%90%86%E4%B9%8B%E5%B9%B3%E5%9D%87%E9%98%88%E5%80%BC.zh/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://go.face2ai.com/%E7%BC%96%E7%A8%8B/dip/dip-7-1-%E7%81%B0%E5%BA%A6%E5%9B%BE%E5%83%8F-%E5%9B%BE%E5%83%8F%E5%88%86%E5%89%B2-%E9%98%88%E5%80%BC%E5%A4%84%E7%90%86%E4%B9%8B%E5%B9%B3%E5%9D%87%E9%98%88%E5%80%BC.zh/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; 数字图像处理：第50天
+&lt;strong&gt;Keywords:&lt;/strong&gt; 阈值处理,平均阈值&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>【数字图像处理】7.10:灰度图像-图像分割 区域分割之分水岭算法</title>
+      <link>https://go.face2ai.com/%E7%BC%96%E7%A8%8B/dip/dip-7-10-%E7%81%B0%E5%BA%A6%E5%9B%BE%E5%83%8F-%E5%9B%BE%E5%83%8F%E5%88%86%E5%89%B2-%E5%8C%BA%E5%9F%9F%E5%88%86%E5%89%B2%E4%B9%8B%E5%88%86%E6%B0%B4%E5%B2%AD%E7%AE%97%E6%B3%95.zh/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://go.face2ai.com/%E7%BC%96%E7%A8%8B/dip/dip-7-10-%E7%81%B0%E5%BA%A6%E5%9B%BE%E5%83%8F-%E5%9B%BE%E5%83%8F%E5%88%86%E5%89%B2-%E5%8C%BA%E5%9F%9F%E5%88%86%E5%89%B2%E4%B9%8B%E5%88%86%E6%B0%B4%E5%B2%AD%E7%AE%97%E6%B3%95.zh/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; 数字图像处理：第59天
+&lt;strong&gt;Keywords:&lt;/strong&gt; 分水岭算法&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>【数字图像处理】7.2:灰度图像-图像分割 阈值处理之P-Tile阈值</title>
+      <link>https://go.face2ai.com/%E7%BC%96%E7%A8%8B/dip/dip-7-2-%E7%81%B0%E5%BA%A6%E5%9B%BE%E5%83%8F-%E5%9B%BE%E5%83%8F%E5%88%86%E5%89%B2-%E9%98%88%E5%80%BC%E5%A4%84%E7%90%86%E4%B9%8Bp-tile%E9%98%88%E5%80%BC.zh/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://go.face2ai.com/%E7%BC%96%E7%A8%8B/dip/dip-7-2-%E7%81%B0%E5%BA%A6%E5%9B%BE%E5%83%8F-%E5%9B%BE%E5%83%8F%E5%88%86%E5%89%B2-%E9%98%88%E5%80%BC%E5%A4%84%E7%90%86%E4%B9%8Bp-tile%E9%98%88%E5%80%BC.zh/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; 数字图像处理：第51天
+&lt;strong&gt;Keywords:&lt;/strong&gt; 阈值处理,p-tile&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>【数字图像处理】7.3:灰度图像--图像分割 阈值处理之迭代均值阈值</title>
+      <link>https://go.face2ai.com/%E7%BC%96%E7%A8%8B/dip/dip-7-3-%E7%81%B0%E5%BA%A6%E5%9B%BE%E5%83%8F-%E5%9B%BE%E5%83%8F%E5%88%86%E5%89%B2-%E9%98%88%E5%80%BC%E5%A4%84%E7%90%86%E4%B9%8B%E8%BF%AD%E4%BB%A3%E5%9D%87%E5%80%BC%E9%98%88%E5%80%BC.zh/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://go.face2ai.com/%E7%BC%96%E7%A8%8B/dip/dip-7-3-%E7%81%B0%E5%BA%A6%E5%9B%BE%E5%83%8F-%E5%9B%BE%E5%83%8F%E5%88%86%E5%89%B2-%E9%98%88%E5%80%BC%E5%A4%84%E7%90%86%E4%B9%8B%E8%BF%AD%E4%BB%A3%E5%9D%87%E5%80%BC%E9%98%88%E5%80%BC.zh/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; 数字图像处理：第52天
+&lt;strong&gt;Keywords:&lt;/strong&gt; 迭代阈值,迭代均值&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>【数字图像处理】7.4:灰度图像-图像分割 阈值处理之谷底阈值、峰顶平均</title>
+      <link>https://go.face2ai.com/%E7%BC%96%E7%A8%8B/dip/dip-7-4-%E7%81%B0%E5%BA%A6%E5%9B%BE%E5%83%8F-%E5%9B%BE%E5%83%8F%E5%88%86%E5%89%B2-%E9%98%88%E5%80%BC%E5%A4%84%E7%90%86%E4%B9%8B%E8%B0%B7%E5%BA%95%E9%98%88%E5%80%BC-%E5%B3%B0%E9%A1%B6%E5%B9%B3%E5%9D%87.zh/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://go.face2ai.com/%E7%BC%96%E7%A8%8B/dip/dip-7-4-%E7%81%B0%E5%BA%A6%E5%9B%BE%E5%83%8F-%E5%9B%BE%E5%83%8F%E5%88%86%E5%89%B2-%E9%98%88%E5%80%BC%E5%A4%84%E7%90%86%E4%B9%8B%E8%B0%B7%E5%BA%95%E9%98%88%E5%80%BC-%E5%B3%B0%E9%A1%B6%E5%B9%B3%E5%9D%87.zh/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; 数字图像处理：第53天
+&lt;strong&gt;Keywords:&lt;/strong&gt; 谷底阈值,峰顶平均&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>【数字图像处理】7.5:灰度图像-图像分割 阈值处理之OTSU阈值</title>
+      <link>https://go.face2ai.com/%E7%BC%96%E7%A8%8B/dip/dip-7-5-%E7%81%B0%E5%BA%A6%E5%9B%BE%E5%83%8F-%E5%9B%BE%E5%83%8F%E5%88%86%E5%89%B2-%E9%98%88%E5%80%BC%E5%A4%84%E7%90%86%E4%B9%8Botsu%E9%98%88%E5%80%BC.zh/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://go.face2ai.com/%E7%BC%96%E7%A8%8B/dip/dip-7-5-%E7%81%B0%E5%BA%A6%E5%9B%BE%E5%83%8F-%E5%9B%BE%E5%83%8F%E5%88%86%E5%89%B2-%E9%98%88%E5%80%BC%E5%A4%84%E7%90%86%E4%B9%8Botsu%E9%98%88%E5%80%BC.zh/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; 数字图像处理：第54天
+&lt;strong&gt;Keywords:&lt;/strong&gt; OTSU算法&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>【数字图像处理】7.6:灰度图像--图像分割 阈值处理之补充说明</title>
+      <link>https://go.face2ai.com/%E7%BC%96%E7%A8%8B/dip/dip-7-6-%E7%81%B0%E5%BA%A6%E5%9B%BE%E5%83%8F-%E5%9B%BE%E5%83%8F%E5%88%86%E5%89%B2-%E9%98%88%E5%80%BC%E5%A4%84%E7%90%86%E4%B9%8B%E8%A1%A5%E5%85%85%E8%AF%B4%E6%98%8E.zh/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://go.face2ai.com/%E7%BC%96%E7%A8%8B/dip/dip-7-6-%E7%81%B0%E5%BA%A6%E5%9B%BE%E5%83%8F-%E5%9B%BE%E5%83%8F%E5%88%86%E5%89%B2-%E9%98%88%E5%80%BC%E5%A4%84%E7%90%86%E4%B9%8B%E8%A1%A5%E5%85%85%E8%AF%B4%E6%98%8E.zh/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; 数字图像处理：第55天
+&lt;strong&gt;Keywords:&lt;/strong&gt; 阈值处理&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>【数字图像处理】7.7:灰度图像-图像分割 阈值处理之局部阈值</title>
+      <link>https://go.face2ai.com/%E7%BC%96%E7%A8%8B/dip/dip-7-7-%E7%81%B0%E5%BA%A6%E5%9B%BE%E5%83%8F-%E5%9B%BE%E5%83%8F%E5%88%86%E5%89%B2-%E9%98%88%E5%80%BC%E5%A4%84%E7%90%86%E4%B9%8B%E5%B1%80%E9%83%A8%E9%98%88%E5%80%BC.zh/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://go.face2ai.com/%E7%BC%96%E7%A8%8B/dip/dip-7-7-%E7%81%B0%E5%BA%A6%E5%9B%BE%E5%83%8F-%E5%9B%BE%E5%83%8F%E5%88%86%E5%89%B2-%E9%98%88%E5%80%BC%E5%A4%84%E7%90%86%E4%B9%8B%E5%B1%80%E9%83%A8%E9%98%88%E5%80%BC.zh/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; 数字图像处理：第56天
+&lt;strong&gt;Keywords:&lt;/strong&gt; 局部阈值处理&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>【数字图像处理】7.8:灰度图像-图像分割 区域分割之区域生长</title>
+      <link>https://go.face2ai.com/%E7%BC%96%E7%A8%8B/dip/dip-7-8-%E7%81%B0%E5%BA%A6%E5%9B%BE%E5%83%8F-%E5%9B%BE%E5%83%8F%E5%88%86%E5%89%B2-%E5%8C%BA%E5%9F%9F%E5%88%86%E5%89%B2%E4%B9%8B%E5%8C%BA%E5%9F%9F%E7%94%9F%E9%95%BF.zh/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://go.face2ai.com/%E7%BC%96%E7%A8%8B/dip/dip-7-8-%E7%81%B0%E5%BA%A6%E5%9B%BE%E5%83%8F-%E5%9B%BE%E5%83%8F%E5%88%86%E5%89%B2-%E5%8C%BA%E5%9F%9F%E5%88%86%E5%89%B2%E4%B9%8B%E5%8C%BA%E5%9F%9F%E7%94%9F%E9%95%BF.zh/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; 数字图像处理：第57天
+&lt;strong&gt;Keywords:&lt;/strong&gt; 区域分割,区域生长&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>【数字图像处理】7.9:灰度图像-图像分割 区域分割之区域分离</title>
+      <link>https://go.face2ai.com/%E7%BC%96%E7%A8%8B/dip/dip-7-9-%E7%81%B0%E5%BA%A6%E5%9B%BE%E5%83%8F-%E5%9B%BE%E5%83%8F%E5%88%86%E5%89%B2-%E5%8C%BA%E5%9F%9F%E5%88%86%E5%89%B2%E4%B9%8B%E5%8C%BA%E5%9F%9F%E5%88%86%E7%A6%BB.zh/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://go.face2ai.com/%E7%BC%96%E7%A8%8B/dip/dip-7-9-%E7%81%B0%E5%BA%A6%E5%9B%BE%E5%83%8F-%E5%9B%BE%E5%83%8F%E5%88%86%E5%89%B2-%E5%8C%BA%E5%9F%9F%E5%88%86%E5%89%B2%E4%B9%8B%E5%8C%BA%E5%9F%9F%E5%88%86%E7%A6%BB.zh/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; 数字图像处理：第58天
+&lt;strong&gt;Keywords:&lt;/strong&gt; 区域分割&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>【数字图像处理】8.0:彩色模型，CIE XYZ，CIE RGB</title>
+      <link>https://go.face2ai.com/%E7%BC%96%E7%A8%8B/dip/dip-8-0-%E5%BD%A9%E8%89%B2%E6%A8%A1%E5%9E%8B-ciexyz-ciergb.zh/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://go.face2ai.com/%E7%BC%96%E7%A8%8B/dip/dip-8-0-%E5%BD%A9%E8%89%B2%E6%A8%A1%E5%9E%8B-ciexyz-ciergb.zh/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; 数字图像处理：第60天
+&lt;strong&gt;Keywords:&lt;/strong&gt; CIE XYZ,CIE 1931&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>【数字图像处理】8.1:彩色图像-色彩空间 综述</title>
+      <link>https://go.face2ai.com/%E7%BC%96%E7%A8%8B/dip/dip-8-1-%E5%BD%A9%E8%89%B2%E5%9B%BE%E5%83%8F-%E8%89%B2%E5%BD%A9%E7%A9%BA%E9%97%B4-%E7%BB%BC%E8%BF%B0.zh/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://go.face2ai.com/%E7%BC%96%E7%A8%8B/dip/dip-8-1-%E5%BD%A9%E8%89%B2%E5%9B%BE%E5%83%8F-%E8%89%B2%E5%BD%A9%E7%A9%BA%E9%97%B4-%E7%BB%BC%E8%BF%B0.zh/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; 数字图像处理：第61天
+&lt;strong&gt;Keywords:&lt;/strong&gt; 彩色图像&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>【数字图像处理】8.2:彩色图像-色彩空间 RGB系列</title>
+      <link>https://go.face2ai.com/%E7%BC%96%E7%A8%8B/dip/dip-8-2-%E5%BD%A9%E8%89%B2%E5%9B%BE%E5%83%8F-%E8%89%B2%E5%BD%A9%E7%A9%BA%E9%97%B4-rgb%E7%B3%BB%E5%88%97.zh/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://go.face2ai.com/%E7%BC%96%E7%A8%8B/dip/dip-8-2-%E5%BD%A9%E8%89%B2%E5%9B%BE%E5%83%8F-%E8%89%B2%E5%BD%A9%E7%A9%BA%E9%97%B4-rgb%E7%B3%BB%E5%88%97.zh/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; 数字图像处理：第62天
+&lt;strong&gt;Keywords:&lt;/strong&gt; 色彩空间 RGB&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>【数字图像处理】8.3:彩色图像-色彩空间 CMY(K)空间</title>
+      <link>https://go.face2ai.com/%E7%BC%96%E7%A8%8B/dip/dip-8-3-%E5%BD%A9%E8%89%B2%E5%9B%BE%E5%83%8F-%E8%89%B2%E5%BD%A9%E7%A9%BA%E9%97%B4-cmy-k%E7%A9%BA%E9%97%B4.zh/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://go.face2ai.com/%E7%BC%96%E7%A8%8B/dip/dip-8-3-%E5%BD%A9%E8%89%B2%E5%9B%BE%E5%83%8F-%E8%89%B2%E5%BD%A9%E7%A9%BA%E9%97%B4-cmy-k%E7%A9%BA%E9%97%B4.zh/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; 数字图像处理：第63天
+&lt;strong&gt;Keywords:&lt;/strong&gt; CMY&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>【数字图像处理】8.4:彩色图像-色彩空间 YIQ 、YUV 、YCbCr 、YC1C2 和I1I2I3</title>
+      <link>https://go.face2ai.com/%E7%BC%96%E7%A8%8B/dip/dip-8-4-%E5%BD%A9%E8%89%B2%E5%9B%BE%E5%83%8F-%E8%89%B2%E5%BD%A9%E7%A9%BA%E9%97%B4-yiq-yuvycbcr-yc1c2%E5%92%8Ci1i2i3.zh/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://go.face2ai.com/%E7%BC%96%E7%A8%8B/dip/dip-8-4-%E5%BD%A9%E8%89%B2%E5%9B%BE%E5%83%8F-%E8%89%B2%E5%BD%A9%E7%A9%BA%E9%97%B4-yiq-yuvycbcr-yc1c2%E5%92%8Ci1i2i3.zh/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; 数字图像处理：第64天
+&lt;strong&gt;Keywords:&lt;/strong&gt; 色彩空间,YIQ,YUV,YCbCr&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>【数字图像处理】8.5:彩色图像-色彩空间 CIELAB、CIELUV</title>
+      <link>https://go.face2ai.com/%E7%BC%96%E7%A8%8B/dip/dip-8-5-%E5%BD%A9%E8%89%B2%E5%9B%BE%E5%83%8F-%E8%89%B2%E5%BD%A9%E7%A9%BA%E9%97%B4-cielab-cieluv.zh/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://go.face2ai.com/%E7%BC%96%E7%A8%8B/dip/dip-8-5-%E5%BD%A9%E8%89%B2%E5%9B%BE%E5%83%8F-%E8%89%B2%E5%BD%A9%E7%A9%BA%E9%97%B4-cielab-cieluv.zh/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; 数字图像处理：第65天
+&lt;strong&gt;Keywords:&lt;/strong&gt; CIELAB,CIELUV&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>【数字图像处理】8.6:彩色图像-色彩空间 HSI(HSL)、HSV(HSB)</title>
+      <link>https://go.face2ai.com/%E7%BC%96%E7%A8%8B/dip/dip-8-6-%E5%BD%A9%E8%89%B2%E5%9B%BE%E5%83%8F-%E8%89%B2%E5%BD%A9%E7%A9%BA%E9%97%B4-hsi-hsl-hsv-hsb.zh/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://go.face2ai.com/%E7%BC%96%E7%A8%8B/dip/dip-8-6-%E5%BD%A9%E8%89%B2%E5%9B%BE%E5%83%8F-%E8%89%B2%E5%BD%A9%E7%A9%BA%E9%97%B4-hsi-hsl-hsv-hsb.zh/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; 数字图像处理：第66天
+&lt;strong&gt;Keywords:&lt;/strong&gt; HSI,HSV&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>【数字图像处理】8.7:彩色图像-色彩空间 总结</title>
+      <link>https://go.face2ai.com/%E7%BC%96%E7%A8%8B/dip/dip-8-7-%E5%BD%A9%E8%89%B2%E5%9B%BE%E5%83%8F-%E8%89%B2%E5%BD%A9%E7%A9%BA%E9%97%B4-%E6%80%BB%E7%BB%93.zh/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://go.face2ai.com/%E7%BC%96%E7%A8%8B/dip/dip-8-7-%E5%BD%A9%E8%89%B2%E5%9B%BE%E5%83%8F-%E8%89%B2%E5%BD%A9%E7%A9%BA%E9%97%B4-%E6%80%BB%E7%BB%93.zh/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; 数字图像处理：第67天
+&lt;strong&gt;Keywords:&lt;/strong&gt; 色彩空间&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>【数字图像处理】9.1:彩色图像-伪彩处理 灰度图转伪彩色图像</title>
+      <link>https://go.face2ai.com/%E7%BC%96%E7%A8%8B/dip/dip-9-1-%E5%BD%A9%E8%89%B2%E5%9B%BE%E5%83%8F-%E4%BC%AA%E5%BD%A9%E5%A4%84%E7%90%86-%E7%81%B0%E5%BA%A6%E5%9B%BE%E8%BD%AC%E4%BC%AA%E5%BD%A9%E8%89%B2%E5%9B%BE%E5%83%8F.zh/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://go.face2ai.com/%E7%BC%96%E7%A8%8B/dip/dip-9-1-%E5%BD%A9%E8%89%B2%E5%9B%BE%E5%83%8F-%E4%BC%AA%E5%BD%A9%E5%A4%84%E7%90%86-%E7%81%B0%E5%BA%A6%E5%9B%BE%E8%BD%AC%E4%BC%AA%E5%BD%A9%E8%89%B2%E5%9B%BE%E5%83%8F.zh/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; 数字图像处理：第68天
+&lt;strong&gt;Keywords:&lt;/strong&gt; 伪彩色图像&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>【数字图像处理】9.2:彩色图像-彩色变换 补色处理</title>
+      <link>https://go.face2ai.com/%E7%BC%96%E7%A8%8B/dip/dip-9-2-%E5%BD%A9%E8%89%B2%E5%9B%BE%E5%83%8F-%E5%BD%A9%E8%89%B2%E5%8F%98%E6%8D%A2-%E8%A1%A5%E8%89%B2%E5%A4%84%E7%90%86.zh/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://go.face2ai.com/%E7%BC%96%E7%A8%8B/dip/dip-9-2-%E5%BD%A9%E8%89%B2%E5%9B%BE%E5%83%8F-%E5%BD%A9%E8%89%B2%E5%8F%98%E6%8D%A2-%E8%A1%A5%E8%89%B2%E5%A4%84%E7%90%86.zh/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; 数字图像处理：第69天
+&lt;strong&gt;Keywords:&lt;/strong&gt; 色彩变换,补色,色环&lt;/p&gt;</description>
+    </item>
+    
+    
+    
+    <item>
+      <title>人脸检测分析之 Haar-like，Adaboost，级联(Cascade)</title>
+      <link>https://go.face2ai.com/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/machinelearning-haar-like-adaboost-cascade.zh/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://go.face2ai.com/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/machinelearning-haar-like-adaboost-cascade.zh/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; 人脸检测基本算法学习（迁移自CSDN）
+&lt;strong&gt;Keywords:&lt;/strong&gt; Adaboost，Haar-like，人脸检测，机器学习&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>有限样本空间 on 谭升的博客</title>
+    <link>https://go.face2ai.com/tags/%E6%9C%89%E9%99%90%E6%A0%B7%E6%9C%AC%E7%A9%BA%E9%97%B4/</link>
+    <description>Recent content in 有限样本空间 on 谭升的博客</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Wed, 24 Jan 2018 10:12:00 +0000</lastBuildDate><atom:link href="https://go.face2ai.com/tags/%E6%9C%89%E9%99%90%E6%A0%B7%E6%9C%AC%E7%A9%BA%E9%97%B4/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>【概率论】1-1:概率定义(Definition of Probability)</title>
+      <link>https://go.face2ai.com/math/math-probability-1-1-definition-of-probability.zh/</link>
+      <pubDate>Wed, 24 Jan 2018 10:12:00 +0000</pubDate>
+      
+      <guid>https://go.face2ai.com/math/math-probability-1-1-definition-of-probability.zh/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; 本文介绍样本空间，公理化的概率的定义，以及概率的性质
+&lt;strong&gt;Keywords:&lt;/strong&gt; Sample Space，Finite Sample Space，Kolmogorov axioms(Probability Axioms)，Definition of Probability，Properties of Probability，Bonferroni Inequality&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>数组结构体 on 谭升的博客</title>
+    <link>https://go.face2ai.com/tags/%E6%95%B0%E7%BB%84%E7%BB%93%E6%9E%84%E4%BD%93/</link>
+    <description>Recent content in 数组结构体 on 谭升的博客</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Thu, 03 May 2018 22:08:07 +0000</lastBuildDate><atom:link href="https://go.face2ai.com/tags/%E6%95%B0%E7%BB%84%E7%BB%93%E6%9E%84%E4%BD%93/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>【CUDA 基础】4.3 内存访问模式</title>
+      <link>https://go.face2ai.com/%E7%BC%96%E7%A8%8B/cuda/cuda-f-4-3-%E5%86%85%E5%AD%98%E8%AE%BF%E9%97%AE%E6%A8%A1%E5%BC%8F.zh/</link>
+      <pubDate>Thu, 03 May 2018 22:08:07 +0000</pubDate>
+      
+      <guid>https://go.face2ai.com/%E7%BC%96%E7%A8%8B/cuda/cuda-f-4-3-%E5%86%85%E5%AD%98%E8%AE%BF%E9%97%AE%E6%A8%A1%E5%BC%8F.zh/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; 本文介绍内存的访问过程，也就是从应用发起请求到硬件实现的完整操作过程，这里是优化内存瓶颈的关键之处，也是CUDA程序优化的基础。
+&lt;strong&gt;Keywords:&lt;/strong&gt; 内存访问模式，对齐，合并，缓存，结构体数组，数组结构体&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

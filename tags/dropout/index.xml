@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Dropout on 谭升的博客</title>
+    <link>https://go.face2ai.com/tags/dropout/</link>
+    <description>Recent content in Dropout on 谭升的博客</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Wed, 13 Sep 2017 15:49:22 +0000</lastBuildDate><atom:link href="https://go.face2ai.com/tags/dropout/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Droupout 的论文解读</title>
+      <link>https://go.face2ai.com/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0/deep-learning-%E9%98%85%E8%AF%BB-dropout-prevent-nn-from-overfitting.zh/</link>
+      <pubDate>Wed, 13 Sep 2017 15:49:22 +0000</pubDate>
+      
+      <guid>https://go.face2ai.com/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0/deep-learning-%E9%98%85%E8%AF%BB-dropout-prevent-nn-from-overfitting.zh/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; 使用dropout处理过拟合，原论文的理解总结
+&lt;strong&gt;Keywords:&lt;/strong&gt; Dropout，Overfit&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

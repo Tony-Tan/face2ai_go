@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>人工智能课程 on 谭升的博客</title>
+    <link>https://go.face2ai.com/tags/%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E8%AF%BE%E7%A8%8B/</link>
+    <description>Recent content in 人工智能课程 on 谭升的博客</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Fri, 25 May 2018 13:17:17 +0000</lastBuildDate><atom:link href="https://go.face2ai.com/tags/%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E8%AF%BE%E7%A8%8B/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>【斯坦福大学】人工智能课程安排</title>
+      <link>https://go.face2ai.com/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/machinelearning-stanford-artificial-intelligence-track.zh/</link>
+      <pubDate>Fri, 25 May 2018 13:17:17 +0000</pubDate>
+      
+      <guid>https://go.face2ai.com/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/machinelearning-stanford-artificial-intelligence-track.zh/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; 本文翻译自Stanford大学AI专业的课程选取表，为广大AI自学者提供自学建议
+&lt;strong&gt;Keywords:&lt;/strong&gt; Stanford Artificial Intelligence Track，人工智能课程，自学机器学习，自学人工智能，机器学习数学课程&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

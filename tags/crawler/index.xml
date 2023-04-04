@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Crawler on 谭升的博客</title>
+    <link>https://go.face2ai.com/tags/crawler/</link>
+    <description>Recent content in Crawler on 谭升的博客</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Thu, 01 Mar 2018 22:30:19 +0000</lastBuildDate><atom:link href="https://go.face2ai.com/tags/crawler/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>【爬虫】1.0 介绍</title>
+      <link>https://go.face2ai.com/%E7%BC%96%E7%A8%8B/crawler/crawler-1-0-introduction.zh/</link>
+      <pubDate>Thu, 01 Mar 2018 22:30:19 +0000</pubDate>
+      
+      <guid>https://go.face2ai.com/%E7%BC%96%E7%A8%8B/crawler/crawler-1-0-introduction.zh/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; 关于python网络爬虫的入门
+&lt;strong&gt;Keywords:&lt;/strong&gt; 爬虫，python&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Events on 谭升的博客</title>
+    <link>https://go.face2ai.com/tags/events/</link>
+    <description>Recent content in Events on 谭升的博客</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Tue, 23 Jan 2018 11:20:14 +0000</lastBuildDate><atom:link href="https://go.face2ai.com/tags/events/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>【概率论】1-0：概率论介绍</title>
+      <link>https://go.face2ai.com/math/math-probability-1-0-introduction.zh/</link>
+      <pubDate>Tue, 23 Jan 2018 11:20:14 +0000</pubDate>
+      
+      <guid>https://go.face2ai.com/math/math-probability-1-0-introduction.zh/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; 本文主要介绍概率的基本概念和观点，主要为了说明概率是什么，同时给出比较重要的试验和事件的解释说明。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Keywords:&lt;/strong&gt; Probability，the Frequency Interpretation，the Classical Interpretation，the Subjective Interpretation，the Axiomatic Interpretation，Experiments，Events&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

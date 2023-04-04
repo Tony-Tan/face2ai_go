@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>行为评价方法 on 谭升的博客</title>
+    <link>https://go.face2ai.com/tags/%E8%A1%8C%E4%B8%BA%E8%AF%84%E4%BB%B7%E6%96%B9%E6%B3%95/</link>
+    <description>Recent content in 行为评价方法 on 谭升的博客</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Wed, 10 Oct 2018 22:03:20 +0000</lastBuildDate><atom:link href="https://go.face2ai.com/tags/%E8%A1%8C%E4%B8%BA%E8%AF%84%E4%BB%B7%E6%96%B9%E6%B3%95/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>【强化学习】2.2 行为评价方法(Action-value Methods)</title>
+      <link>https://go.face2ai.com/%E5%BC%BA%E5%8C%96%E5%AD%A6%E4%B9%A0/rl-rsab-2-2-action-value-methods.zh/</link>
+      <pubDate>Wed, 10 Oct 2018 22:03:20 +0000</pubDate>
+      
+      <guid>https://go.face2ai.com/%E5%BC%BA%E5%8C%96%E5%AD%A6%E4%B9%A0/rl-rsab-2-2-action-value-methods.zh/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; 本文介绍第一种强化学习方法——行为评价方法(Action-value Methods)，非常简单但是可以通过这个简单的算法来感受下强化学习的难点和问题解决的思路
+&lt;strong&gt;Keywords:&lt;/strong&gt; 强化学习, k臂赌博机, 多臂赌博机, 利用, 探索, 行为评价方法，样本均值方法, $\varepsilon$-greedy方法&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

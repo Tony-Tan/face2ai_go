@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>最小二乘 on 谭升的博客</title>
+    <link>https://go.face2ai.com/tags/%E6%9C%80%E5%B0%8F%E4%BA%8C%E4%B9%98/</link>
+    <description>Recent content in 最小二乘 on 谭升的博客</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Tue, 17 Oct 2017 09:28:50 +0000</lastBuildDate><atom:link href="https://go.face2ai.com/tags/%E6%9C%80%E5%B0%8F%E4%BA%8C%E4%B9%98/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>【线性代数】4-3:最小二乘近似(Least Squares Approximations)</title>
+      <link>https://go.face2ai.com/math/math-linear-algebra-chapter-4-3.zh/</link>
+      <pubDate>Tue, 17 Oct 2017 09:28:50 +0000</pubDate>
+      
+      <guid>https://go.face2ai.com/math/math-linear-algebra-chapter-4-3.zh/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; 从线性代数的角度理解计算最小二乘法，以及解释最小化误差的思想。介绍部分应用，包括曲线拟合等
+&lt;strong&gt;Keywords:&lt;/strong&gt; - Least Squares Approximations,Minimizing the Error,Fitting a Straight Linear&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

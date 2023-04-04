@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Machine Learning on 谭升的博客</title>
+    <link>https://go.face2ai.com/tags/machine-learning/</link>
+    <description>Recent content in Machine Learning on 谭升的博客</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Tue, 17 Jul 2018 22:27:10 +0000</lastBuildDate><atom:link href="https://go.face2ai.com/tags/machine-learning/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>【PRML】Introduction 介绍</title>
+      <link>https://go.face2ai.com/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/machinelearning-prml-1-introduction.zh/</link>
+      <pubDate>Tue, 17 Jul 2018 22:27:10 +0000</pubDate>
+      
+      <guid>https://go.face2ai.com/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/machinelearning-prml-1-introduction.zh/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; In this section, we introduct what is Machine Learning, pattern recognition, and some relative concepts.
+&lt;strong&gt;Keywords:&lt;/strong&gt; &amp;ldquo;Pattern Recognition and Machine Learning&amp;rdquo;, Introduction, Machine Learning&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

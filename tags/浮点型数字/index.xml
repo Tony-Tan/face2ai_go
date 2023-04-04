@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>浮点型数字 on 谭升的博客</title>
+    <link>https://go.face2ai.com/tags/%E6%B5%AE%E7%82%B9%E5%9E%8B%E6%95%B0%E5%AD%97/</link>
+    <description>Recent content in 浮点型数字 on 谭升的博客</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Thu, 07 Jun 2018 06:19:13 +0000</lastBuildDate><atom:link href="https://go.face2ai.com/tags/%E6%B5%AE%E7%82%B9%E5%9E%8B%E6%95%B0%E5%AD%97/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>【数值分析】0.3 实数的浮点表示</title>
+      <link>https://go.face2ai.com/math/math-numerical-analysis-0-3-float.zh/</link>
+      <pubDate>Thu, 07 Jun 2018 06:19:13 +0000</pubDate>
+      
+      <guid>https://go.face2ai.com/math/math-numerical-analysis-0-3-float.zh/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; 本文介绍实数在计算机内的浮点数表示方法
+&lt;strong&gt;Keywords:&lt;/strong&gt; 浮点表示，IEEE754&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

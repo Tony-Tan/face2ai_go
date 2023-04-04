@@ -1,0 +1,1027 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Maths on 谭升的博客</title>
+    <link>https://go.face2ai.com/math/</link>
+    <description>Recent content in Maths on 谭升的博客</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Fri, 21 Sep 2018 11:53:59 +0000</lastBuildDate><atom:link href="https://go.face2ai.com/math/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>【信息论、推理与学习算法】本系列博客介绍</title>
+      <link>https://go.face2ai.com/math/itila-introduction-to-this-series/</link>
+      <pubDate>Fri, 21 Sep 2018 11:53:59 +0000</pubDate>
+      
+      <guid>https://go.face2ai.com/math/itila-introduction-to-this-series/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; 本文是本系列的第一篇，介绍本系列的主要内容
+&lt;strong&gt;Keywords:&lt;/strong&gt; Information Theory，信息论，Inference，推理，Learning Algorithms，学习算法&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>【数值分析】0.4 有效数字缺失</title>
+      <link>https://go.face2ai.com/math/math-numerical-analysis-0-4-significant-digit.zh/</link>
+      <pubDate>Wed, 13 Jun 2018 19:16:27 +0000</pubDate>
+      
+      <guid>https://go.face2ai.com/math/math-numerical-analysis-0-4-significant-digit.zh/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; 本文介绍计算机在计算中有可能引发的有效数字缺失
+&lt;strong&gt;Keywords:&lt;/strong&gt; 有效数字缺失&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>【数值分析】0.3 实数的浮点表示</title>
+      <link>https://go.face2ai.com/math/math-numerical-analysis-0-3-float.zh/</link>
+      <pubDate>Thu, 07 Jun 2018 06:19:13 +0000</pubDate>
+      
+      <guid>https://go.face2ai.com/math/math-numerical-analysis-0-3-float.zh/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; 本文介绍实数在计算机内的浮点数表示方法
+&lt;strong&gt;Keywords:&lt;/strong&gt; 浮点表示，IEEE754&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>【数值分析】0.2 二进制数字</title>
+      <link>https://go.face2ai.com/math/math-numerical-analysis-0-2-binary.zh/</link>
+      <pubDate>Thu, 31 May 2018 06:12:14 +0000</pubDate>
+      
+      <guid>https://go.face2ai.com/math/math-numerical-analysis-0-2-binary.zh/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; 本文介绍二进制数字的相关知识
+&lt;strong&gt;Keywords:&lt;/strong&gt; 数制，二进制，十进制&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>【数理统计理论基础】 1.1 导言</title>
+      <link>https://go.face2ai.com/math/math-statistics-basis-1-1-introduction.zh/</link>
+      <pubDate>Wed, 30 May 2018 14:15:45 +0000</pubDate>
+      
+      <guid>https://go.face2ai.com/math/math-statistics-basis-1-1-introduction.zh/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; 本文主要介绍数理统计学简史，以及数理统计学怎么应用
+&lt;strong&gt;Keywords:&lt;/strong&gt; 数理统计，数理统计应用&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>【数值分析】0.1 多项式求值</title>
+      <link>https://go.face2ai.com/math/math-numerical-analysis-0-1-polynomial-evaluation.zh/</link>
+      <pubDate>Wed, 30 May 2018 06:56:04 +0000</pubDate>
+      
+      <guid>https://go.face2ai.com/math/math-numerical-analysis-0-1-polynomial-evaluation.zh/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; 本文介绍多项式求值的相关内容。
+&lt;strong&gt;Keywords:&lt;/strong&gt; 多项式求值，霍纳方法&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>【数值分析】数值分析介绍(Big Picture)</title>
+      <link>https://go.face2ai.com/math/math-numerical-analysis-0-0-introduction.zh/</link>
+      <pubDate>Wed, 30 May 2018 06:10:16 +0000</pubDate>
+      
+      <guid>https://go.face2ai.com/math/math-numerical-analysis-0-0-introduction.zh/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; 数值分析课程介绍
+&lt;strong&gt;Keywords:&lt;/strong&gt; 数值分析&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>【数理统计理论基础】 概览</title>
+      <link>https://go.face2ai.com/math/math-statistics-basis-0-0-big-picture.zh/</link>
+      <pubDate>Thu, 24 May 2018 13:58:55 +0000</pubDate>
+      
+      <guid>https://go.face2ai.com/math/math-statistics-basis-0-0-big-picture.zh/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; 本文为数理统计理论基础的第一篇，作为概览，从总体介绍数理统计系列的学习线路和相关博客写作的大体思路
+&lt;strong&gt;Keywords:&lt;/strong&gt; 统计学基础，数理统计学基础&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>【数理统计学简史】2.3 狄莫弗初步结果的改进，与斯特林的联系</title>
+      <link>https://go.face2ai.com/math/math-statistics-2-3-communication-with-stirling.zh/</link>
+      <pubDate>Tue, 08 May 2018 17:04:12 +0000</pubDate>
+      
+      <guid>https://go.face2ai.com/math/math-statistics-2-3-communication-with-stirling.zh/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; 本文介绍狄莫弗与斯特林之间的联系，以及结果进一步的优化
+&lt;strong&gt;Keywords:&lt;/strong&gt; 二项分布，斯特林公式&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>【数理统计学简史】2.2 狄莫弗的初步结果</title>
+      <link>https://go.face2ai.com/math/math-statistics-2-2-de-moivre-naive-result.zh/</link>
+      <pubDate>Thu, 03 May 2018 17:14:58 +0000</pubDate>
+      
+      <guid>https://go.face2ai.com/math/math-statistics-2-2-de-moivre-naive-result.zh/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; 本文介绍狄莫弗上一篇之后得出的关于二项分布的近似计算
+&lt;strong&gt;Keywords:&lt;/strong&gt; 二项分布，斯特林公式&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>【数理统计学简史】2.1 狄莫弗研究的动因</title>
+      <link>https://go.face2ai.com/math/math-statistics-2-1-de-moivre-motive.zh/</link>
+      <pubDate>Wed, 02 May 2018 14:36:47 +0000</pubDate>
+      
+      <guid>https://go.face2ai.com/math/math-statistics-2-1-de-moivre-motive.zh/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; 本文介绍狄莫弗研究二项概率的动机，和伯努利大数定律产生联系的过程
+&lt;strong&gt;Keywords:&lt;/strong&gt; 狄莫弗，狄莫弗公式，二项概率，大数定律&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>【数理统计学简史】2.0 狄莫弗的二项概率逼近</title>
+      <link>https://go.face2ai.com/math/math-statistics-2-0-de-moivre-binomial-distribution.zh/</link>
+      <pubDate>Tue, 01 May 2018 18:38:53 +0000</pubDate>
+      
+      <guid>https://go.face2ai.com/math/math-statistics-2-0-de-moivre-binomial-distribution.zh/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; 本文作为第二章的开篇，主要介绍狄莫弗在二项概率逼近方面的研究，顺便解决了前面一篇我们说的伯努利大数定律中 $N$ 的确定方式。
+&lt;strong&gt;Keywords:&lt;/strong&gt; 狄莫弗，二项概率逼近&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>【数理统计学简史】1.7 伯努利大数定律</title>
+      <link>https://go.face2ai.com/math/math-statistics-1-7-bernouli-law-of-large-numbers.zh/</link>
+      <pubDate>Mon, 30 Apr 2018 17:16:04 +0000</pubDate>
+      
+      <guid>https://go.face2ai.com/math/math-statistics-1-7-bernouli-law-of-large-numbers.zh/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; 本文介绍《推测术》中最精华的第四部分，提出历史性结论——伯努利大数定律
+&lt;strong&gt;Keywords:&lt;/strong&gt; 大数定律，伯努利大数定律，《推测术》，强大数律，弱大数律，切比雪夫不等式&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>【数理统计学简史】1.6 关于概率的几点看法</title>
+      <link>https://go.face2ai.com/math/math-statistics-1-6-some-idea-of-probability.zh/</link>
+      <pubDate>Sat, 28 Apr 2018 13:36:06 +0000</pubDate>
+      
+      <guid>https://go.face2ai.com/math/math-statistics-1-6-some-idea-of-probability.zh/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; 本文介绍一些关于概率的几点看法，主要来自伯努利的推测术。
+&lt;strong&gt;Keywords:&lt;/strong&gt; 主观概率，客观概率，《推测术》，先验，后验，因果律，道德确定性，小概率事件原理，贝叶斯&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>【数理统计学简史】1.5 《推测术》前三部分内容提要</title>
+      <link>https://go.face2ai.com/math/math-statistics-1-5-ars-conjectandi-first-3-sections.zh/</link>
+      <pubDate>Thu, 26 Apr 2018 16:45:32 +0000</pubDate>
+      
+      <guid>https://go.face2ai.com/math/math-statistics-1-5-ars-conjectandi-first-3-sections.zh/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; 本文介绍《推测术》前三部分，主要是古典概率的系统化和深化
+&lt;strong&gt;Keywords:&lt;/strong&gt; 推测术，猜度术，排列，古典概率，全概率公式&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>【数理统计学简史】1.4 惠更斯的“机遇与规律”</title>
+      <link>https://go.face2ai.com/math/math-statistics-1-4-huygens.zh/</link>
+      <pubDate>Wed, 25 Apr 2018 16:21:46 +0000</pubDate>
+      
+      <guid>https://go.face2ai.com/math/math-statistics-1-4-huygens.zh/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; 本文介绍惠更斯的著作“机遇与规律”
+&lt;strong&gt;Keywords:&lt;/strong&gt; 期望，全概率公式，概率概念的形成&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>【数理统计学简史】1.3 帕斯卡和费马的通信</title>
+      <link>https://go.face2ai.com/math/math-statistics-1-3-pascal-fermat.zh/</link>
+      <pubDate>Tue, 24 Apr 2018 23:20:48 +0000</pubDate>
+      
+      <guid>https://go.face2ai.com/math/math-statistics-1-3-pascal-fermat.zh/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; 本文介绍帕斯卡和费马当时的通信中解决的一些概率问题，这些信件奠定了概率论的基础。
+&lt;strong&gt;Keywords:&lt;/strong&gt; 期望，分赌本问题，乘法定理，加法定理，全概率公式&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>【数理统计学简史】1.2 分赌本问题</title>
+      <link>https://go.face2ai.com/math/math-statistics-1-2-gambling-problem.zh/</link>
+      <pubDate>Mon, 23 Apr 2018 17:23:17 +0000</pubDate>
+      
+      <guid>https://go.face2ai.com/math/math-statistics-1-2-gambling-problem.zh/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; 本文介绍经典的分赌本问题的历史，和最后得出的解法，为期望的出现做了铺垫
+&lt;strong&gt;Keywords:&lt;/strong&gt; 分赌本问题，二项分布，期望，帕斯卡三角&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>【数理统计学简史】1.1 卡丹诺的著作</title>
+      <link>https://go.face2ai.com/math/math-statistics-1-1-cardano.zh/</link>
+      <pubDate>Sun, 22 Apr 2018 17:36:22 +0000</pubDate>
+      
+      <guid>https://go.face2ai.com/math/math-statistics-1-1-cardano.zh/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; 本文介绍概率最早形成时的大致情况，年代久远，本文中所说的都是由记载的，更早的相关内容无处考证
+&lt;strong&gt;Keywords:&lt;/strong&gt; 《机遇博弈》，组合公式，卡丹诺&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>【数理统计学简史】1.0 早期概率论——从萌芽到《推测术》</title>
+      <link>https://go.face2ai.com/math/math-statistics-1-0-early-probability-theory.zh/</link>
+      <pubDate>Sat, 21 Apr 2018 20:16:41 +0000</pubDate>
+      
+      <guid>https://go.face2ai.com/math/math-statistics-1-0-early-probability-theory.zh/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; 作为第一章的开篇文章，本文从数理统计学的由来开始，大致的说了一下整体的数理统计学的发展，后面逐一展开，进行介绍。
+&lt;strong&gt;Keywords:&lt;/strong&gt; 《推测术》，早期概率论，赌博&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>【数理统计学简史】 介绍</title>
+      <link>https://go.face2ai.com/math/math-statistics-history-introduction.zh/</link>
+      <pubDate>Fri, 20 Apr 2018 15:03:01 +0000</pubDate>
+      
+      <guid>https://go.face2ai.com/math/math-statistics-history-introduction.zh/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; 本文是数理统计学的第一篇文章，从数理统计学的发展过程来了解我们要研究什么
+&lt;strong&gt;Keywords:&lt;/strong&gt; 数学统计学简史&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>【概率论】6-4:分布连续性修正(The Correction for Continuity)</title>
+      <link>https://go.face2ai.com/math/math-probability-6-4-the-correction-for-continuity.zh/</link>
+      <pubDate>Mon, 09 Apr 2018 15:25:31 +0000</pubDate>
+      
+      <guid>https://go.face2ai.com/math/math-probability-6-4-the-correction-for-continuity.zh/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; 本文介绍如何使用中心极限定理，将某区间上离散的随机变量，用一段连续的正态分布来近似
+&lt;strong&gt;Keywords:&lt;/strong&gt; The Central Limit Theorem，Approximation&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>【概率论】6-3:中心极限定理(The Central Limit Theorem)</title>
+      <link>https://go.face2ai.com/math/math-probability-6-3-the-central-limit-theorem.zh/</link>
+      <pubDate>Mon, 09 Apr 2018 09:21:44 +0000</pubDate>
+      
+      <guid>https://go.face2ai.com/math/math-probability-6-3-the-central-limit-theorem.zh/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; 本文介绍中心极限定理
+&lt;strong&gt;Keywords:&lt;/strong&gt; The Central Limit Theorem，The Normal distribution，The Delta Method&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>【概率论】6-2:大数定理(The Law of Large Numbers)</title>
+      <link>https://go.face2ai.com/math/math-probability-6-2-the-law-of-large-numbers.zh/</link>
+      <pubDate>Sat, 07 Apr 2018 21:07:42 +0000</pubDate>
+      
+      <guid>https://go.face2ai.com/math/math-probability-6-2-the-law-of-large-numbers.zh/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; 本文介绍马尔科夫不等式，切比雪夫不等式，样本均值，和大数定理的知识内容
+&lt;strong&gt;Keywords:&lt;/strong&gt; Markov Inequality，Chebyshev Inequality，Sample Mean，The Law of Large Numbers&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>【概率论】6-1:大样本介绍(Large Random Samples Introduction)</title>
+      <link>https://go.face2ai.com/math/math-probability-6-1-large-random-samples-introduction.zh/</link>
+      <pubDate>Sat, 07 Apr 2018 14:43:51 +0000</pubDate>
+      
+      <guid>https://go.face2ai.com/math/math-probability-6-1-large-random-samples-introduction.zh/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; 本文作为第六章的开篇主要介绍第六章我们要研究的内容
+&lt;strong&gt;Keywords:&lt;/strong&gt; Large Random Samples&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>【概率论】5-10:二维正态分布(The Bivariate Normal Distributions)</title>
+      <link>https://go.face2ai.com/math/math-probability-5-10-the-bivariate-normal-distributions.zh/</link>
+      <pubDate>Thu, 05 Apr 2018 22:03:55 +0000</pubDate>
+      
+      <guid>https://go.face2ai.com/math/math-probability-5-10-the-bivariate-normal-distributions.zh/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; 本文介绍第一个多变量连续分布——双变量正态分布(&lt;font color=&#34;ff0000&#34;&gt;本篇内有未证明定理，需要后续要补充&lt;/font&gt; )
+&lt;strong&gt;Keywords:&lt;/strong&gt; The Bivariate Normal Distributions&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>【概率论】5-9:多项式分布(The Multinomial Distributions)</title>
+      <link>https://go.face2ai.com/math/math-probability-5-9-multinomial-distribution.zh/</link>
+      <pubDate>Wed, 04 Apr 2018 22:17:23 +0000</pubDate>
+      
+      <guid>https://go.face2ai.com/math/math-probability-5-9-multinomial-distribution.zh/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; 本文介绍多项式分布的相关知识
+&lt;strong&gt;Keywords:&lt;/strong&gt; The Multinomial Distributions&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>【概率论】5-8:Beta分布(The Beta Distributions)</title>
+      <link>https://go.face2ai.com/math/math-probability-5-8-the-beta-distribution.zh/</link>
+      <pubDate>Mon, 02 Apr 2018 15:14:12 +0000</pubDate>
+      
+      <guid>https://go.face2ai.com/math/math-probability-5-8-the-beta-distribution.zh/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; 本文介绍Beta分布的相关知识内容 &lt;strong&gt;Keywords:&lt;/strong&gt; The Beta Distribution&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>【概率论】5-7:Gama分布(The Gamma Distributions Part II)</title>
+      <link>https://go.face2ai.com/math/math-probability-5-7-the-gamma-distributions-p2.zh/</link>
+      <pubDate>Mon, 02 Apr 2018 09:16:46 +0000</pubDate>
+      
+      <guid>https://go.face2ai.com/math/math-probability-5-7-the-gamma-distributions-p2.zh/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; 本文介绍Gamma分布相关知识的第二部分指数分布 &lt;strong&gt;Keywords:&lt;/strong&gt; The Exponential Distributions&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>【概率论】5-7:Gama分布(The Gamma Distributions Part I)</title>
+      <link>https://go.face2ai.com/math/math-probability-5-7-the-gamma-distributions-p1.zh/</link>
+      <pubDate>Sat, 31 Mar 2018 18:33:39 +0000</pubDate>
+      
+      <guid>https://go.face2ai.com/math/math-probability-5-7-the-gamma-distributions-p1.zh/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; 本文介绍Gamma函数和Gamma分布，本课第二部分介绍指数分布 &lt;strong&gt;Keywords:&lt;/strong&gt; The Gamma Distributions&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>【概率论】5-6:正态分布(The Normal Distributions Part III)</title>
+      <link>https://go.face2ai.com/math/math-probability-5-6-the-normal-distributions-p3.zh/</link>
+      <pubDate>Fri, 30 Mar 2018 08:58:10 +0000</pubDate>
+      
+      <guid>https://go.face2ai.com/math/math-probability-5-6-the-normal-distributions-p3.zh/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; 本文介绍正态分布第三部分，标准正态分布，正态分布的线性组合，对数正态分布以及对数正态分布
+&lt;strong&gt;Keywords:&lt;/strong&gt; The Normal Distributions，The Standard Normal Distribution&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>【概率论】5-6:正态分布(The Normal Distributions Part II)</title>
+      <link>https://go.face2ai.com/math/math-probability-5-6-the-normal-distributions-p2.zh/</link>
+      <pubDate>Thu, 29 Mar 2018 15:02:03 +0000</pubDate>
+      
+      <guid>https://go.face2ai.com/math/math-probability-5-6-the-normal-distributions-p2.zh/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; 本文介绍正态分布的数学性质
+&lt;strong&gt;Keywords:&lt;/strong&gt; The Normal Distributions&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>【概率论】5-6:正态分布(The Normal Distributions Part I)</title>
+      <link>https://go.face2ai.com/math/math-probability-5-6-the-normal-distributions-p1.zh/</link>
+      <pubDate>Thu, 29 Mar 2018 14:15:47 +0000</pubDate>
+      
+      <guid>https://go.face2ai.com/math/math-probability-5-6-the-normal-distributions-p1.zh/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; 本文介绍正态分布第一部分，关于正态分布的基本知识
+&lt;strong&gt;Keywords:&lt;/strong&gt; The Normal Distributions&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>【概率论】5-5:负二项分布(The Negative Binomial Distribution)</title>
+      <link>https://go.face2ai.com/math/math-probability-5-5-the-negative-binomial-distribution.zh/</link>
+      <pubDate>Thu, 29 Mar 2018 08:57:12 +0000</pubDate>
+      
+      <guid>https://go.face2ai.com/math/math-probability-5-5-the-negative-binomial-distribution.zh/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; 本文介绍负二项分布，几何分布的基础知识
+&lt;strong&gt;Keywords:&lt;/strong&gt; The Negative Binomial Distribution，The Geometric Distribution&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>【概率论】5-4:泊松分布(The Poisson Distribution)</title>
+      <link>https://go.face2ai.com/math/math-probability-5-4-the-poisson-distribution.zh/</link>
+      <pubDate>Wed, 28 Mar 2018 15:40:55 +0000</pubDate>
+      
+      <guid>https://go.face2ai.com/math/math-probability-5-4-the-poisson-distribution.zh/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; 本文介绍Poisson分布相关知识
+&lt;strong&gt;Keywords:&lt;/strong&gt; Poisson Distribution&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>【概率论】5-3:超几何分布(The Hypergeomtric Distribution)</title>
+      <link>https://go.face2ai.com/math/math-probability-5-3-the-hypergeomtirc-distribution.zh/</link>
+      <pubDate>Wed, 28 Mar 2018 09:27:39 +0000</pubDate>
+      
+      <guid>https://go.face2ai.com/math/math-probability-5-3-the-hypergeomtirc-distribution.zh/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; 本文主要介绍超几何分布
+&lt;strong&gt;Keywords:&lt;/strong&gt; Hypergeomtirc Distribution,Finite Population Correction&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>【概率论】5-2:伯努利和二项分布(The Bernoulli and Binomial Distributions)</title>
+      <link>https://go.face2ai.com/math/math-probability-5-2-the-bernoulli-and-binomial-distributions.zh/</link>
+      <pubDate>Tue, 27 Mar 2018 21:15:22 +0000</pubDate>
+      
+      <guid>https://go.face2ai.com/math/math-probability-5-2-the-bernoulli-and-binomial-distributions.zh/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; 本文介绍Bernoulli Distribution （伯努利分布）和Binomial Distribution（二项分布）
+&lt;strong&gt;Keywords:&lt;/strong&gt; Bernoulli Distributions，Binomial Distributions&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>【概率论】5-1:各分布介绍(Special Distribution Introduction)</title>
+      <link>https://go.face2ai.com/math/math-probability-5-1-special-distributions.zh/</link>
+      <pubDate>Tue, 27 Mar 2018 20:35:20 +0000</pubDate>
+      
+      <guid>https://go.face2ai.com/math/math-probability-5-1-special-distributions.zh/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; 本文介绍本章关于分布的内容提要
+&lt;strong&gt;Keywords:&lt;/strong&gt; Distribution&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>【概率论】4-7:条件期望(Conditional Expectation)</title>
+      <link>https://go.face2ai.com/math/math-probability-4-7-conditional-expectation.zh/</link>
+      <pubDate>Tue, 27 Mar 2018 10:53:24 +0000</pubDate>
+      
+      <guid>https://go.face2ai.com/math/math-probability-4-7-conditional-expectation.zh/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; 本文介绍期望的条件版本，也就是条件期望
+&lt;strong&gt;Keywords:&lt;/strong&gt; Expectation，Prediction，Law of Total Probability&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>【概率论】4-6:协方差和相关性(Covariance and Correlation)</title>
+      <link>https://go.face2ai.com/math/math-probability-4-6-covariance-and-correlation.zh/</link>
+      <pubDate>Mon, 26 Mar 2018 10:44:07 +0000</pubDate>
+      
+      <guid>https://go.face2ai.com/math/math-probability-4-6-covariance-and-correlation.zh/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; 本文介绍协方差和相关性的基础知识，以及部分性质
+&lt;strong&gt;Keywords:&lt;/strong&gt; Covariance,Correlation,Properties of Covariance and Correlation&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>【概率论】4-5:均值和中值(The Mean and the Median)</title>
+      <link>https://go.face2ai.com/math/math-probability-4-5-the-mean-and-the-median.zh/</link>
+      <pubDate>Sun, 25 Mar 2018 21:01:04 +0000</pubDate>
+      
+      <guid>https://go.face2ai.com/math/math-probability-4-5-the-mean-and-the-median.zh/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; 本文介绍均值和中值的对比，以及最小平方误差，最小绝对误差
+&lt;strong&gt;Keywords:&lt;/strong&gt; Mean，Median，Mean Squared Error，Mean Absolute Error&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>【概率论】4-4:距(Moments)</title>
+      <link>https://go.face2ai.com/math/math-probability-4-4-moments.zh/</link>
+      <pubDate>Sun, 25 Mar 2018 10:58:47 +0000</pubDate>
+      
+      <guid>https://go.face2ai.com/math/math-probability-4-4-moments.zh/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; 本文介绍另一个基于期望的随机变量分布的数字特征——“矩” （不知道咋翻译的，英文moment表示时刻,瞬间等意思）
+&lt;strong&gt;Keywords:&lt;/strong&gt; Moments，Moments Generating Function&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>【概率论】4-3:方差(Variance)</title>
+      <link>https://go.face2ai.com/math/math-probability-4-3-variance.zh/</link>
+      <pubDate>Fri, 23 Mar 2018 22:22:11 +0000</pubDate>
+      
+      <guid>https://go.face2ai.com/math/math-probability-4-3-variance.zh/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; 本文介绍继期望之后分布的另一个重要数学性质，方差
+&lt;strong&gt;Keywords:&lt;/strong&gt; Variance,Standard Deviation&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>【概率论】4-2:期望的性质(Properties of Expectation)</title>
+      <link>https://go.face2ai.com/math/math-probability-4-2-properties-of-expectations.zh/</link>
+      <pubDate>Fri, 23 Mar 2018 10:24:47 +0000</pubDate>
+      
+      <guid>https://go.face2ai.com/math/math-probability-4-2-properties-of-expectations.zh/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; 本文介绍关于期望的性质，主要是计算性质，所以本文会有非常多公式定理，例子可能较少
+&lt;strong&gt;Keywords:&lt;/strong&gt; Properties of Expectation&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>【概率论】4-1:随机变量的期望(The Expectation of a Random Variable Part II)</title>
+      <link>https://go.face2ai.com/math/math-probability-4-1-the-expectation-of-a-random-variable-p2.zh/</link>
+      <pubDate>Thu, 22 Mar 2018 09:09:37 +0000</pubDate>
+      
+      <guid>https://go.face2ai.com/math/math-probability-4-1-the-expectation-of-a-random-variable-p2.zh/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; 本篇介绍期望的第二部分，关于随机变量的函数的期望
+&lt;strong&gt;Keywords:&lt;/strong&gt; Expectation&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>【概率论】4-1:随机变量的期望(The Expectation of a Random Variable Part I)</title>
+      <link>https://go.face2ai.com/math/math-probability-4-1-the-expectation-of-a-random-variable-p1.zh/</link>
+      <pubDate>Tue, 20 Mar 2018 09:48:55 +0000</pubDate>
+      
+      <guid>https://go.face2ai.com/math/math-probability-4-1-the-expectation-of-a-random-variable-p1.zh/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; 本文主要介绍期望的基础之知识，第一部分介绍连续和离散随机变量的期望。
+&lt;strong&gt;Keywords:&lt;/strong&gt; Expectation&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>【概率论】3-9:多随机变量函数(Functions of Two or More Random Variables)</title>
+      <link>https://go.face2ai.com/math/math-probability-3-9-functions-of-two-or-more-random-variables.zh/</link>
+      <pubDate>Mon, 19 Mar 2018 10:12:34 +0000</pubDate>
+      
+      <guid>https://go.face2ai.com/math/math-probability-3-9-functions-of-two-or-more-random-variables.zh/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; 本文介绍多随机变量的函数
+&lt;strong&gt;Keywords:&lt;/strong&gt; 离散多随机变量的函数，连续多随机变量的函数，卷积&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>【概率论】3-8:随机变量函数(Functions of a Random Variable)</title>
+      <link>https://go.face2ai.com/math/math-probability-3-8-fuctions-of-a-random-variable.zh/</link>
+      <pubDate>Fri, 16 Mar 2018 09:49:24 +0000</pubDate>
+      
+      <guid>https://go.face2ai.com/math/math-probability-3-8-fuctions-of-a-random-variable.zh/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; 本文介绍通过函数这个工具，来研究随机变量
+&lt;strong&gt;Keywords:&lt;/strong&gt; The Probability Integral Transformation，Simulation，Pseudo-Random Numbers，General Function&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>【概率论】3-7:多变量分布(Multivariate Distributions Part II）</title>
+      <link>https://go.face2ai.com/math/math-probability-3-7-multivariate-distributions-p2.zh/</link>
+      <pubDate>Thu, 15 Mar 2018 09:20:38 +0000</pubDate>
+      
+      <guid>https://go.face2ai.com/math/math-probability-3-7-multivariate-distributions-p2.zh/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; 本文继续上文的内容，讲解多变量分布的条件分布，全概率公式和贝叶斯公式。提出直方图的概念。
+&lt;strong&gt;Keywords:&lt;/strong&gt; Conditional Distributions，Law of Total Probability，Bayes&amp;rsquo; Theorem，Histograms&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>【概率论】3-7:多变量分布(Multivariate Distributions Part I）</title>
+      <link>https://go.face2ai.com/math/math-probability-3-7-multivariate-distributions-p1.zh/</link>
+      <pubDate>Wed, 14 Mar 2018 09:55:14 +0000</pubDate>
+      
+      <guid>https://go.face2ai.com/math/math-probability-3-7-multivariate-distributions-p1.zh/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; 本文将3.4，3.5，3.6的内容扩展到多个随机变量中去，并得到相对应的结论，由于内容较多，故分为两部分完成
+&lt;strong&gt;Keywords:&lt;/strong&gt; Joint Distributions,Mixed Distributions,Marginal Distributions,Independent Random Variable&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>【概率论】3-6:条件分布(Conditional Distributions Part II）</title>
+      <link>https://go.face2ai.com/math/math-probability-3-6-conditional-distributions-p2.zh/</link>
+      <pubDate>Mon, 12 Mar 2018 09:06:00 +0000</pubDate>
+      
+      <guid>https://go.face2ai.com/math/math-probability-3-6-conditional-distributions-p2.zh/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; 本文介绍联合分布的构建，也就是条件分布部分的扩展和应用
+&lt;strong&gt;Keywords:&lt;/strong&gt; 乘法法则，贝叶斯定理，随机变量的全概率公式&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>【概率论】3-6:条件分布(Conditional Distributions Part I）</title>
+      <link>https://go.face2ai.com/math/math-probability-3-6-conditional-distributions-p1.zh/</link>
+      <pubDate>Thu, 08 Mar 2018 10:38:13 +0000</pubDate>
+      
+      <guid>https://go.face2ai.com/math/math-probability-3-6-conditional-distributions-p1.zh/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; 首先介绍随机变量的条件分布，随后介绍随机变量条件分布下的乘法法则，贝叶斯公式和全概率公式
+&lt;strong&gt;Keywords:&lt;/strong&gt; Discrete Conditional Distributions，Continuous Conditional Distributions，Multiplication Rule，Bayes&amp;rsquo; Therom，Law of Total Probability&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>【概率论】3-5:边缘分布(Marginal Distribution)</title>
+      <link>https://go.face2ai.com/math/math-probability-3-5-marginal-distributions.zh/</link>
+      <pubDate>Fri, 09 Feb 2018 11:33:45 +0000</pubDate>
+      
+      <guid>https://go.face2ai.com/math/math-probability-3-5-marginal-distributions.zh/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; 本文承接上文，对于二维联合分布，如何求出二维变量中一个变量的一个分布，也就是标题所说的边缘分布；以及对独立随机变量的讨论。
+&lt;strong&gt;Keywords:&lt;/strong&gt; Marginal p.f.,Marginal p.d.f.,Independent&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>【概率论】3-4:二维分布(Bivariate Distribution)</title>
+      <link>https://go.face2ai.com/math/math-probability-3-4-bivariate-distribution.zh/</link>
+      <pubDate>Wed, 07 Feb 2018 09:35:57 +0000</pubDate>
+      
+      <guid>https://go.face2ai.com/math/math-probability-3-4-bivariate-distribution.zh/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; 本文主要介绍双变量的分布情况，以及其中的一些有用的性质
+&lt;strong&gt;Keywords:&lt;/strong&gt; Discrete Joint Distribution,Continuous Joint Distribution,Mixed Bivariate Distribution,Bivariate Cumulative Distribution Functions&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>【概率论】3-3:累积分布函数(Cumulative Distribution Function)</title>
+      <link>https://go.face2ai.com/math/math-probability-3-3-cumulative-distribution-function.zh/</link>
+      <pubDate>Tue, 06 Feb 2018 10:09:15 +0000</pubDate>
+      
+      <guid>https://go.face2ai.com/math/math-probability-3-3-cumulative-distribution-function.zh/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; 本文介绍描述随机变量分布的另一种工具，累积分布函数，CDF
+&lt;strong&gt;Keywords:&lt;/strong&gt; Cumulative Distribution Function，Quantial&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>【概率论】3-2:连续分布(Continuous Distributions)</title>
+      <link>https://go.face2ai.com/math/math-probability-3-2-continuous-distribution.zh/</link>
+      <pubDate>Mon, 05 Feb 2018 09:23:02 +0000</pubDate>
+      
+      <guid>https://go.face2ai.com/math/math-probability-3-2-continuous-distribution.zh/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; 本文继续上文的离散随机变量的观点，将部分试验模型转换到连续随机变量的观点上。
+&lt;strong&gt;Keywords:&lt;/strong&gt; Continuous Random Variable，Continuous Distributions，Probability Desity Function，Uniform Distributions on Intervals&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>【概率论】3-1:随机变量和分布(Random Variables and Discrete Distributions)</title>
+      <link>https://go.face2ai.com/math/math-probability-3-1-random-variables-and-discrete-distributions.zh/</link>
+      <pubDate>Sat, 03 Feb 2018 13:00:10 +0000</pubDate>
+      
+      <guid>https://go.face2ai.com/math/math-probability-3-1-random-variables-and-discrete-distributions.zh/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; 本文主要介绍随机变量的引入，离散分布的介绍以及离散均匀分布，二项分布的基本原理
+&lt;strong&gt;Keywords:&lt;/strong&gt; Random Variables，Discrete Distributions，Uniform Distributions on Integers，Binomial Distributions&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>【概率论】2-3:贝叶斯定理(Bayes&#39; Theorem)</title>
+      <link>https://go.face2ai.com/math/math-probability-2-3-bayes-teorem.zh/</link>
+      <pubDate>Fri, 02 Feb 2018 10:10:45 +0000</pubDate>
+      
+      <guid>https://go.face2ai.com/math/math-probability-2-3-bayes-teorem.zh/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; 本文是关于Bayes&amp;rsquo; Theorem 的介绍性知识
+&lt;strong&gt;Keywords:&lt;/strong&gt; Bayes&amp;rsquo; Theorem，Law of total Probability&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>【概率论】2-2:独立事件(Independent Events)</title>
+      <link>https://go.face2ai.com/math/math-probability-2-2-independent-events.zh/</link>
+      <pubDate>Thu, 01 Feb 2018 09:33:49 +0000</pubDate>
+      
+      <guid>https://go.face2ai.com/math/math-probability-2-2-independent-events.zh/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; 本文介绍事件的独立，以及派生出来的多事件独立，以及条件独立
+&lt;strong&gt;Keywords:&lt;/strong&gt; Independent Events，Independent of Several Events，Coditionally Independent Events&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>【概率论】2-1:条件概率(Conditional Probability)</title>
+      <link>https://go.face2ai.com/math/math-probability-2-1-conditional-probability.zh/</link>
+      <pubDate>Wed, 31 Jan 2018 10:34:36 +0000</pubDate>
+      
+      <guid>https://go.face2ai.com/math/math-probability-2-1-conditional-probability.zh/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; 本文介绍条件概率的定义及相关知识，提出全概率公式
+&lt;strong&gt;Keywords:&lt;/strong&gt; Conditional Probability，Multiplication Rule，Partitions
+，Law of total Probability&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>【概率论】1-4:事件的的并集(Union of Events and Statical Swindles)</title>
+      <link>https://go.face2ai.com/math/math-probability-1-4-union-of-event.zh/</link>
+      <pubDate>Tue, 30 Jan 2018 09:22:40 +0000</pubDate>
+      
+      <guid>https://go.face2ai.com/math/math-probability-1-4-union-of-event.zh/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; 本文主要介绍事件的并集对应的概率计算，以及一个补充的概率小知识，怎么用统计骗人
+&lt;strong&gt;Keywords:&lt;/strong&gt; Union of two Events，Union of Finite Number of Events，Statical Swindles&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>【概率论】1-3:组合(Combinatorial Methods)</title>
+      <link>https://go.face2ai.com/math/math-probability-1-3-combinatorial-methods.zh/</link>
+      <pubDate>Fri, 26 Jan 2018 09:20:58 +0000</pubDate>
+      
+      <guid>https://go.face2ai.com/math/math-probability-1-3-combinatorial-methods.zh/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; 本文主要介绍组合的相关知识，以及引出的二项式系数，多项式系数
+&lt;strong&gt;Keywords:&lt;/strong&gt; Combination，Binormial Coeffcient，Multinormial Coeffcient&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>【概率论】1-2:计数方法(Counting Methods)</title>
+      <link>https://go.face2ai.com/math/math-probability-1-2-counting-methods.zh/</link>
+      <pubDate>Thu, 25 Jan 2018 10:35:46 +0000</pubDate>
+      
+      <guid>https://go.face2ai.com/math/math-probability-1-2-counting-methods.zh/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; 本文主要介绍有限样本空间下的古典概率问题，以及其中包含的计数方法，排列的基本思想
+&lt;strong&gt;Keywords:&lt;/strong&gt; Counting Methods，Combinatorial Methods，Multiplication，Permutations，Stirling&amp;rsquo;s Formula&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>【概率论】1-1:概率定义(Definition of Probability)</title>
+      <link>https://go.face2ai.com/math/math-probability-1-1-definition-of-probability.zh/</link>
+      <pubDate>Wed, 24 Jan 2018 10:12:00 +0000</pubDate>
+      
+      <guid>https://go.face2ai.com/math/math-probability-1-1-definition-of-probability.zh/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; 本文介绍样本空间，公理化的概率的定义，以及概率的性质
+&lt;strong&gt;Keywords:&lt;/strong&gt; Sample Space，Finite Sample Space，Kolmogorov axioms(Probability Axioms)，Definition of Probability，Properties of Probability，Bonferroni Inequality&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>【概率论】1-0：概率论介绍</title>
+      <link>https://go.face2ai.com/math/math-probability-1-0-introduction.zh/</link>
+      <pubDate>Tue, 23 Jan 2018 11:20:14 +0000</pubDate>
+      
+      <guid>https://go.face2ai.com/math/math-probability-1-0-introduction.zh/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; 本文主要介绍概率的基本概念和观点，主要为了说明概率是什么，同时给出比较重要的试验和事件的解释说明。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Keywords:&lt;/strong&gt; Probability，the Frequency Interpretation，the Classical Interpretation，the Subjective Interpretation，the Axiomatic Interpretation，Experiments，Events&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>【线性代数】7-3:对角化和伪逆(Diagonalization and the Pseudoinverse)</title>
+      <link>https://go.face2ai.com/math/math-linear-algebra-chapter-7-3.zh/</link>
+      <pubDate>Wed, 06 Dec 2017 14:03:08 +0000</pubDate>
+      
+      <guid>https://go.face2ai.com/math/math-linear-algebra-chapter-7-3.zh/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; 本文以线性变换的角度重新理解矩阵变换的原理，以对角化和SVD作为主要的案例
+&lt;strong&gt;Keywords:&lt;/strong&gt; Diagonalization，Pseudoinverse&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>【线性代数】7-2:线性变化的矩阵(The Matrix of a Linear Transformation)</title>
+      <link>https://go.face2ai.com/math/math-linear-algebra-chapter-7-2.zh/</link>
+      <pubDate>Mon, 04 Dec 2017 12:52:03 +0000</pubDate>
+      
+      <guid>https://go.face2ai.com/math/math-linear-algebra-chapter-7-2.zh/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; 本篇有点长，内容及其丰富，包括线性变换的矩阵形式以及相关例子（导数和积分），然后详细的讲解了下怎么构造矩阵，也就是矩阵的来源，之后是矩阵相乘的原理，基的变换，最后一波大应用，小波变换和离散傅里叶变换
+&lt;strong&gt;Keywords:&lt;/strong&gt; Matrix,Matrix for the Derivate,Matrix for the Integral,Construction of the Matrix,$AB$ Match $TS$,Multiplication,Change of Basis Matrix,Wavelet Transform,Fourier Transform(DFT)&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>【线性代数】7-1:线性变换思想(The Idea of a Linear Transformation)</title>
+      <link>https://go.face2ai.com/math/math-linear-algebra-chapter-7-1.zh/</link>
+      <pubDate>Mon, 04 Dec 2017 09:04:18 +0000</pubDate>
+      
+      <guid>https://go.face2ai.com/math/math-linear-algebra-chapter-7-1.zh/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; 本篇介绍线性代数的另一个角度，就是线性变换思想
+&lt;strong&gt;Keywords:&lt;/strong&gt; Linear Transformation，Linear Combination，Kernel，Range&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>【线性代数】6-7:SVD分解(Singular Value Decomposition-SVD)</title>
+      <link>https://go.face2ai.com/math/math-linear-algebra-chapter-6-7.zh/</link>
+      <pubDate>Thu, 30 Nov 2017 09:02:19 +0000</pubDate>
+      
+      <guid>https://go.face2ai.com/math/math-linear-algebra-chapter-6-7.zh/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; 本文介绍SVD，奇异值分解，应该可以算是本章最后的高潮部分了，也是在机器学习中我们最常用的一种变换，我们经常需要求矩阵的特征值特征向量，比如联合贝叶斯，PCA等常规操作，本文还有两个线性代数的应用，在图像压缩上，以及互联网搜索上。 &lt;strong&gt;Keywords:&lt;/strong&gt; Singular Value Decomposition,JPEG2000,Eigenvalues,Eigenvectors&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>【线性代数】6-6:相似矩阵(Similar Matrices)</title>
+      <link>https://go.face2ai.com/math/math-linear-algebra-chapter-6-6.zh/</link>
+      <pubDate>Wed, 29 Nov 2017 09:08:12 +0000</pubDate>
+      
+      <guid>https://go.face2ai.com/math/math-linear-algebra-chapter-6-6.zh/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; 本文主要介绍根据矩阵对角化以及特征值引出的相似矩阵的性质和特点
+&lt;strong&gt;Keywords:&lt;/strong&gt; Similar Matrices,Jordan Form,Eigenvalues,Eigenvectors&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>【线性代数】6-5:正定矩阵(Positive Definite Matrices)</title>
+      <link>https://go.face2ai.com/math/math-linear-algebra-chapter-6-5.zh/</link>
+      <pubDate>Fri, 24 Nov 2017 11:24:21 +0000</pubDate>
+      
+      <guid>https://go.face2ai.com/math/math-linear-algebra-chapter-6-5.zh/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; 关于正定矩阵的相关知识总结，正定矩阵在数学中的一个应用
+&lt;strong&gt;Keywords:&lt;/strong&gt; Positive Definite Matrices,Symmetric Matrices,Eigenvalues,Eigenvectors&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>【线性代数】6-4:对称矩阵(Symmetric Matrices)</title>
+      <link>https://go.face2ai.com/math/math-linear-algebra-chapter-6-4.zh/</link>
+      <pubDate>Wed, 22 Nov 2017 15:18:03 +0000</pubDate>
+      
+      <guid>https://go.face2ai.com/math/math-linear-algebra-chapter-6-4.zh/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; 本篇继续线性代数的高潮部分，对称矩阵，以及对称矩阵的一些性质
+&lt;strong&gt;Keywords:&lt;/strong&gt; Eigenvalues，Eigenvectors，Symmetric Matrices，Projection Matrices，Spectral Theorem，Principal Axis Theorem&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>【线性代数】6-3:微分方程的应用(Applications to Differential Equations)</title>
+      <link>https://go.face2ai.com/math/math-linear-algebra-chapter-6-3.zh/</link>
+      <pubDate>Wed, 22 Nov 2017 15:09:04 +0000</pubDate>
+      
+      <guid>https://go.face2ai.com/math/math-linear-algebra-chapter-6-3.zh/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; 本文主要介绍线性代数在微分方程中的应用
+&lt;strong&gt;Keywords:&lt;/strong&gt; Eigenvalues,Eigenvectors,Differential Equations&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>【线性代数】6-2:对角化(Diagonalizing a Matrix)</title>
+      <link>https://go.face2ai.com/math/math-linear-algebra-chapter-6-2.zh/</link>
+      <pubDate>Tue, 21 Nov 2017 11:48:42 +0000</pubDate>
+      
+      <guid>https://go.face2ai.com/math/math-linear-algebra-chapter-6-2.zh/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; 矩阵对角化，以及对角化过程中引入的知识，以及对角化的应用
+&lt;strong&gt;Keywords:&lt;/strong&gt; Eigenvalues,Eigenvectors,Diagonalizing,Fibonacci Numbers, $A^k$ ,Nondiagonalizable Matrix&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>【集合论】2 集合操作</title>
+      <link>https://go.face2ai.com/math/math-set-theory-2-operations-with-sets.zh/</link>
+      <pubDate>Thu, 16 Nov 2017 14:03:01 +0000</pubDate>
+      
+      <guid>https://go.face2ai.com/math/math-set-theory-2-operations-with-sets.zh/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; 本文主要介绍集合论中集合的基本运算和运算法则
+&lt;strong&gt;Keywords:&lt;/strong&gt; Complement，Union，Intersection，Commutative Law，Associative Law，Distributive laws&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>【线性代数】6-1:特征值介绍(Introduction to Eigenvalues)</title>
+      <link>https://go.face2ai.com/math/math-linear-algebra-chapter-6-1.zh/</link>
+      <pubDate>Tue, 14 Nov 2017 18:13:04 +0000</pubDate>
+      
+      <guid>https://go.face2ai.com/math/math-linear-algebra-chapter-6-1.zh/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; 线性代数重点，关于矩阵特征值特征向量的相关知识第一篇文章，简单介绍特征值
+&lt;strong&gt;Keywords:&lt;/strong&gt; Eigenvalues，Eigenvectors，Sigular，Markov matrix，Trace，Imaginary Eigenvalues&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>【集合论】 样本集合</title>
+      <link>https://go.face2ai.com/math/math-set-theory-1-sample-sets.zh/</link>
+      <pubDate>Tue, 14 Nov 2017 12:30:14 +0000</pubDate>
+      
+      <guid>https://go.face2ai.com/math/math-set-theory-1-sample-sets.zh/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; 集合论基础知识,样本集合
+&lt;strong&gt;Keywords:&lt;/strong&gt; Sample set&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>【概率论】 概率论总览</title>
+      <link>https://go.face2ai.com/math/math-probability-big-picture.zh/</link>
+      <pubDate>Mon, 13 Nov 2017 15:57:45 +0000</pubDate>
+      
+      <guid>https://go.face2ai.com/math/math-probability-big-picture.zh/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; 关于概率论的整体框架
+&lt;strong&gt;Keywords:&lt;/strong&gt; 概率论&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>【线性代数】5-3:克莱姆法则，逆和体积(Cramer&#39;s Rule,Inverses,and Volumes)</title>
+      <link>https://go.face2ai.com/math/math-linear-algebra-chapter-5-3.zh/</link>
+      <pubDate>Sun, 05 Nov 2017 10:09:53 +0000</pubDate>
+      
+      <guid>https://go.face2ai.com/math/math-linear-algebra-chapter-5-3.zh/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; 本文主要介绍行列式的应用，包括求逆，求面积，求体积，以及叉乘的一些性质
+&lt;strong&gt;Keywords:&lt;/strong&gt; Inverses，Cramer&amp;rsquo;s Rule，Volumes，Determinant，Cross Product&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>【线性代数】5-2:置换和余因子(Permutations and Cofactors)</title>
+      <link>https://go.face2ai.com/math/math-linear-algebra-chapter-5-2.zh/</link>
+      <pubDate>Fri, 03 Nov 2017 09:50:36 +0000</pubDate>
+      
+      <guid>https://go.face2ai.com/math/math-linear-algebra-chapter-5-2.zh/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; 行列式的几种求法，以及相关的衍生问题
+&lt;strong&gt;Keywords:&lt;/strong&gt; Determinants，&amp;lsquo;Pivot Formula&amp;rsquo;，&amp;lsquo;Big Formula&amp;rsquo;，&amp;lsquo;Cofactors Formula&amp;rsquo;，Cofactors，Permutations&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>【线性代数】5-1:行列式性质(The Properties of Determinants)</title>
+      <link>https://go.face2ai.com/math/math-linear-algebra-chapter-5-1.zh/</link>
+      <pubDate>Thu, 02 Nov 2017 10:34:30 +0000</pubDate>
+      
+      <guid>https://go.face2ai.com/math/math-linear-algebra-chapter-5-1.zh/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; 本文介绍矩阵的行列式相关性质
+&lt;strong&gt;Keywords:&lt;/strong&gt; Determinants，Properties of the Determinants&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>【线性代数】4-4:正交基和Gram算法(Orthogonal Bases and Gram-Schmidt)</title>
+      <link>https://go.face2ai.com/math/math-linear-algebra-chapter-4-4.zh/</link>
+      <pubDate>Thu, 19 Oct 2017 16:28:54 +0000</pubDate>
+      
+      <guid>https://go.face2ai.com/math/math-linear-algebra-chapter-4-4.zh/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; 通过将正交的向量组合成矩阵探索其中的一些有趣的性质和用途
+&lt;strong&gt;Keywords:&lt;/strong&gt; Orthogonal Matrix Q，Gram-Schmidt Algorithm，QR&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>【线性代数】4-3:最小二乘近似(Least Squares Approximations)</title>
+      <link>https://go.face2ai.com/math/math-linear-algebra-chapter-4-3.zh/</link>
+      <pubDate>Tue, 17 Oct 2017 09:28:50 +0000</pubDate>
+      
+      <guid>https://go.face2ai.com/math/math-linear-algebra-chapter-4-3.zh/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; 从线性代数的角度理解计算最小二乘法，以及解释最小化误差的思想。介绍部分应用，包括曲线拟合等
+&lt;strong&gt;Keywords:&lt;/strong&gt; - Least Squares Approximations,Minimizing the Error,Fitting a Straight Linear&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>【线性代数】4-2:投影(Porjections)</title>
+      <link>https://go.face2ai.com/math/math-linear-algebra-chapter-4-2.zh/</link>
+      <pubDate>Tue, 17 Oct 2017 09:28:46 +0000</pubDate>
+      
+      <guid>https://go.face2ai.com/math/math-linear-algebra-chapter-4-2.zh/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; 本篇主要介绍的就是向量的映射，以映射到直线为引导，重点在于映射到子空间。
+&lt;strong&gt;Keywords:&lt;/strong&gt; Projections，Projection Onto a Subspace&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>【线性代数】4-1:四个正交子空间(Orthogonality of the Four Subspace)</title>
+      <link>https://go.face2ai.com/math/math-linear-algebra-chapter-4-1.zh/</link>
+      <pubDate>Tue, 17 Oct 2017 09:28:42 +0000</pubDate>
+      
+      <guid>https://go.face2ai.com/math/math-linear-algebra-chapter-4-1.zh/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; 本篇介绍正交性，向量正交，矩阵正交，子空间正交
+&lt;strong&gt;Keywords:&lt;/strong&gt; Orthogonality,Four Subspace,Orthogonal Complements,Fundamental Theorem of Linear Algebra ,Combining Bases from Subspaces,Split&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>【线性代数】3-6:四个子空间的维度(Dimensions of the Four Subspaces)</title>
+      <link>https://go.face2ai.com/math/math-linear-algebra-chapter-3-6.zh/</link>
+      <pubDate>Mon, 25 Sep 2017 15:21:01 +0000</pubDate>
+      
+      <guid>https://go.face2ai.com/math/math-linear-algebra-chapter-3-6.zh/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; 四个向量空间的dimensions的一些性质
+&lt;strong&gt;Keywords:&lt;/strong&gt; Dimensions,Four Subspaces&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>【线性代数】3-5:独立性，基和维度(Independence,Basis and Dimension)</title>
+      <link>https://go.face2ai.com/math/math-linear-algebra-chapter-3-5.zh/</link>
+      <pubDate>Mon, 25 Sep 2017 15:20:46 +0000</pubDate>
+      
+      <guid>https://go.face2ai.com/math/math-linear-algebra-chapter-3-5.zh/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; 本文是本章最重要的知识点，也是整个线性代数中非常核心的内容，包括independence ，basis和dimension等多个概念
+&lt;strong&gt;Keywords:&lt;/strong&gt; Independence，Basis，Dimension，Span&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>【线性代数】3-4:方程组的完整解( $Ax=b$ )</title>
+      <link>https://go.face2ai.com/math/math-linear-algebra-chapter-3-4.zh/</link>
+      <pubDate>Mon, 25 Sep 2017 15:20:42 +0000</pubDate>
+      
+      <guid>https://go.face2ai.com/math/math-linear-algebra-chapter-3-4.zh/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Ax=b的完整解，以及一个解，infinity个解，没有解的所有条件和说明
+&lt;strong&gt;Keywords:&lt;/strong&gt; Ax=b,Special Solution,Full Column Rank,Full Row Rank,Complete Solution&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>【线性代数】3-3:秩(Rank)</title>
+      <link>https://go.face2ai.com/math/math-linear-algebra-chapter-3-3.zh/</link>
+      <pubDate>Mon, 25 Sep 2017 15:20:38 +0000</pubDate>
+      
+      <guid>https://go.face2ai.com/math/math-linear-algebra-chapter-3-3.zh/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; 本文将介绍线性代数中最最最重要的概念之一，秩（Rank）
+&lt;strong&gt;Keywords:&lt;/strong&gt; Rank,Row Reduced form,Pivot Columns,Free Columns,Special Solutions&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>【线性代数】3-2:零空间(Nullspace)</title>
+      <link>https://go.face2ai.com/math/math-linear-algebra-chapter-3-2.zh/</link>
+      <pubDate>Tue, 19 Sep 2017 17:40:36 +0000</pubDate>
+      
+      <guid>https://go.face2ai.com/math/math-linear-algebra-chapter-3-2.zh/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; 零空间的相关知识点，使用到前面的消元过程
+&lt;strong&gt;Keywords:&lt;/strong&gt; Nullspace，Pivot Columns，Free Columns，Special Solutions，Ux=0，Rx=0&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>【线性代数】3-1:向量空间(Space of Vectors)</title>
+      <link>https://go.face2ai.com/math/math-linear-algebra-chapter-3-1.zh/</link>
+      <pubDate>Tue, 19 Sep 2017 17:40:30 +0000</pubDate>
+      
+      <guid>https://go.face2ai.com/math/math-linear-algebra-chapter-3-1.zh/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; 本章介绍线性代数的核心内容，关于Vectors Space和subspace的一些观点，本文作为第一篇，主要说明基础知识
+&lt;strong&gt;Keywords:&lt;/strong&gt; 向量空间，子空间，列空间，张成&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>【线性代数】2-7:转置与变换(Transposes and Permutation)</title>
+      <link>https://go.face2ai.com/math/math-linear-algebra-chapter-2-7.zh/</link>
+      <pubDate>Tue, 12 Sep 2017 16:47:01 +0000</pubDate>
+      
+      <guid>https://go.face2ai.com/math/math-linear-algebra-chapter-2-7.zh/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; 矩阵的转置和行变换（permutation），包含一些运算的转置，以及对称概念的提出和相关性质
+&lt;strong&gt;Keywords:&lt;/strong&gt; Transposes,Permutation,Symmetric,Inner Products,R&amp;rsquo;R&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>【线性代数】2-6:三角矩阵( $A=LU$ and $A=LDU$ )</title>
+      <link>https://go.face2ai.com/math/math-linear-algebra-chapter-2-6.zh/</link>
+      <pubDate>Tue, 12 Sep 2017 15:41:12 +0000</pubDate>
+      
+      <guid>https://go.face2ai.com/math/math-linear-algebra-chapter-2-6.zh/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; 如何将矩阵分解成三角矩阵
+&lt;strong&gt;Keywords:&lt;/strong&gt; A=LU,A=LDU,Factorization&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>【线性代数】2-5:矩阵的逆(Inverse)</title>
+      <link>https://go.face2ai.com/math/math-linear-algebra-chapter-2-5.zh/</link>
+      <pubDate>Mon, 11 Sep 2017 20:00:16 +0000</pubDate>
+      
+      <guid>https://go.face2ai.com/math/math-linear-algebra-chapter-2-5.zh/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; 矩阵的“逆”，以及相关计算
+&lt;strong&gt;Keywords:&lt;/strong&gt; Inverse，Singular，Gauss-Jordan&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>【线性代数】2-4:矩阵操作(Matrix Operations)</title>
+      <link>https://go.face2ai.com/math/math-linear-algebra-chapter-2-4.zh/</link>
+      <pubDate>Tue, 05 Sep 2017 17:15:19 +0000</pubDate>
+      
+      <guid>https://go.face2ai.com/math/math-linear-algebra-chapter-2-4.zh/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; 矩阵基本计算，包括加减乘法，主要是乘法的几种不同的理解&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Keywords:&lt;/strong&gt; Addition，Subtraction，Multiplication，Inner Product，Outer Product&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>【线性代数】2-3:消元与矩阵的关系(Elimination and Matrix)</title>
+      <link>https://go.face2ai.com/math/math-linear-algebra-chapter-2-3.zh/</link>
+      <pubDate>Thu, 31 Aug 2017 17:55:10 +0000</pubDate>
+      
+      <guid>https://go.face2ai.com/math/math-linear-algebra-chapter-2-3.zh/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; 用大学的方法消元，也就是整个消元过程矩阵化，引出矩阵乘法
+&lt;strong&gt;Keywords:&lt;/strong&gt; Elimination Matrix，Matrix Multiplication，Augmented Matrix&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>【线性代数】2-2:消元(Eliminate)</title>
+      <link>https://go.face2ai.com/math/math-linear-algebra-chapter-2-2.zh/</link>
+      <pubDate>Thu, 31 Aug 2017 16:14:14 +0000</pubDate>
+      
+      <guid>https://go.face2ai.com/math/math-linear-algebra-chapter-2-2.zh/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; 从小学解方程的消元开始，推导出线性代数的知识，包括先关矩阵计算
+&lt;strong&gt;Keywords:&lt;/strong&gt; Eliminate 消元，Pivot 主元，Row Exchange 行交换，Upper Triangular 上三角矩阵&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>【线性代数】2-1:解方程组(Ax=b)</title>
+      <link>https://go.face2ai.com/math/math-linear-algebra-chapter-2-1.zh/</link>
+      <pubDate>Thu, 31 Aug 2017 15:08:37 +0000</pubDate>
+      
+      <guid>https://go.face2ai.com/math/math-linear-algebra-chapter-2-1.zh/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; 通过不同的角度解方程组$Ax=b$
+&lt;strong&gt;Keywords:&lt;/strong&gt; row picture，column Picture，system of equations&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>【线性代数】1-2:点乘和长度(Dot Products and Length)</title>
+      <link>https://go.face2ai.com/math/math-linear-algebra-chapter-1-2.zh/</link>
+      <pubDate>Mon, 28 Aug 2017 12:12:18 +0000</pubDate>
+      
+      <guid>https://go.face2ai.com/math/math-linear-algebra-chapter-1-2.zh/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; 介绍点乘，length
+&lt;strong&gt;Keywords:&lt;/strong&gt; dot product，length&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>【线性代数】1-1:线性组合(Linear Combinations)</title>
+      <link>https://go.face2ai.com/math/math-linear-algebra-chapter-1-1.zh/</link>
+      <pubDate>Mon, 28 Aug 2017 10:44:28 +0000</pubDate>
+      
+      <guid>https://go.face2ai.com/math/math-linear-algebra-chapter-1-1.zh/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; 线性组合详细说明
+&lt;strong&gt;Keywords:&lt;/strong&gt; Linear Combinations&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>【线性代数】1-0:向量(Vector)</title>
+      <link>https://go.face2ai.com/math/math-linear-algebra-chapter-1-0.zh/</link>
+      <pubDate>Mon, 28 Aug 2017 10:01:20 +0000</pubDate>
+      
+      <guid>https://go.face2ai.com/math/math-linear-algebra-chapter-1-0.zh/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; 本文主要介绍向量和线性组合的相关知识
+&lt;strong&gt;Keywords:&lt;/strong&gt; 向量，线性组合&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>【线性代数】线性代数总览</title>
+      <link>https://go.face2ai.com/math/math-linear_algebra_big_picture.zh/</link>
+      <pubDate>Fri, 18 Aug 2017 16:28:36 +0000</pubDate>
+      
+      <guid>https://go.face2ai.com/math/math-linear_algebra_big_picture.zh/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; 通过学习MIT 18.06课程，总结出的线性代数的知识点相互依赖关系，后续博客将会按照相应的依赖关系进行介绍。
+&lt;strong&gt;Keywords:&lt;/strong&gt; Linear Algebra,Big Picture&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

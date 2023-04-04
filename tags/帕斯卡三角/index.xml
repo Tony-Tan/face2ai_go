@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>帕斯卡三角 on 谭升的博客</title>
+    <link>https://go.face2ai.com/tags/%E5%B8%95%E6%96%AF%E5%8D%A1%E4%B8%89%E8%A7%92/</link>
+    <description>Recent content in 帕斯卡三角 on 谭升的博客</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Mon, 23 Apr 2018 17:23:17 +0000</lastBuildDate><atom:link href="https://go.face2ai.com/tags/%E5%B8%95%E6%96%AF%E5%8D%A1%E4%B8%89%E8%A7%92/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>【数理统计学简史】1.2 分赌本问题</title>
+      <link>https://go.face2ai.com/math/math-statistics-1-2-gambling-problem.zh/</link>
+      <pubDate>Mon, 23 Apr 2018 17:23:17 +0000</pubDate>
+      
+      <guid>https://go.face2ai.com/math/math-statistics-1-2-gambling-problem.zh/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; 本文介绍经典的分赌本问题的历史，和最后得出的解法，为期望的出现做了铺垫
+&lt;strong&gt;Keywords:&lt;/strong&gt; 分赌本问题，二项分布，期望，帕斯卡三角&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

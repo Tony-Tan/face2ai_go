@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>内存管理 on 谭升的博客</title>
+    <link>https://go.face2ai.com/tags/%E5%86%85%E5%AD%98%E7%AE%A1%E7%90%86/</link>
+    <description>Recent content in 内存管理 on 谭升的博客</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Thu, 15 Feb 2018 17:25:38 +0000</lastBuildDate><atom:link href="https://go.face2ai.com/tags/%E5%86%85%E5%AD%98%E7%AE%A1%E7%90%86/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>【CUDA 基础】2.0 CUDA编程模型概述（一）</title>
+      <link>https://go.face2ai.com/%E7%BC%96%E7%A8%8B/cuda/cuda-f-2-0-cuda%E7%BC%96%E7%A8%8B%E6%A8%A1%E5%9E%8B%E6%A6%82%E8%BF%B01.zh/</link>
+      <pubDate>Thu, 15 Feb 2018 17:25:38 +0000</pubDate>
+      
+      <guid>https://go.face2ai.com/%E7%BC%96%E7%A8%8B/cuda/cuda-f-2-0-cuda%E7%BC%96%E7%A8%8B%E6%A8%A1%E5%9E%8B%E6%A6%82%E8%BF%B01.zh/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; 本文介绍CUDA编程模型的简要结构，包括写一个简单的可执行的CUDA程序，一个正确的CUDA核函数，以及相应的调整设置内存，线程来正确的运行程序。
+&lt;strong&gt;Keywords:&lt;/strong&gt; CUDA编程模型，CUDA编程结构，内存管理，线程管理，CUDA核函数，CUDA错误处理&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

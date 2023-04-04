@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>样本集合 on 谭升的博客</title>
+    <link>https://go.face2ai.com/tags/%E6%A0%B7%E6%9C%AC%E9%9B%86%E5%90%88/</link>
+    <description>Recent content in 样本集合 on 谭升的博客</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Tue, 14 Nov 2017 12:30:14 +0000</lastBuildDate><atom:link href="https://go.face2ai.com/tags/%E6%A0%B7%E6%9C%AC%E9%9B%86%E5%90%88/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>【集合论】 样本集合</title>
+      <link>https://go.face2ai.com/math/math-set-theory-1-sample-sets.zh/</link>
+      <pubDate>Tue, 14 Nov 2017 12:30:14 +0000</pubDate>
+      
+      <guid>https://go.face2ai.com/math/math-set-theory-1-sample-sets.zh/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; 集合论基础知识,样本集合
+&lt;strong&gt;Keywords:&lt;/strong&gt; Sample set&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

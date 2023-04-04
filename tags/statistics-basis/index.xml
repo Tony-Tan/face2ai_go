@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Statistics Basis on 谭升的博客</title>
+    <link>https://go.face2ai.com/tags/statistics-basis/</link>
+    <description>Recent content in Statistics Basis on 谭升的博客</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Thu, 24 May 2018 13:58:55 +0000</lastBuildDate><atom:link href="https://go.face2ai.com/tags/statistics-basis/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>【数理统计理论基础】 概览</title>
+      <link>https://go.face2ai.com/math/math-statistics-basis-0-0-big-picture.zh/</link>
+      <pubDate>Thu, 24 May 2018 13:58:55 +0000</pubDate>
+      
+      <guid>https://go.face2ai.com/math/math-statistics-basis-0-0-big-picture.zh/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; 本文为数理统计理论基础的第一篇，作为概览，从总体介绍数理统计系列的学习线路和相关博客写作的大体思路
+&lt;strong&gt;Keywords:&lt;/strong&gt; 统计学基础，数理统计学基础&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>markdown on 谭升的博客</title>
+    <link>https://go.face2ai.com/tags/markdown/</link>
+    <description>Recent content in markdown on 谭升的博客</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Thu, 24 Aug 2017 22:24:52 +0000</lastBuildDate><atom:link href="https://go.face2ai.com/tags/markdown/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>用atom&#43;markdown&#43;hexo&#43;github写博客</title>
+      <link>https://go.face2ai.com/%E5%85%B6%E4%BB%96/other-%E7%94%A8atom-markdown-hexo-github%E5%86%99%E5%8D%9A%E5%AE%A2.zh/</link>
+      <pubDate>Thu, 24 Aug 2017 22:24:52 +0000</pubDate>
+      
+      <guid>https://go.face2ai.com/%E5%85%B6%E4%BB%96/other-%E7%94%A8atom-markdown-hexo-github%E5%86%99%E5%8D%9A%E5%AE%A2.zh/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;：本文推荐一些小插件，和小技巧，目的是快速的完成自己的博客，博客的主要目的是传递经验和思想，这就和观赏性网站有了区别，不需要华丽，简洁，清楚的风格更适合技术人员。
+&lt;strong&gt;Keywords&lt;/strong&gt;：LaTeX，Markdown，Hexo，Atom&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

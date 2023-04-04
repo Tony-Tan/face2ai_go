@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>随机变量的全概率公式 on 谭升的博客</title>
+    <link>https://go.face2ai.com/tags/%E9%9A%8F%E6%9C%BA%E5%8F%98%E9%87%8F%E7%9A%84%E5%85%A8%E6%A6%82%E7%8E%87%E5%85%AC%E5%BC%8F/</link>
+    <description>Recent content in 随机变量的全概率公式 on 谭升的博客</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Mon, 12 Mar 2018 09:06:00 +0000</lastBuildDate><atom:link href="https://go.face2ai.com/tags/%E9%9A%8F%E6%9C%BA%E5%8F%98%E9%87%8F%E7%9A%84%E5%85%A8%E6%A6%82%E7%8E%87%E5%85%AC%E5%BC%8F/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>【概率论】3-6:条件分布(Conditional Distributions Part II）</title>
+      <link>https://go.face2ai.com/math/math-probability-3-6-conditional-distributions-p2.zh/</link>
+      <pubDate>Mon, 12 Mar 2018 09:06:00 +0000</pubDate>
+      
+      <guid>https://go.face2ai.com/math/math-probability-3-6-conditional-distributions-p2.zh/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; 本文介绍联合分布的构建，也就是条件分布部分的扩展和应用
+&lt;strong&gt;Keywords:&lt;/strong&gt; 乘法法则，贝叶斯定理，随机变量的全概率公式&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

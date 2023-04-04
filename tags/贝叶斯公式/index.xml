@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>贝叶斯公式 on 谭升的博客</title>
+    <link>https://go.face2ai.com/tags/%E8%B4%9D%E5%8F%B6%E6%96%AF%E5%85%AC%E5%BC%8F/</link>
+    <description>Recent content in 贝叶斯公式 on 谭升的博客</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Fri, 02 Feb 2018 10:10:45 +0000</lastBuildDate><atom:link href="https://go.face2ai.com/tags/%E8%B4%9D%E5%8F%B6%E6%96%AF%E5%85%AC%E5%BC%8F/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>【概率论】2-3:贝叶斯定理(Bayes&#39; Theorem)</title>
+      <link>https://go.face2ai.com/math/math-probability-2-3-bayes-teorem.zh/</link>
+      <pubDate>Fri, 02 Feb 2018 10:10:45 +0000</pubDate>
+      
+      <guid>https://go.face2ai.com/math/math-probability-2-3-bayes-teorem.zh/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; 本文是关于Bayes&amp;rsquo; Theorem 的介绍性知识
+&lt;strong&gt;Keywords:&lt;/strong&gt; Bayes&amp;rsquo; Theorem，Law of total Probability&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
