@@ -20,5 +20,5 @@ jobs:
           githubToken: ${{ secrets.ACTIONS_TOKEN }}
           branch: main
           hugoVersion: 'extended_0.97.0'
-          cname: https://anthony-tan.com/face2ai_go
+          cname: https://go.face2ai.com
           repo: Tony-Tan/face2ai_go

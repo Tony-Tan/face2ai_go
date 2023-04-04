@@ -1,4 +1,4 @@
-baseURL: "https://anthony-tan.com/face2ai_hugo/" # if your site is in 'https', then make sure your base url isn't written using 'http' otherwise your sitemap would contain http (as opposeed to https) URLs. This would affect Google indexing of your URLs.
+baseURL: "https://go.face2ai.com" # if your site is in 'https', then make sure your base url isn't written using 'http' otherwise your sitemap would contain http (as opposeed to https) URLs. This would affect Google indexing of your URLs.
 title: 谭升的博客
 paginate: 10
 theme: PaperMod
